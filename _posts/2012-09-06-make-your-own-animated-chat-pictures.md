@@ -1,0 +1,51 @@
+---
+id: 294
+title: 'Make your own animated chat-pictures!'
+date: '2012-09-06T05:46:57+00:00'
+author: turbolego
+layout: post
+guid: 'http://turbolego.com/?p=294'
+permalink: /make-your-own-animated-chat-pictures/
+categories:
+    - 'Chat Codes'
+tags:
+    - animated
+    - chat
+    - code
+    - codes
+    - emoticons
+    - facebook
+    - firefox
+    - gif
+    - google
+    - 'google chrome'
+    - 'Mohamed Mahmoud'
+    - pictures
+    - small
+    - smiley
+    - smileys
+    - turboelgo
+    - turbolego
+    - turbolego.com/L.txt
+---
+
+![](https://turbolego.com/wp-content/uploads/2012/09/Screen-Shot-2012-09-06-at-7.38.16-AM-300x260.png "Screen Shot 2012-09-06 at 7.38.16 AM")
+
+[Mohamed Mahmoud](http://www.facebook.com/mohamed408 "http://www.facebook.com/mohamed408") is still finding new tricks, and now he has found a way to make new animated pictures that can be sent trough the “share” button to facebook chat!
+
+This is how you do it:
+
+1\. Go to [http://www.facebook.com/notes.php](http://www.facebook.com/notes.php "http://www.facebook.com/notes.php")
+
+2\. Click the “Write a Note” button.
+
+3\. Type in this code, replace the “https://turbolego.com/ugh.gif” with your own animated picture, duh’:
+
+&lt;img src=”https://turbolego.com/ugh.gif”/&gt;
+
+4\. Click the “Publish” button  
+5\. Click the “share” button on your note, and choose “In a private Message”
+
+![](https://turbolego.com/wp-content/uploads/2012/09/Screen-Shot-2012-09-06-at-7.39.53-AM-300x266.png "Screen Shot 2012-09-06 at 7.39.53 AM")[![](https://turbolego.com/wp-content/uploads/2012/09/Screen-Shot-2012-09-06-at-7.39.46-AM.png "Screen Shot 2012-09-06 at 7.39.46 AM")](https://turbolego.com/wp-content/uploads/2012/09/Screen-Shot-2012-09-06-at-7.39.46-AM.png)
+
+Here’s the “ugh” note if you want to test it out: [http://www.facebook.com/notes/tobias-andersen/ugh/10151018053586954](http://www.facebook.com/notes/tobias-andersen/ugh/10151018053586954 "http://www.facebook.com/notes/tobias-andersen/ugh/10151018053586954")
