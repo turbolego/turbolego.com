@@ -9,8 +9,8 @@
 
 <channel>
 	<title>tampermonkey &#8211; The Chat Codes Blog</title>
-	<atom:link href="/tag/tampermonkey/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="https://turbolego.github.io/turbolego.com//tag/tampermonkey/feed/" rel="self" type="application/rss+xml" />
+	<link>https://turbolego.github.io/turbolego.com/</link>
 	<description>For all that is chat related.</description>
 	<lastBuildDate>Thu, 31 Jan 2013 21:54:27 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	<generator>https://wordpress.org/?v=6.6.1</generator>
 	<item>
 		<title>Extension update and faster installation for Google Chrome!</title>
-		<link>/extension-update-and-faster-installation-for-google-chrome/</link>
-					<comments>/extension-update-and-faster-installation-for-google-chrome/#respond</comments>
+		<link>https://turbolego.github.io/turbolego.com//extension-update-and-faster-installation-for-google-chrome/</link>
+					<comments>https://turbolego.github.io/turbolego.com//extension-update-and-faster-installation-for-google-chrome/#respond</comments>
 		
 		<dc:creator><![CDATA[turbolego]]></dc:creator>
 		<pubDate>Thu, 31 Jan 2013 21:42:47 +0000</pubDate>
@@ -50,17 +50,17 @@
 		<category><![CDATA[turbolego]]></category>
 		<category><![CDATA[update]]></category>
 		<category><![CDATA[userscripts]]></category>
-		<guid isPermaLink="false">/?p=394</guid>
+		<guid isPermaLink="false">https://turbolego.github.io/turbolego.com//?p=394</guid>
 
-					<description><![CDATA[Mohamed Mahmoud has made an updated version of his extension, and made a new and faster and easier installation guide for google chrome with the new Tampermonkey extension! I installed the new extension by Mohamed on google chrome in under &#8230; <a href="/extension-update-and-faster-installation-for-google-chrome/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
-										<content:encoded><![CDATA[<p><a href="/wp-content/uploads/2013/01/Screen-Shot-2013-01-31-at-8.40.55-PM.png"><img fetchpriority="high" decoding="async" class="alignright size-full wp-image-395" alt="Screen Shot 2013-01-31 at 8.40.55 PM" src="/wp-content/uploads/2013/01/Screen-Shot-2013-01-31-at-8.40.55-PM.png" width="260" height="283" /></a>Mohamed Mahmoud has made an updated version of his extension, and made a new and faster and easier installation guide for google chrome with the new Tampermonkey extension!</p>
+					<description><![CDATA[Mohamed Mahmoud has made an updated version of his extension, and made a new and faster and easier installation guide for google chrome with the new Tampermonkey extension! I installed the new extension by Mohamed on google chrome in under &#8230; <a href="https://turbolego.github.io/turbolego.com//extension-update-and-faster-installation-for-google-chrome/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[<p><a href="https://turbolego.github.io/turbolego.com//wp-content/uploads/2013/01/Screen-Shot-2013-01-31-at-8.40.55-PM.png"><img fetchpriority="high" decoding="async" class="alignright size-full wp-image-395" alt="Screen Shot 2013-01-31 at 8.40.55 PM" src="https://turbolego.github.io/turbolego.com//wp-content/uploads/2013/01/Screen-Shot-2013-01-31-at-8.40.55-PM.png" width="260" height="283" /></a>Mohamed Mahmoud has made an updated version of his extension, and made a new and faster and easier installation guide for google chrome with the new Tampermonkey extension!</p>
 <p>I installed the new extension by Mohamed on google chrome in under 1 minute with just a couple clicks!</p>
 <p>Firefox users still have to use Greasemonkey.</p>
 <p>Check out Mohamed&#8217;s blog for installation guide: <a title="http://press-share.blogspot.no/2013/01/facebook-chat-emoticons-by-mohamed.html" href="http://press-share.blogspot.no/2013/01/facebook-chat-emoticons-by-mohamed.html" target="_blank">http://press-share.blogspot.no/2013/01/facebook-chat-emoticons-by-mohamed.html</a></p>
 <p>If you already have Tampermonkey/Greasemonkey, go here to install the script: <a title="http://userscripts.org/scripts/show/140346" href="http://userscripts.org/scripts/show/140346" target="_blank">http://userscripts.org/scripts/show/140346</a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/extension-update-and-faster-installation-for-google-chrome/feed/</wfw:commentRss>
+					<wfw:commentRss>https://turbolego.github.io/turbolego.com//extension-update-and-faster-installation-for-google-chrome/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

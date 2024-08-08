@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: New Extension!	</title>
-	<atom:link href="/new-extension-2/feed/" rel="self" type="application/rss+xml" />
-	<link>/new-extension-2/</link>
+	<atom:link href="https://turbolego.github.io/turbolego.com//new-extension-2/feed/" rel="self" type="application/rss+xml" />
+	<link>https://turbolego.github.io/turbolego.com//new-extension-2/</link>
 	<description>For all that is chat related.</description>
 	<lastBuildDate>Sun, 26 May 2013 09:08:49 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,11 +20,11 @@
 	<item>
 		<title>
 		By: Carmen		</title>
-		<link>/new-extension-2/#comment-6417</link>
+		<link>https://turbolego.github.io/turbolego.com//new-extension-2/#comment-6417</link>
 
 		<dc:creator><![CDATA[Carmen]]></dc:creator>
 		<pubDate>Sun, 26 May 2013 09:08:49 +0000</pubDate>
-		<guid isPermaLink="false">/?p=339#comment-6417</guid>
+		<guid isPermaLink="false">https://turbolego.github.io/turbolego.com//?p=339#comment-6417</guid>
 
 					<description><![CDATA[super]]></description>
 			<content:encoded><![CDATA[<p>super</p>
@@ -34,11 +34,11 @@
 		<item>
 		<title>
 		By: claudeberry		</title>
-		<link>/new-extension-2/#comment-3295</link>
+		<link>https://turbolego.github.io/turbolego.com//new-extension-2/#comment-3295</link>
 
 		<dc:creator><![CDATA[claudeberry]]></dc:creator>
 		<pubDate>Fri, 01 Feb 2013 07:55:19 +0000</pubDate>
-		<guid isPermaLink="false">/?p=339#comment-3295</guid>
+		<guid isPermaLink="false">https://turbolego.github.io/turbolego.com//?p=339#comment-3295</guid>
 
 					<description><![CDATA[ang pogi ko]]></description>
 			<content:encoded><![CDATA[<p>ang pogi ko</p>
@@ -48,11 +48,11 @@
 		<item>
 		<title>
 		By: Ammar Amsyar		</title>
-		<link>/new-extension-2/#comment-1384</link>
+		<link>https://turbolego.github.io/turbolego.com//new-extension-2/#comment-1384</link>
 
 		<dc:creator><![CDATA[Ammar Amsyar]]></dc:creator>
 		<pubDate>Sat, 01 Dec 2012 04:53:03 +0000</pubDate>
-		<guid isPermaLink="false">/?p=339#comment-1384</guid>
+		<guid isPermaLink="false">https://turbolego.github.io/turbolego.com//?p=339#comment-1384</guid>
 
 					<description><![CDATA[play  park]]></description>
 			<content:encoded><![CDATA[<p>play  park</p>

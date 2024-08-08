@@ -9,8 +9,8 @@
 
 <channel>
 	<title>plus &#8211; The Chat Codes Blog</title>
-	<atom:link href="/tag/plus/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="https://turbolego.github.io/turbolego.com//tag/plus/feed/" rel="self" type="application/rss+xml" />
+	<link>https://turbolego.github.io/turbolego.com/</link>
 	<description>For all that is chat related.</description>
 	<lastBuildDate>Wed, 19 Dec 2012 02:13:12 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	<generator>https://wordpress.org/?v=6.6.1</generator>
 	<item>
 		<title>ChatCodes in the google plus chat!</title>
-		<link>/chatcodes-in-the-google-plus-chat/</link>
-					<comments>/chatcodes-in-the-google-plus-chat/#respond</comments>
+		<link>https://turbolego.github.io/turbolego.com//chatcodes-in-the-google-plus-chat/</link>
+					<comments>https://turbolego.github.io/turbolego.com//chatcodes-in-the-google-plus-chat/#respond</comments>
 		
 		<dc:creator><![CDATA[turbolego]]></dc:creator>
 		<pubDate>Wed, 19 Dec 2012 01:54:46 +0000</pubDate>
@@ -49,12 +49,12 @@
 		<category><![CDATA[smileys]]></category>
 		<category><![CDATA[turboelgo]]></category>
 		<category><![CDATA[turbolego]]></category>
-		<guid isPermaLink="false">/?p=367</guid>
+		<guid isPermaLink="false">https://turbolego.github.io/turbolego.com//?p=367</guid>
 
-					<description><![CDATA[Alright, so this is my first attempt to get chatcodes to work in the google plus chat, and i think i&#8217;m on to something! First off, i checked the dimentions of the chat-window, since i don&#8217;t want to make gigantic &#8230; <a href="/chatcodes-in-the-google-plus-chat/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+					<description><![CDATA[Alright, so this is my first attempt to get chatcodes to work in the google plus chat, and i think i&#8217;m on to something! First off, i checked the dimentions of the chat-window, since i don&#8217;t want to make gigantic &#8230; <a href="https://turbolego.github.io/turbolego.com//chatcodes-in-the-google-plus-chat/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
 										<content:encoded><![CDATA[<p>Alright, so this is my first attempt to get chatcodes to work in the google plus chat, and i think i&#8217;m on to something!</p>
 <p>First off, i checked the dimentions of the chat-window, since i don&#8217;t want to make gigantic chatcodes where the user(s) have to expand the window to see the code.</p>
-<p><a href="/chatcodes-in-the-google-plus-chat/screen-shot-2012-12-19-at-12-38-06-am/" rel="attachment wp-att-368"><img fetchpriority="high" decoding="async" class="alignright size-medium wp-image-368" alt="Screen Shot 2012-12-19 at 12.38.06 AM" src="/wp-content/uploads/2012/12/Screen-Shot-2012-12-19-at-12.38.06-AM-170x300.png" width="170" height="300" srcset="/wp-content/uploads/2012/12/Screen-Shot-2012-12-19-at-12.38.06-AM-170x300.png 170w, /wp-content/uploads/2012/12/Screen-Shot-2012-12-19-at-12.38.06-AM.png 179w" sizes="(max-width: 170px) 100vw, 170px" /></a>These are the max-dimentions i found:</p>
+<p><a href="https://turbolego.github.io/turbolego.com//chatcodes-in-the-google-plus-chat/screen-shot-2012-12-19-at-12-38-06-am/" rel="attachment wp-att-368"><img fetchpriority="high" decoding="async" class="alignright size-medium wp-image-368" alt="Screen Shot 2012-12-19 at 12.38.06 AM" src="https://turbolego.github.io/turbolego.com//wp-content/uploads/2012/12/Screen-Shot-2012-12-19-at-12.38.06-AM-170x300.png" width="170" height="300" srcset="https://turbolego.github.io/turbolego.com//wp-content/uploads/2012/12/Screen-Shot-2012-12-19-at-12.38.06-AM-170x300.png 170w, https://turbolego.github.io/turbolego.com//wp-content/uploads/2012/12/Screen-Shot-2012-12-19-at-12.38.06-AM.png 179w" sizes="(max-width: 170px) 100vw, 170px" /></a>These are the max-dimentions i found:</p>
 <p>Width:</p>
 <p>,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 38 commas<br />
 _____________________ 21 underscores<br />
@@ -63,13 +63,13 @@ aaaaaaaaaaaaaaaaaaaa 22 letters (lower-case)<br />
 BBBBBBBBBBBBBBBB 17 letters (Upper-case)</p>
 <p>Height:</p>
 <p>10 letters/symbols/numbers (anything)</p>
-<p><a href="/chatcodes-in-the-google-plus-chat/screen-shot-2012-12-19-at-2-04-33-am/" rel="attachment wp-att-369"><img decoding="async" class="alignright size-medium wp-image-369" alt="Screen Shot 2012-12-19 at 2.04.33 AM" src="/wp-content/uploads/2012/12/Screen-Shot-2012-12-19-at-2.04.33-AM-300x159.png" width="300" height="159" srcset="/wp-content/uploads/2012/12/Screen-Shot-2012-12-19-at-2.04.33-AM-300x159.png 300w, /wp-content/uploads/2012/12/Screen-Shot-2012-12-19-at-2.04.33-AM.png 442w" sizes="(max-width: 300px) 100vw, 300px" /></a>If you post a new message to someone, the default size is f.ex. 17 upper-case letters in width and 10 letters in height, so this was my target size. Then, i looked for some ascii-art generators, and found this one: <a title="http://www.degraeve.com/img2txt.php" href="http://www.degraeve.com/img2txt.php" target="_blank">http://www.degraeve.com/img2txt.php</a></p>
+<p><a href="https://turbolego.github.io/turbolego.com//chatcodes-in-the-google-plus-chat/screen-shot-2012-12-19-at-2-04-33-am/" rel="attachment wp-att-369"><img decoding="async" class="alignright size-medium wp-image-369" alt="Screen Shot 2012-12-19 at 2.04.33 AM" src="https://turbolego.github.io/turbolego.com//wp-content/uploads/2012/12/Screen-Shot-2012-12-19-at-2.04.33-AM-300x159.png" width="300" height="159" srcset="https://turbolego.github.io/turbolego.com//wp-content/uploads/2012/12/Screen-Shot-2012-12-19-at-2.04.33-AM-300x159.png 300w, https://turbolego.github.io/turbolego.com//wp-content/uploads/2012/12/Screen-Shot-2012-12-19-at-2.04.33-AM.png 442w" sizes="(max-width: 300px) 100vw, 300px" /></a>If you post a new message to someone, the default size is f.ex. 17 upper-case letters in width and 10 letters in height, so this was my target size. Then, i looked for some ascii-art generators, and found this one: <a title="http://www.degraeve.com/img2txt.php" href="http://www.degraeve.com/img2txt.php" target="_blank">http://www.degraeve.com/img2txt.php</a></p>
 <p>&nbsp;</p>
-<p><a href="/chatcodes-in-the-google-plus-chat/screen-shot-2012-12-19-at-2-22-33-am-2/" rel="attachment wp-att-371"><img decoding="async" class="alignright size-medium wp-image-371" alt="Screen Shot 2012-12-19 at 2.22.33 AM" src="/wp-content/uploads/2012/12/Screen-Shot-2012-12-19-at-2.22.33-AM1-300x246.png" width="300" height="246" srcset="/wp-content/uploads/2012/12/Screen-Shot-2012-12-19-at-2.22.33-AM1-300x246.png 300w, /wp-content/uploads/2012/12/Screen-Shot-2012-12-19-at-2.22.33-AM1.png 542w" sizes="(max-width: 300px) 100vw, 300px" /></a>Using one letter and color-html, i was able to make a ascii-art version of the &#8220;awesome smiley&#8221; picture. Then, i checked out what kind of formatting the google plus chat could provide, and found that if you typed:</p>
+<p><a href="https://turbolego.github.io/turbolego.com//chatcodes-in-the-google-plus-chat/screen-shot-2012-12-19-at-2-22-33-am-2/" rel="attachment wp-att-371"><img decoding="async" class="alignright size-medium wp-image-371" alt="Screen Shot 2012-12-19 at 2.22.33 AM" src="https://turbolego.github.io/turbolego.com//wp-content/uploads/2012/12/Screen-Shot-2012-12-19-at-2.22.33-AM1-300x246.png" width="300" height="246" srcset="https://turbolego.github.io/turbolego.com//wp-content/uploads/2012/12/Screen-Shot-2012-12-19-at-2.22.33-AM1-300x246.png 300w, https://turbolego.github.io/turbolego.com//wp-content/uploads/2012/12/Screen-Shot-2012-12-19-at-2.22.33-AM1.png 542w" sizes="(max-width: 300px) 100vw, 300px" /></a>Using one letter and color-html, i was able to make a ascii-art version of the &#8220;awesome smiley&#8221; picture. Then, i checked out what kind of formatting the google plus chat could provide, and found that if you typed:</p>
 <p>*something here* = <strong>something here</strong></p>
 <p>_something here_ =<em> something here</em></p>
 <p>-something here- = <del>something here</del></p>
-<p><a href="/chatcodes-in-the-google-plus-chat/screen-shot-2012-12-19-at-2-27-00-am/" rel="attachment wp-att-372"><img loading="lazy" decoding="async" class="alignright size-medium wp-image-372" alt="Screen Shot 2012-12-19 at 2.27.00 AM" src="/wp-content/uploads/2012/12/Screen-Shot-2012-12-19-at-2.27.00-AM-300x220.png" width="300" height="220" srcset="/wp-content/uploads/2012/12/Screen-Shot-2012-12-19-at-2.27.00-AM-300x220.png 300w, /wp-content/uploads/2012/12/Screen-Shot-2012-12-19-at-2.27.00-AM.png 475w" sizes="(max-width: 300px) 100vw, 300px" /></a>So, i then went in my favorite text-editor, pasted in the colorised html code, and gave the text a light background so that i could see what i was doing. Then, i added &#8220;*&#8221;, &#8220;-&#8221; or &#8220;_&#8221; depending on the color. This is the first code i came up with:</p>
+<p><a href="https://turbolego.github.io/turbolego.com//chatcodes-in-the-google-plus-chat/screen-shot-2012-12-19-at-2-27-00-am/" rel="attachment wp-att-372"><img loading="lazy" decoding="async" class="alignright size-medium wp-image-372" alt="Screen Shot 2012-12-19 at 2.27.00 AM" src="https://turbolego.github.io/turbolego.com//wp-content/uploads/2012/12/Screen-Shot-2012-12-19-at-2.27.00-AM-300x220.png" width="300" height="220" srcset="https://turbolego.github.io/turbolego.com//wp-content/uploads/2012/12/Screen-Shot-2012-12-19-at-2.27.00-AM-300x220.png 300w, https://turbolego.github.io/turbolego.com//wp-content/uploads/2012/12/Screen-Shot-2012-12-19-at-2.27.00-AM.png 475w" sizes="(max-width: 300px) 100vw, 300px" /></a>So, i then went in my favorite text-editor, pasted in the colorised html code, and gave the text a light background so that i could see what i was doing. Then, i added &#8220;*&#8221;, &#8220;-&#8221; or &#8220;_&#8221; depending on the color. This is the first code i came up with:</p>
 <h6></h6>
 <h6></h6>
 <h6>-AAAAAA-*AAAAA*-AAAAAA-<br />
@@ -90,7 +90,7 @@ BBBBBBBBBBBBBBBB 17 letters (Upper-case)</p>
 -AAAA-*A*_AAAAAAA_*A*-AAAA-<br />
 -AAAAAA-*AAAAA*-AAAAAA-</h6>
 <p>This code looked like crap, so i decided to change the letter &#8220;A&#8221; to something else&#8230;</p>
-<p><img loading="lazy" decoding="async" class="alignright size-medium wp-image-375" style="line-height: 24px; font-size: 16px;" alt="Screen Shot 2012-12-19 at 2.30.55 AM" src="/wp-content/uploads/2012/12/Screen-Shot-2012-12-19-at-2.30.55-AM-174x300.png" width="174" height="300" srcset="/wp-content/uploads/2012/12/Screen-Shot-2012-12-19-at-2.30.55-AM-174x300.png 174w, /wp-content/uploads/2012/12/Screen-Shot-2012-12-19-at-2.30.55-AM.png 234w" sizes="(max-width: 174px) 100vw, 174px" /></p>
+<p><img loading="lazy" decoding="async" class="alignright size-medium wp-image-375" style="line-height: 24px; font-size: 16px;" alt="Screen Shot 2012-12-19 at 2.30.55 AM" src="https://turbolego.github.io/turbolego.com//wp-content/uploads/2012/12/Screen-Shot-2012-12-19-at-2.30.55-AM-174x300.png" width="174" height="300" srcset="https://turbolego.github.io/turbolego.com//wp-content/uploads/2012/12/Screen-Shot-2012-12-19-at-2.30.55-AM-174x300.png 174w, https://turbolego.github.io/turbolego.com//wp-content/uploads/2012/12/Screen-Shot-2012-12-19-at-2.30.55-AM.png 234w" sizes="(max-width: 174px) 100vw, 174px" /></p>
 <h6>-[][][][][][]-*[][][][][]*-[][][][][][]-<br />
 -[][][][]-*[]*_[][][][][][][]_*[]*-[][][][]-<br />
 -[][]-*[][]*_[][][][][][][][][]_*[][]*-[][]-<br />
@@ -110,7 +110,7 @@ BBBBBBBBBBBBBBBB 17 letters (Upper-case)</p>
 -[][][][][][]-*[][][][][]*-[][][][][][]-</h6>
 <p>&nbsp;</p>
 <p>This is the best so far, and takes up a little less space than the upper-case letter &#8220;A&#8221; (max 17 letters wide). So i made another version, 22 letters wide:</p>
-<p><a href="/chatcodes-in-the-google-plus-chat/screen-shot-2012-12-19-at-2-36-03-am/" rel="attachment wp-att-376"><img loading="lazy" decoding="async" class="alignright size-medium wp-image-376" alt="Screen Shot 2012-12-19 at 2.36.03 AM" src="/wp-content/uploads/2012/12/Screen-Shot-2012-12-19-at-2.36.03-AM-146x300.png" width="146" height="300" srcset="/wp-content/uploads/2012/12/Screen-Shot-2012-12-19-at-2.36.03-AM-146x300.png 146w, /wp-content/uploads/2012/12/Screen-Shot-2012-12-19-at-2.36.03-AM.png 233w" sizes="(max-width: 146px) 100vw, 146px" /></a></p>
+<p><a href="https://turbolego.github.io/turbolego.com//chatcodes-in-the-google-plus-chat/screen-shot-2012-12-19-at-2-36-03-am/" rel="attachment wp-att-376"><img loading="lazy" decoding="async" class="alignright size-medium wp-image-376" alt="Screen Shot 2012-12-19 at 2.36.03 AM" src="https://turbolego.github.io/turbolego.com//wp-content/uploads/2012/12/Screen-Shot-2012-12-19-at-2.36.03-AM-146x300.png" width="146" height="300" srcset="https://turbolego.github.io/turbolego.com//wp-content/uploads/2012/12/Screen-Shot-2012-12-19-at-2.36.03-AM-146x300.png 146w, https://turbolego.github.io/turbolego.com//wp-content/uploads/2012/12/Screen-Shot-2012-12-19-at-2.36.03-AM.png 233w" sizes="(max-width: 146px) 100vw, 146px" /></a></p>
 <h6>-[][][][][][][][]-*[][][][][][]*-[][][][][][][][]-<br />
 -[][][][][]-*[][][]*_[][][][][][]_*[][][]*-[][][][][]-<br />
 -[][][][]-*[][]*_[][][][][][][][][][]_*[][]*-[][][][]-<br />
@@ -133,10 +133,10 @@ BBBBBBBBBBBBBBBB 17 letters (Upper-case)</p>
 -[][][][]-*[][]*_[][]_*[][][][][]*_[][][]_*[][]*-[][][][]-<br />
 -[][][][][]-*[][][]*_[][][][][][]_*[][][]*-[][][][][]-<br />
 -[][][][][][][][]-*[][][][][][]*-[][][][][][][][]-</h6>
-<p><a href="/chatcodes-in-the-google-plus-chat/screen-shot-2012-12-19-at-2-39-33-am/" rel="attachment wp-att-377"><img loading="lazy" decoding="async" class="alignright size-medium wp-image-377" alt="Screen Shot 2012-12-19 at 2.39.33 AM" src="/wp-content/uploads/2012/12/Screen-Shot-2012-12-19-at-2.39.33-AM-300x131.png" width="300" height="131" srcset="/wp-content/uploads/2012/12/Screen-Shot-2012-12-19-at-2.39.33-AM-300x131.png 300w, /wp-content/uploads/2012/12/Screen-Shot-2012-12-19-at-2.39.33-AM.png 435w" sizes="(max-width: 300px) 100vw, 300px" /></a>This is the last attempti&#8217;ve made so far, and could be the beginning of chatcodes on google plus in 3 &#8220;colors&#8221;. After further inspection, i found that the max length of &#8220;[]&#8221; is 25. Meaning you can take any picture to <a title="http://www.degraeve.com/img2txt.php" href="http://www.degraeve.com/img2txt.php" target="_blank">http://www.degraeve.com/img2txt.php</a>, select the settings in the picture to the right, then, copy the ascii-code into a text-editor that can handle html-color (like TextEdit on mac) and add &#8220;*&#8221;, &#8220;_&#8221; or &#8220;-&#8221; around the text of different colors&#8230;</p>
+<p><a href="https://turbolego.github.io/turbolego.com//chatcodes-in-the-google-plus-chat/screen-shot-2012-12-19-at-2-39-33-am/" rel="attachment wp-att-377"><img loading="lazy" decoding="async" class="alignright size-medium wp-image-377" alt="Screen Shot 2012-12-19 at 2.39.33 AM" src="https://turbolego.github.io/turbolego.com//wp-content/uploads/2012/12/Screen-Shot-2012-12-19-at-2.39.33-AM-300x131.png" width="300" height="131" srcset="https://turbolego.github.io/turbolego.com//wp-content/uploads/2012/12/Screen-Shot-2012-12-19-at-2.39.33-AM-300x131.png 300w, https://turbolego.github.io/turbolego.com//wp-content/uploads/2012/12/Screen-Shot-2012-12-19-at-2.39.33-AM.png 435w" sizes="(max-width: 300px) 100vw, 300px" /></a>This is the last attempti&#8217;ve made so far, and could be the beginning of chatcodes on google plus in 3 &#8220;colors&#8221;. After further inspection, i found that the max length of &#8220;[]&#8221; is 25. Meaning you can take any picture to <a title="http://www.degraeve.com/img2txt.php" href="http://www.degraeve.com/img2txt.php" target="_blank">http://www.degraeve.com/img2txt.php</a>, select the settings in the picture to the right, then, copy the ascii-code into a text-editor that can handle html-color (like TextEdit on mac) and add &#8220;*&#8221;, &#8220;_&#8221; or &#8220;-&#8221; around the text of different colors&#8230;</p>
 <p>This is the largest &#8220;awesome smiley&#8221; google plus chatcode i&#8217;ve made so far, have fun posting it around, and have fun making more of these!</p>
 <p>If you make a code, please post it in the ChatCodes group on google plus: <a title="http://gplus.to/ChatCodes" href="http://gplus.to/ChatCodes" target="_blank">http://gplus.to/ChatCodes</a></p>
-<h6><a href="/chatcodes-in-the-google-plus-chat/screen-shot-2012-12-19-at-2-49-45-am/" rel="attachment wp-att-378"><img loading="lazy" decoding="async" class="alignright size-medium wp-image-378" alt="Screen Shot 2012-12-19 at 2.49.45 AM" src="/wp-content/uploads/2012/12/Screen-Shot-2012-12-19-at-2.49.45-AM-126x300.png" width="126" height="300" srcset="/wp-content/uploads/2012/12/Screen-Shot-2012-12-19-at-2.49.45-AM-126x300.png 126w, /wp-content/uploads/2012/12/Screen-Shot-2012-12-19-at-2.49.45-AM.png 228w" sizes="(max-width: 126px) 100vw, 126px" /></a>-[][][][][][][][][]-*[][][][][][][]*-[][][][][][][][][]-<br />
+<h6><a href="https://turbolego.github.io/turbolego.com//chatcodes-in-the-google-plus-chat/screen-shot-2012-12-19-at-2-49-45-am/" rel="attachment wp-att-378"><img loading="lazy" decoding="async" class="alignright size-medium wp-image-378" alt="Screen Shot 2012-12-19 at 2.49.45 AM" src="https://turbolego.github.io/turbolego.com//wp-content/uploads/2012/12/Screen-Shot-2012-12-19-at-2.49.45-AM-126x300.png" width="126" height="300" srcset="https://turbolego.github.io/turbolego.com//wp-content/uploads/2012/12/Screen-Shot-2012-12-19-at-2.49.45-AM-126x300.png 126w, https://turbolego.github.io/turbolego.com//wp-content/uploads/2012/12/Screen-Shot-2012-12-19-at-2.49.45-AM.png 228w" sizes="(max-width: 126px) 100vw, 126px" /></a>-[][][][][][][][][]-*[][][][][][][]*-[][][][][][][][][]-<br />
 -[][][][][][]-*[][][]*_[][][][][][][]_*[][]*-[][][][][][][]-<br />
 -[][][][][]-*[][]*_[][][][][][][][][][][]_*[][]*-[][][][][]-<br />
 -[][][][]-*[]*_[][][][][][][][][][][][][][][]_*[]*-[][][][]-<br />
@@ -165,7 +165,7 @@ BBBBBBBBBBBBBBBB 17 letters (Upper-case)</p>
 <h6></h6>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/chatcodes-in-the-google-plus-chat/feed/</wfw:commentRss>
+					<wfw:commentRss>https://turbolego.github.io/turbolego.com//chatcodes-in-the-google-plus-chat/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

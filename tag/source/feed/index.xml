@@ -9,8 +9,8 @@
 
 <channel>
 	<title>source &#8211; The Chat Codes Blog</title>
-	<atom:link href="/tag/source/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="https://turbolego.github.io/turbolego.com//tag/source/feed/" rel="self" type="application/rss+xml" />
+	<link>https://turbolego.github.io/turbolego.com/</link>
 	<description>For all that is chat related.</description>
 	<lastBuildDate>Thu, 31 Jan 2013 21:54:27 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	<generator>https://wordpress.org/?v=6.6.1</generator>
 	<item>
 		<title>Extension update and faster installation for Google Chrome!</title>
-		<link>/extension-update-and-faster-installation-for-google-chrome/</link>
-					<comments>/extension-update-and-faster-installation-for-google-chrome/#respond</comments>
+		<link>https://turbolego.github.io/turbolego.com//extension-update-and-faster-installation-for-google-chrome/</link>
+					<comments>https://turbolego.github.io/turbolego.com//extension-update-and-faster-installation-for-google-chrome/#respond</comments>
 		
 		<dc:creator><![CDATA[turbolego]]></dc:creator>
 		<pubDate>Thu, 31 Jan 2013 21:42:47 +0000</pubDate>
@@ -50,25 +50,25 @@
 		<category><![CDATA[turbolego]]></category>
 		<category><![CDATA[update]]></category>
 		<category><![CDATA[userscripts]]></category>
-		<guid isPermaLink="false">/?p=394</guid>
+		<guid isPermaLink="false">https://turbolego.github.io/turbolego.com//?p=394</guid>
 
-					<description><![CDATA[Mohamed Mahmoud has made an updated version of his extension, and made a new and faster and easier installation guide for google chrome with the new Tampermonkey extension! I installed the new extension by Mohamed on google chrome in under &#8230; <a href="/extension-update-and-faster-installation-for-google-chrome/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
-										<content:encoded><![CDATA[<p><a href="/wp-content/uploads/2013/01/Screen-Shot-2013-01-31-at-8.40.55-PM.png"><img fetchpriority="high" decoding="async" class="alignright size-full wp-image-395" alt="Screen Shot 2013-01-31 at 8.40.55 PM" src="/wp-content/uploads/2013/01/Screen-Shot-2013-01-31-at-8.40.55-PM.png" width="260" height="283" /></a>Mohamed Mahmoud has made an updated version of his extension, and made a new and faster and easier installation guide for google chrome with the new Tampermonkey extension!</p>
+					<description><![CDATA[Mohamed Mahmoud has made an updated version of his extension, and made a new and faster and easier installation guide for google chrome with the new Tampermonkey extension! I installed the new extension by Mohamed on google chrome in under &#8230; <a href="https://turbolego.github.io/turbolego.com//extension-update-and-faster-installation-for-google-chrome/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[<p><a href="https://turbolego.github.io/turbolego.com//wp-content/uploads/2013/01/Screen-Shot-2013-01-31-at-8.40.55-PM.png"><img fetchpriority="high" decoding="async" class="alignright size-full wp-image-395" alt="Screen Shot 2013-01-31 at 8.40.55 PM" src="https://turbolego.github.io/turbolego.com//wp-content/uploads/2013/01/Screen-Shot-2013-01-31-at-8.40.55-PM.png" width="260" height="283" /></a>Mohamed Mahmoud has made an updated version of his extension, and made a new and faster and easier installation guide for google chrome with the new Tampermonkey extension!</p>
 <p>I installed the new extension by Mohamed on google chrome in under 1 minute with just a couple clicks!</p>
 <p>Firefox users still have to use Greasemonkey.</p>
 <p>Check out Mohamed&#8217;s blog for installation guide: <a title="http://press-share.blogspot.no/2013/01/facebook-chat-emoticons-by-mohamed.html" href="http://press-share.blogspot.no/2013/01/facebook-chat-emoticons-by-mohamed.html" target="_blank">http://press-share.blogspot.no/2013/01/facebook-chat-emoticons-by-mohamed.html</a></p>
 <p>If you already have Tampermonkey/Greasemonkey, go here to install the script: <a title="http://userscripts.org/scripts/show/140346" href="http://userscripts.org/scripts/show/140346" target="_blank">http://userscripts.org/scripts/show/140346</a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/extension-update-and-faster-installation-for-google-chrome/feed/</wfw:commentRss>
+					<wfw:commentRss>https://turbolego.github.io/turbolego.com//extension-update-and-faster-installation-for-google-chrome/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Memes for Facebook: Now availbale in the Chrome Store!</title>
-		<link>/memes-for-facebook-now-availbale-in-the-chrome-store/</link>
-					<comments>/memes-for-facebook-now-availbale-in-the-chrome-store/#comments</comments>
+		<link>https://turbolego.github.io/turbolego.com//memes-for-facebook-now-availbale-in-the-chrome-store/</link>
+					<comments>https://turbolego.github.io/turbolego.com//memes-for-facebook-now-availbale-in-the-chrome-store/#comments</comments>
 		
 		<dc:creator><![CDATA[turbolego]]></dc:creator>
 		<pubDate>Fri, 09 Nov 2012 13:44:34 +0000</pubDate>
@@ -92,10 +92,10 @@
 		<category><![CDATA[turboelgo]]></category>
 		<category><![CDATA[turbolego]]></category>
 		<category><![CDATA[userscripts]]></category>
-		<guid isPermaLink="false">/?p=349</guid>
+		<guid isPermaLink="false">https://turbolego.github.io/turbolego.com//?p=349</guid>
 
 					<description><![CDATA[Finally there&#8217;s a new extension availble, and this time it&#8217;s on google chrome store! Get it here: https://chrome.google.com/webstore/detail/facebook-memes/lbngkdfpleemhghepcpegikepknpebcp &#160; Made by the developers at http://armcomix.com/ with special thanks to bitMAN &#160;]]></description>
-										<content:encoded><![CDATA[<p><a href="/wp-content/uploads/2012/11/1.png"><img decoding="async" class="alignright size-full wp-image-351" title="1" src="/wp-content/uploads/2012/11/1.png" alt="" width="258" height="284" /></a>Finally there&#8217;s a new extension availble, and this time it&#8217;s on google chrome store!</p>
+										<content:encoded><![CDATA[<p><a href="https://turbolego.github.io/turbolego.com//wp-content/uploads/2012/11/1.png"><img decoding="async" class="alignright size-full wp-image-351" title="1" src="https://turbolego.github.io/turbolego.com//wp-content/uploads/2012/11/1.png" alt="" width="258" height="284" /></a>Finally there&#8217;s a new extension availble, and this time it&#8217;s on google chrome store!</p>
 <p>Get it here:</p>
 <p><a title="https://chrome.google.com/webstore/detail/facebook-memes/lbngkdfpleemhghepcpegikepknpebcp" href="https://chrome.google.com/webstore/detail/facebook-memes/lbngkdfpleemhghepcpegikepknpebcp" target="_blank">https://chrome.google.com/webstore/detail/facebook-memes/lbngkdfpleemhghepcpegikepknpebcp</a></p>
 <p>&nbsp;</p>
@@ -103,15 +103,15 @@
 <p>&nbsp;</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/memes-for-facebook-now-availbale-in-the-chrome-store/feed/</wfw:commentRss>
+					<wfw:commentRss>https://turbolego.github.io/turbolego.com//memes-for-facebook-now-availbale-in-the-chrome-store/feed/</wfw:commentRss>
 			<slash:comments>6</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Extension Update!</title>
-		<link>/extension-update-3/</link>
-					<comments>/extension-update-3/#comments</comments>
+		<link>https://turbolego.github.io/turbolego.com//extension-update-3/</link>
+					<comments>https://turbolego.github.io/turbolego.com//extension-update-3/#comments</comments>
 		
 		<dc:creator><![CDATA[turbolego]]></dc:creator>
 		<pubDate>Mon, 03 Sep 2012 05:33:33 +0000</pubDate>
@@ -142,10 +142,10 @@
 		<category><![CDATA[turbolego]]></category>
 		<category><![CDATA[userscripts]]></category>
 		<category><![CDATA[You Mad]]></category>
-		<guid isPermaLink="false">/?p=285</guid>
+		<guid isPermaLink="false">https://turbolego.github.io/turbolego.com//?p=285</guid>
 
-					<description><![CDATA[Mohamed Mahmoud made a new version of the extension &#8221;Facebook chat emotions with animated picture and big emotions&#8221; ! Get it her: http://userscripts.org/scripts/show/140346 Some people have trouble installing extensions with Google Chrome, because it says &#8220;you can only install plugins/whatever &#8230; <a href="/extension-update-3/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
-										<content:encoded><![CDATA[<p><a href="/wp-content/uploads/2012/09/251432_4497678283761_243644025_n.jpg"><img decoding="async" class="alignright size-full wp-image-286" title="251432_4497678283761_243644025_n" src="/wp-content/uploads/2012/09/251432_4497678283761_243644025_n.jpg" alt="" width="255" height="256" srcset="/wp-content/uploads/2012/09/251432_4497678283761_243644025_n.jpg 255w, /wp-content/uploads/2012/09/251432_4497678283761_243644025_n-150x150.jpg 150w" sizes="(max-width: 255px) 100vw, 255px" /></a><a title="http://www.facebook.com/mohamed408" href="http://www.facebook.com/mohamed408" target="_blank">Mohamed Mahmoud</a> made a new version of the extension &#8221;Facebook chat emotions with animated picture and big emotions&#8221; !</p>
+					<description><![CDATA[Mohamed Mahmoud made a new version of the extension &#8221;Facebook chat emotions with animated picture and big emotions&#8221; ! Get it her: http://userscripts.org/scripts/show/140346 Some people have trouble installing extensions with Google Chrome, because it says &#8220;you can only install plugins/whatever &#8230; <a href="https://turbolego.github.io/turbolego.com//extension-update-3/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[<p><a href="https://turbolego.github.io/turbolego.com//wp-content/uploads/2012/09/251432_4497678283761_243644025_n.jpg"><img decoding="async" class="alignright size-full wp-image-286" title="251432_4497678283761_243644025_n" src="https://turbolego.github.io/turbolego.com//wp-content/uploads/2012/09/251432_4497678283761_243644025_n.jpg" alt="" width="255" height="256" srcset="https://turbolego.github.io/turbolego.com//wp-content/uploads/2012/09/251432_4497678283761_243644025_n.jpg 255w, https://turbolego.github.io/turbolego.com//wp-content/uploads/2012/09/251432_4497678283761_243644025_n-150x150.jpg 150w" sizes="(max-width: 255px) 100vw, 255px" /></a><a title="http://www.facebook.com/mohamed408" href="http://www.facebook.com/mohamed408" target="_blank">Mohamed Mahmoud</a> made a new version of the extension &#8221;Facebook chat emotions with animated picture and big emotions&#8221; !</p>
 <p>Get it her: <a title="http://userscripts.org/scripts/show/140346" href="http://userscripts.org/scripts/show/140346" target="_blank">http://userscripts.org/scripts/show/140346</a></p>
 <p>Some people have trouble installing extensions with Google Chrome, because it says &#8220;you can only install plugins/whatever from the Chrome Store&#8221;&#8230; Don&#8217;t worry tho, because it will be available soon in the &#8221;Google chrome web store&#8221; ! <img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f600.png" alt="😀" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
 <p>(stay tuned for updates)</p>
@@ -153,15 +153,15 @@
 <p><iframe loading="lazy" src="http://www.youtube.com/embed/ARdDp0jH0wY" frameborder="0" width="420" height="315"></iframe></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/extension-update-3/feed/</wfw:commentRss>
+					<wfw:commentRss>https://turbolego.github.io/turbolego.com//extension-update-3/feed/</wfw:commentRss>
 			<slash:comments>4</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Extension Update! (again)</title>
-		<link>/extension-update-again/</link>
-					<comments>/extension-update-again/#comments</comments>
+		<link>https://turbolego.github.io/turbolego.com//extension-update-again/</link>
+					<comments>https://turbolego.github.io/turbolego.com//extension-update-again/#comments</comments>
 		
 		<dc:creator><![CDATA[turbolego]]></dc:creator>
 		<pubDate>Thu, 09 Aug 2012 23:57:00 +0000</pubDate>
@@ -194,25 +194,25 @@
 		<category><![CDATA[userscripts]]></category>
 		<category><![CDATA[You Mad]]></category>
 		<category><![CDATA[youtube]]></category>
-		<guid isPermaLink="false">/?p=280</guid>
+		<guid isPermaLink="false">https://turbolego.github.io/turbolego.com//?p=280</guid>
 
 					<description><![CDATA[Mohamed Mahmoud updated his extension, again! Get it here while it&#8217;s hot! 😀 http://userscripts.org/scripts/show/140346 And if you need help to install the extension, check out this guide he made for firefox and google chrome! 😉]]></description>
-										<content:encoded><![CDATA[<p><a href="/wp-content/uploads/2012/08/large.jpg"><img loading="lazy" decoding="async" class="alignright size-full wp-image-281" title="large" src="/wp-content/uploads/2012/08/large.jpg" alt="" width="263" height="288" /></a><a title="http://www.facebook.com/mohamed408" href="http://www.facebook.com/mohamed408" target="_blank">Mohamed Mahmoud</a> updated his extension, again!</p>
+										<content:encoded><![CDATA[<p><a href="https://turbolego.github.io/turbolego.com//wp-content/uploads/2012/08/large.jpg"><img loading="lazy" decoding="async" class="alignright size-full wp-image-281" title="large" src="https://turbolego.github.io/turbolego.com//wp-content/uploads/2012/08/large.jpg" alt="" width="263" height="288" /></a><a title="http://www.facebook.com/mohamed408" href="http://www.facebook.com/mohamed408" target="_blank">Mohamed Mahmoud</a> updated his extension, again!</p>
 <p>Get it here while it&#8217;s hot! <img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f600.png" alt="😀" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
 <p><a title="http://userscripts.org/scripts/show/140346" href="http://userscripts.org/scripts/show/140346" target="_blank">http://userscripts.org/scripts/show/140346</a></p>
 <p>And if you need help to install the extension, check out this guide he made for firefox and google chrome! <img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f609.png" alt="😉" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
 <p><iframe loading="lazy" width="420" height="315" src="http://www.youtube.com/embed/ARdDp0jH0wY" frameborder="0" allowfullscreen></iframe></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/extension-update-again/feed/</wfw:commentRss>
+					<wfw:commentRss>https://turbolego.github.io/turbolego.com//extension-update-again/feed/</wfw:commentRss>
 			<slash:comments>2</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Extension update!</title>
-		<link>/extension-update-2/</link>
-					<comments>/extension-update-2/#comments</comments>
+		<link>https://turbolego.github.io/turbolego.com//extension-update-2/</link>
+					<comments>https://turbolego.github.io/turbolego.com//extension-update-2/#comments</comments>
 		
 		<dc:creator><![CDATA[turbolego]]></dc:creator>
 		<pubDate>Wed, 01 Aug 2012 12:35:33 +0000</pubDate>
@@ -241,23 +241,23 @@
 		<category><![CDATA[sourcecode]]></category>
 		<category><![CDATA[userscripts]]></category>
 		<category><![CDATA[You Mad]]></category>
-		<guid isPermaLink="false">/?p=268</guid>
+		<guid isPermaLink="false">https://turbolego.github.io/turbolego.com//?p=268</guid>
 
 					<description><![CDATA[Mohamed Mahmoud has updated his extension! Get it here:  userscripts.org/scripts/show/139478]]></description>
-										<content:encoded><![CDATA[<p><a href="/wp-content/uploads/2012/08/625627_4329892849230_1632306359_n1.jpeg"><img loading="lazy" decoding="async" class="alignright  wp-image-271" title="625627_4329892849230_1632306359_n" src="/wp-content/uploads/2012/08/625627_4329892849230_1632306359_n1.jpeg" alt="" width="295" height="162" srcset="/wp-content/uploads/2012/08/625627_4329892849230_1632306359_n1.jpeg 526w, /wp-content/uploads/2012/08/625627_4329892849230_1632306359_n1-300x165.jpeg 300w" sizes="(max-width: 295px) 100vw, 295px" /></a><a title="http://www.facebook.com/mohamed408" href="http://www.facebook.com/mohamed408" target="_blank">Mohamed Mahmoud</a> has updated his extension!</p>
+										<content:encoded><![CDATA[<p><a href="https://turbolego.github.io/turbolego.com//wp-content/uploads/2012/08/625627_4329892849230_1632306359_n1.jpeg"><img loading="lazy" decoding="async" class="alignright  wp-image-271" title="625627_4329892849230_1632306359_n" src="https://turbolego.github.io/turbolego.com//wp-content/uploads/2012/08/625627_4329892849230_1632306359_n1.jpeg" alt="" width="295" height="162" srcset="https://turbolego.github.io/turbolego.com//wp-content/uploads/2012/08/625627_4329892849230_1632306359_n1.jpeg 526w, https://turbolego.github.io/turbolego.com//wp-content/uploads/2012/08/625627_4329892849230_1632306359_n1-300x165.jpeg 300w" sizes="(max-width: 295px) 100vw, 295px" /></a><a title="http://www.facebook.com/mohamed408" href="http://www.facebook.com/mohamed408" target="_blank">Mohamed Mahmoud</a> has updated his extension!</p>
 <p>Get it here: <br />
 <a title="http://userscripts.org/scripts/show/139478" href="http://userscripts.org/scripts/show/139478" target="_blank">userscripts.org/scripts/show/139478</a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/extension-update-2/feed/</wfw:commentRss>
+					<wfw:commentRss>https://turbolego.github.io/turbolego.com//extension-update-2/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>New extension&#8230; WITH ANIMATED PICTURES!</title>
-		<link>/new-extension-with-animated-pictures/</link>
-					<comments>/new-extension-with-animated-pictures/#comments</comments>
+		<link>https://turbolego.github.io/turbolego.com//new-extension-with-animated-pictures/</link>
+					<comments>https://turbolego.github.io/turbolego.com//new-extension-with-animated-pictures/#comments</comments>
 		
 		<dc:creator><![CDATA[turbolego]]></dc:creator>
 		<pubDate>Sun, 29 Jul 2012 02:46:06 +0000</pubDate>
@@ -291,23 +291,23 @@
 		<category><![CDATA[turbolego.com/L.txt]]></category>
 		<category><![CDATA[userscripts]]></category>
 		<category><![CDATA[You Mad]]></category>
-		<guid isPermaLink="false">/?p=247</guid>
+		<guid isPermaLink="false">https://turbolego.github.io/turbolego.com//?p=247</guid>
 
 					<description><![CDATA[Mohamed Mahmoud made a new extension using some of the source-code from the old extension by Lé Boss, and this extension by anonymous86. This extension is the first one to have ANIMATED pictures! Get it here: userscripts.org/scripts/show/139478]]></description>
-										<content:encoded><![CDATA[<p><a href="/wp-content/uploads/2012/07/Screen-Shot-2012-07-29-at-4.23.24-AM.png"><img loading="lazy" decoding="async" class="alignright size-full wp-image-248" title="Screen Shot 2012-07-29 at 4.23.24 AM" src="/wp-content/uploads/2012/07/Screen-Shot-2012-07-29-at-4.23.24-AM.png" alt="" width="259" height="283" /></a><a title="http://www.facebook.com/mohamed408" href="http://www.facebook.com/mohamed408" target="_blank">Mohamed Mahmoud</a> made a new extension using some of the source-code from <a title="http://userscripts.org/scripts/show/122827" href="http://userscripts.org/scripts/show/122827" target="_blank">the old extension</a> by <a title="http://www.facebook.com/theztech" href="http://www.facebook.com/theztech" target="_blank">Lé Boss</a>, and <a title="http://userscripts.org/scripts/show/123054" href="http://userscripts.org/scripts/show/123054" target="_blank">this extension</a> by <a href="http://userscripts.org/users/426789" rel="nofollow">anonymous86</a>.</p>
+										<content:encoded><![CDATA[<p><a href="https://turbolego.github.io/turbolego.com//wp-content/uploads/2012/07/Screen-Shot-2012-07-29-at-4.23.24-AM.png"><img loading="lazy" decoding="async" class="alignright size-full wp-image-248" title="Screen Shot 2012-07-29 at 4.23.24 AM" src="https://turbolego.github.io/turbolego.com//wp-content/uploads/2012/07/Screen-Shot-2012-07-29-at-4.23.24-AM.png" alt="" width="259" height="283" /></a><a title="http://www.facebook.com/mohamed408" href="http://www.facebook.com/mohamed408" target="_blank">Mohamed Mahmoud</a> made a new extension using some of the source-code from <a title="http://userscripts.org/scripts/show/122827" href="http://userscripts.org/scripts/show/122827" target="_blank">the old extension</a> by <a title="http://www.facebook.com/theztech" href="http://www.facebook.com/theztech" target="_blank">Lé Boss</a>, and <a title="http://userscripts.org/scripts/show/123054" href="http://userscripts.org/scripts/show/123054" target="_blank">this extension</a> by <a href="http://userscripts.org/users/426789" rel="nofollow">anonymous86</a>.</p>
 <p>This extension is the first one to have ANIMATED pictures!</p>
 <p>Get it here: <a title="http://userscripts.org/scripts/show/139478" href="http://userscripts.org/scripts/show/139478" target="_blank">userscripts.org/scripts/show/139478</a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/new-extension-with-animated-pictures/feed/</wfw:commentRss>
+					<wfw:commentRss>https://turbolego.github.io/turbolego.com//new-extension-with-animated-pictures/feed/</wfw:commentRss>
 			<slash:comments>2</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Facebook Meme Chat Emoticons Bar v3!</title>
-		<link>/facebook-meme-chat-emoticons-bar-v3/</link>
-					<comments>/facebook-meme-chat-emoticons-bar-v3/#comments</comments>
+		<link>https://turbolego.github.io/turbolego.com//facebook-meme-chat-emoticons-bar-v3/</link>
+					<comments>https://turbolego.github.io/turbolego.com//facebook-meme-chat-emoticons-bar-v3/#comments</comments>
 		
 		<dc:creator><![CDATA[turbolego]]></dc:creator>
 		<pubDate>Tue, 12 Jun 2012 21:41:14 +0000</pubDate>
@@ -336,24 +336,24 @@
 		<category><![CDATA[turbolego]]></category>
 		<category><![CDATA[turbolego.com/L.txt]]></category>
 		<category><![CDATA[You Mad]]></category>
-		<guid isPermaLink="false">/?p=233</guid>
+		<guid isPermaLink="false">https://turbolego.github.io/turbolego.com//?p=233</guid>
 
 					<description><![CDATA[Today Taher Sellami released the Facebook Meme Chat Emoticons Bar v3 (using the sourcecode from the first extension by &#8220;Le Boss&#8220;) with all new pictures that fixes those who went dead or corrupt in v2! Download here: http://userscripts.org/scripts/show/135639 &#160;]]></description>
-										<content:encoded><![CDATA[<p><a href="/wp-content/uploads/2012/06/Screen-Shot-2012-06-12-at-11.36.52-PM.png"><img loading="lazy" decoding="async" class="alignright size-full wp-image-234" title="Screen Shot 2012-06-12 at 11.36.52 PM" src="/wp-content/uploads/2012/06/Screen-Shot-2012-06-12-at-11.36.52-PM.png" alt="" width="263" height="283" /></a>Today<a title="http://www.facebook.com/tunisien7" href="http://www.facebook.com/tunisien7" target="_blank"> Taher Sellami</a> released the Facebook Meme Chat Emoticons Bar v3 (using the sourcecode from <a title="http://userscripts.org/scripts/show/122827" href="http://userscripts.org/scripts/show/122827" target="_blank">the first extension</a> by &#8220;<a title="http://www.facebook.com/theztech" href="http://www.facebook.com/theztech" target="_blank">Le Boss</a>&#8220;) with all new pictures that fixes those who went dead or corrupt in <a title="/extension-update/" href="/extension-update/" target="_blank">v2</a>!</p>
+										<content:encoded><![CDATA[<p><a href="https://turbolego.github.io/turbolego.com//wp-content/uploads/2012/06/Screen-Shot-2012-06-12-at-11.36.52-PM.png"><img loading="lazy" decoding="async" class="alignright size-full wp-image-234" title="Screen Shot 2012-06-12 at 11.36.52 PM" src="https://turbolego.github.io/turbolego.com//wp-content/uploads/2012/06/Screen-Shot-2012-06-12-at-11.36.52-PM.png" alt="" width="263" height="283" /></a>Today<a title="http://www.facebook.com/tunisien7" href="http://www.facebook.com/tunisien7" target="_blank"> Taher Sellami</a> released the Facebook Meme Chat Emoticons Bar v3 (using the sourcecode from <a title="http://userscripts.org/scripts/show/122827" href="http://userscripts.org/scripts/show/122827" target="_blank">the first extension</a> by &#8220;<a title="http://www.facebook.com/theztech" href="http://www.facebook.com/theztech" target="_blank">Le Boss</a>&#8220;) with all new pictures that fixes those who went dead or corrupt in <a title="https://turbolego.github.io/turbolego.com//extension-update/" href="https://turbolego.github.io/turbolego.com//extension-update/" target="_blank">v2</a>!</p>
 <p>Download here:</p>
 <p><a title="http://userscripts.org/scripts/show/135639" href="http://userscripts.org/scripts/show/135639" target="_blank">http://userscripts.org/scripts/show/135639</a></p>
 <p>&nbsp;</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/facebook-meme-chat-emoticons-bar-v3/feed/</wfw:commentRss>
+					<wfw:commentRss>https://turbolego.github.io/turbolego.com//facebook-meme-chat-emoticons-bar-v3/feed/</wfw:commentRss>
 			<slash:comments>10</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Animated pictures in the Facebook Chat!</title>
-		<link>/animated-pictures-in-the-facebook-chat/</link>
-					<comments>/animated-pictures-in-the-facebook-chat/#comments</comments>
+		<link>https://turbolego.github.io/turbolego.com//animated-pictures-in-the-facebook-chat/</link>
+					<comments>https://turbolego.github.io/turbolego.com//animated-pictures-in-the-facebook-chat/#comments</comments>
 		
 		<dc:creator><![CDATA[turbolego]]></dc:creator>
 		<pubDate>Sun, 27 May 2012 18:42:52 +0000</pubDate>
@@ -397,10 +397,10 @@
 		<category><![CDATA[turbolego.com/L.txt]]></category>
 		<category><![CDATA[You Mad]]></category>
 		<category><![CDATA[youtube]]></category>
-		<guid isPermaLink="false">/?p=227</guid>
+		<guid isPermaLink="false">https://turbolego.github.io/turbolego.com//?p=227</guid>
 
-					<description><![CDATA[Today Taher Sellami showed me a new trick that allows us to post animated pictures in tha facebook chat! Check it out in the youtube-video below: Here are some animated pictures found by Revo Ramos: Animated pictures/codes: kitty wearing headphones: &#8230; <a href="/animated-pictures-in-the-facebook-chat/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
-										<content:encoded><![CDATA[<p>Today <a title="http://www.facebook.com/tunisien7" href="http://www.facebook.com/tunisien7" target="_blank">Taher Sellami</a> showed me a new trick that allows us to post animated pictures in tha facebook chat!<a href="/wp-content/uploads/2012/05/Screen-Shot-2012-05-27-at-8.46.10-PM.png"><img loading="lazy" decoding="async" class="alignright size-full wp-image-229" title="Screen Shot 2012-05-27 at 8.46.10 PM" src="/wp-content/uploads/2012/05/Screen-Shot-2012-05-27-at-8.46.10-PM.png" alt="" width="261" height="284" /></a></p>
+					<description><![CDATA[Today Taher Sellami showed me a new trick that allows us to post animated pictures in tha facebook chat! Check it out in the youtube-video below: Here are some animated pictures found by Revo Ramos: Animated pictures/codes: kitty wearing headphones: &#8230; <a href="https://turbolego.github.io/turbolego.com//animated-pictures-in-the-facebook-chat/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[<p>Today <a title="http://www.facebook.com/tunisien7" href="http://www.facebook.com/tunisien7" target="_blank">Taher Sellami</a> showed me a new trick that allows us to post animated pictures in tha facebook chat!<a href="https://turbolego.github.io/turbolego.com//wp-content/uploads/2012/05/Screen-Shot-2012-05-27-at-8.46.10-PM.png"><img loading="lazy" decoding="async" class="alignright size-full wp-image-229" title="Screen Shot 2012-05-27 at 8.46.10 PM" src="https://turbolego.github.io/turbolego.com//wp-content/uploads/2012/05/Screen-Shot-2012-05-27-at-8.46.10-PM.png" alt="" width="261" height="284" /></a></p>
 <p>Check it out in the youtube-video below:</p>
 <p><iframe loading="lazy" title="Animated pictures in the facebook chat!" width="640" height="360" src="https://www.youtube.com/embed/AuHyraUXZe0?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
 <p>Here are some animated pictures found by <a title="http://www.facebook.com/Tunaymakata04" href="http://www.facebook.com/Tunaymakata04" target="_blank">Revo Ramos</a>:</p>
@@ -462,15 +462,15 @@ Full picture: http://www.facebook.com/photo.php?fbid=389448871885&amp;set=a.1871
 <p>http://www.facebook.com/photo.php?fbid=389448871885&#038;set=a.187131506885.134802.185705006885&#038;type=3</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/animated-pictures-in-the-facebook-chat/feed/</wfw:commentRss>
+					<wfw:commentRss>https://turbolego.github.io/turbolego.com//animated-pictures-in-the-facebook-chat/feed/</wfw:commentRss>
 			<slash:comments>6</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>iPhone/iPad/iPod App!</title>
-		<link>/iphoneipadipod-app/</link>
-					<comments>/iphoneipadipod-app/#respond</comments>
+		<link>https://turbolego.github.io/turbolego.com//iphoneipadipod-app/</link>
+					<comments>https://turbolego.github.io/turbolego.com//iphoneipadipod-app/#respond</comments>
 		
 		<dc:creator><![CDATA[turbolego]]></dc:creator>
 		<pubDate>Sun, 13 May 2012 00:06:31 +0000</pubDate>
@@ -508,10 +508,10 @@ Full picture: http://www.facebook.com/photo.php?fbid=389448871885&amp;set=a.1871
 		<category><![CDATA[turbolego.com/L.txt]]></category>
 		<category><![CDATA[You Mad]]></category>
 		<category><![CDATA[youtube]]></category>
-		<guid isPermaLink="false">/?p=223</guid>
+		<guid isPermaLink="false">https://turbolego.github.io/turbolego.com//?p=223</guid>
 
 					<description><![CDATA[Josh Bitossi, a young developer from Austraila has made the first ever chat-codes related app for iPhone/iPad/iPod! Get it here: http://itunes.apple.com/au/app/facebook-emoticons/id496836592?mt=8 Josh Bitossi&#8217;s webpage: http://www.facebooksmileyshq.com/view-all-smileys/ You can see how it works in this video update:]]></description>
-										<content:encoded><![CDATA[<p><a title="http://www.facebook.com/joshua.bitossi" href="http://www.facebook.com/joshua.bitossi" target="_blank">Josh Bitossi</a>, a young developer from Austraila has made the first ever chat-codes related app for iPhone/iPad/iPod!<a href="/wp-content/uploads/2012/05/Screen-Shot-2012-05-13-at-2.04.21-AM.png"><img loading="lazy" decoding="async" class="alignright size-medium wp-image-224" title="Screen Shot 2012-05-13 at 2.04.21 AM" src="/wp-content/uploads/2012/05/Screen-Shot-2012-05-13-at-2.04.21-AM-199x300.png" alt="" width="199" height="300" srcset="/wp-content/uploads/2012/05/Screen-Shot-2012-05-13-at-2.04.21-AM-199x300.png 199w, /wp-content/uploads/2012/05/Screen-Shot-2012-05-13-at-2.04.21-AM.png 316w" sizes="(max-width: 199px) 100vw, 199px" /></a></p>
+										<content:encoded><![CDATA[<p><a title="http://www.facebook.com/joshua.bitossi" href="http://www.facebook.com/joshua.bitossi" target="_blank">Josh Bitossi</a>, a young developer from Austraila has made the first ever chat-codes related app for iPhone/iPad/iPod!<a href="https://turbolego.github.io/turbolego.com//wp-content/uploads/2012/05/Screen-Shot-2012-05-13-at-2.04.21-AM.png"><img loading="lazy" decoding="async" class="alignright size-medium wp-image-224" title="Screen Shot 2012-05-13 at 2.04.21 AM" src="https://turbolego.github.io/turbolego.com//wp-content/uploads/2012/05/Screen-Shot-2012-05-13-at-2.04.21-AM-199x300.png" alt="" width="199" height="300" srcset="https://turbolego.github.io/turbolego.com//wp-content/uploads/2012/05/Screen-Shot-2012-05-13-at-2.04.21-AM-199x300.png 199w, https://turbolego.github.io/turbolego.com//wp-content/uploads/2012/05/Screen-Shot-2012-05-13-at-2.04.21-AM.png 316w" sizes="(max-width: 199px) 100vw, 199px" /></a></p>
 <p>Get it here:<br />
 <a title="http://itunes.apple.com/au/app/facebook-emoticons/id496836592?mt=8" href="http://itunes.apple.com/au/app/facebook-emoticons/id496836592?mt=8" target="_blank">http://itunes.apple.com/au/app/facebook-emoticons/id496836592?mt=8</a></p>
 <p>Josh Bitossi&#8217;s webpage:<br />
@@ -520,15 +520,15 @@ Full picture: http://www.facebook.com/photo.php?fbid=389448871885&amp;set=a.1871
 <p><iframe loading="lazy" title="A Gazillion Updates! iPhone/iPad app, extensions, smileyti.me for sale, ascii art, remove timeline" width="640" height="360" src="https://www.youtube.com/embed/z3OHLe58vuQ?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/iphoneipadipod-app/feed/</wfw:commentRss>
+					<wfw:commentRss>https://turbolego.github.io/turbolego.com//iphoneipadipod-app/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>New Text Generator!</title>
-		<link>/new-text-generator/</link>
-					<comments>/new-text-generator/#comments</comments>
+		<link>https://turbolego.github.io/turbolego.com//new-text-generator/</link>
+					<comments>https://turbolego.github.io/turbolego.com//new-text-generator/#comments</comments>
 		
 		<dc:creator><![CDATA[turbolego]]></dc:creator>
 		<pubDate>Sat, 12 May 2012 20:54:41 +0000</pubDate>
@@ -559,16 +559,16 @@ Full picture: http://www.facebook.com/photo.php?fbid=389448871885&amp;set=a.1871
 		<category><![CDATA[turbolego]]></category>
 		<category><![CDATA[turbolego.com/L.txt]]></category>
 		<category><![CDATA[You Mad]]></category>
-		<guid isPermaLink="false">/?p=218</guid>
+		<guid isPermaLink="false">https://turbolego.github.io/turbolego.com//?p=218</guid>
 
 					<description><![CDATA[You may remember the text-generator by Lars Arne Svanes? Well, that generator is currently down, but fear not! Because the developers behind http://smileyti.me/ has made an alternative: http://smileyti.me/facebook-chat-text-generator/]]></description>
 										<content:encoded><![CDATA[<p>You may remember the <a title="http://facebook.expdvl.com/?p=text" href="http://facebook.expdvl.com/?p=text" target="_blank">text-generator</a> by <a title="http://www.facebook.com/Lanjelin.Svanes" href="http://www.facebook.com/Lanjelin.Svanes" target="_blank">Lars Arne Svanes</a>?</p>
-<p><img loading="lazy" decoding="async" class="alignright size-medium wp-image-219" title="Screen Shot 2012-05-12 at 10.51.44 PM" src="/wp-content/uploads/2012/05/Screen-Shot-2012-05-12-at-10.51.44-PM-300x114.png" alt="" width="300" height="114" srcset="/wp-content/uploads/2012/05/Screen-Shot-2012-05-12-at-10.51.44-PM-300x114.png 300w, /wp-content/uploads/2012/05/Screen-Shot-2012-05-12-at-10.51.44-PM.png 536w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+<p><img loading="lazy" decoding="async" class="alignright size-medium wp-image-219" title="Screen Shot 2012-05-12 at 10.51.44 PM" src="https://turbolego.github.io/turbolego.com//wp-content/uploads/2012/05/Screen-Shot-2012-05-12-at-10.51.44-PM-300x114.png" alt="" width="300" height="114" srcset="https://turbolego.github.io/turbolego.com//wp-content/uploads/2012/05/Screen-Shot-2012-05-12-at-10.51.44-PM-300x114.png 300w, https://turbolego.github.io/turbolego.com//wp-content/uploads/2012/05/Screen-Shot-2012-05-12-at-10.51.44-PM.png 536w" sizes="(max-width: 300px) 100vw, 300px" /></p>
 <p>Well, that generator is currently down, but fear not! Because the developers behind <a title="http://smileyti.me/" href="http://smileyti.me/" target="_blank">http://smileyti.me/</a> has made an alternative:</p>
-<p><a title="http://smileyti.me/facebook-chat-text-generator/" href="http://smileyti.me/facebook-chat-text-generator/" target="_blank">http://smileyti.me/facebook-chat-text-generator/</a><a href="/wp-content/uploads/2012/05/Screen-Shot-2012-05-12-at-10.51.15-PM.png"><img loading="lazy" decoding="async" class="alignright size-full wp-image-220" title="Screen Shot 2012-05-12 at 10.51.15 PM" src="/wp-content/uploads/2012/05/Screen-Shot-2012-05-12-at-10.51.15-PM.png" alt="" width="254" height="111" /></a></p>
+<p><a title="http://smileyti.me/facebook-chat-text-generator/" href="http://smileyti.me/facebook-chat-text-generator/" target="_blank">http://smileyti.me/facebook-chat-text-generator/</a><a href="https://turbolego.github.io/turbolego.com//wp-content/uploads/2012/05/Screen-Shot-2012-05-12-at-10.51.15-PM.png"><img loading="lazy" decoding="async" class="alignright size-full wp-image-220" title="Screen Shot 2012-05-12 at 10.51.15 PM" src="https://turbolego.github.io/turbolego.com//wp-content/uploads/2012/05/Screen-Shot-2012-05-12-at-10.51.15-PM.png" alt="" width="254" height="111" /></a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/new-text-generator/feed/</wfw:commentRss>
+					<wfw:commentRss>https://turbolego.github.io/turbolego.com//new-text-generator/feed/</wfw:commentRss>
 			<slash:comments>6</slash:comments>
 		
 		

@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: The album trick.	</title>
-	<atom:link href="/the-album-trick/feed/" rel="self" type="application/rss+xml" />
-	<link>/the-album-trick/</link>
+	<atom:link href="https://turbolego.github.io/turbolego.com//the-album-trick/feed/" rel="self" type="application/rss+xml" />
+	<link>https://turbolego.github.io/turbolego.com//the-album-trick/</link>
 	<description>For all that is chat related.</description>
 	<lastBuildDate>Fri, 09 Mar 2012 14:47:00 +0000</lastBuildDate>
 	<sy:updatePeriod>

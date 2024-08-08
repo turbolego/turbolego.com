@@ -9,8 +9,8 @@
 
 <channel>
 	<title>youtube &#8211; The Chat Codes Blog</title>
-	<atom:link href="/tag/youtube/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="https://turbolego.github.io/turbolego.com//tag/youtube/feed/" rel="self" type="application/rss+xml" />
+	<link>https://turbolego.github.io/turbolego.com/</link>
 	<description>For all that is chat related.</description>
 	<lastBuildDate>Wed, 07 Aug 2024 08:09:30 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	<generator>https://wordpress.org/?v=6.6.1</generator>
 	<item>
 		<title>Stickers!</title>
-		<link>/stickers/</link>
-					<comments>/stickers/#comments</comments>
+		<link>https://turbolego.github.io/turbolego.com//stickers/</link>
+					<comments>https://turbolego.github.io/turbolego.com//stickers/#comments</comments>
 		
 		<dc:creator><![CDATA[turbolego]]></dc:creator>
 		<pubDate>Tue, 07 May 2013 16:34:34 +0000</pubDate>
@@ -53,9 +53,9 @@
 		<category><![CDATA[Velja Janković]]></category>
 		<category><![CDATA[You Mad]]></category>
 		<category><![CDATA[youtube]]></category>
-		<guid isPermaLink="false">/?p=413</guid>
+		<guid isPermaLink="false">https://turbolego.github.io/turbolego.com//?p=413</guid>
 
-					<description><![CDATA[17&#8217;th of May, Facebook released their Version 6 of the Facebook app for iphone and android. However, they did not release any methods for computer users running facebook in google chrome, firefox, opera, safari, Internet Explorer or any other browser! &#8230; <a href="/stickers/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+					<description><![CDATA[17&#8217;th of May, Facebook released their Version 6 of the Facebook app for iphone and android. However, they did not release any methods for computer users running facebook in google chrome, firefox, opera, safari, Internet Explorer or any other browser! &#8230; <a href="https://turbolego.github.io/turbolego.com//stickers/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
 										<content:encoded><![CDATA[<p><a title="http://www.hongkiat.com/blog/facebook-app-for-iphone/" href="http://www.hongkiat.com/blog/facebook-app-for-iphone/" target="_blank" rel="noopener">17&#8217;th of May, Facebook released their Version 6 of the Facebook app for iphone and android.</a></p>
 <p>However, they did not release any methods for computer users running facebook in google chrome, firefox, opera, safari, Internet Explorer or any other browser!</p>
 <p>So, <a title="http://chatstickers.com/" href="http://chatstickers.com/" target="_blank" rel="noopener">http://chatstickers.com/</a> was made by one of our developers, and a extension was created by <a title="http://www.facebook.com/theztech" href="http://www.facebook.com/theztech" target="_blank" rel="noopener">Velja Janković</a>.</p>
@@ -63,15 +63,15 @@
 <p><iframe title="Facebook Stickers on Chrome, Firefox and other browsers!" width="640" height="360" src="https://www.youtube.com/embed/2v6sRDV-lUc?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/stickers/feed/</wfw:commentRss>
+					<wfw:commentRss>https://turbolego.github.io/turbolego.com//stickers/feed/</wfw:commentRss>
 			<slash:comments>3</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>New Extension!</title>
-		<link>/new-extension-2/</link>
-					<comments>/new-extension-2/#comments</comments>
+		<link>https://turbolego.github.io/turbolego.com//new-extension-2/</link>
+					<comments>https://turbolego.github.io/turbolego.com//new-extension-2/#comments</comments>
 		
 		<dc:creator><![CDATA[turbolego]]></dc:creator>
 		<pubDate>Thu, 01 Nov 2012 03:03:06 +0000</pubDate>
@@ -98,10 +98,10 @@
 		<category><![CDATA[turbolego]]></category>
 		<category><![CDATA[userscripts]]></category>
 		<category><![CDATA[youtube]]></category>
-		<guid isPermaLink="false">/?p=339</guid>
+		<guid isPermaLink="false">https://turbolego.github.io/turbolego.com//?p=339</guid>
 
-					<description><![CDATA[Mohamed Mahmoud released Facebook chat emoticons with new and big pictures v3 today! Get it here: http://userscripts.org/scripts/show/140346 For Google chrome users, download and open this file first: http://www.mediafire.com/?b6eutyx5ul85lql Or see how to install it from here : http://www.youtube.com/watch?v=WG_kM8BEIQE For Firefox users, first install &#8230; <a href="/new-extension-2/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
-										<content:encoded><![CDATA[<p><a href="/wp-content/uploads/2012/11/521652_4872884183674_546364612_n.jpeg"><img fetchpriority="high" decoding="async" class="alignright size-full wp-image-340" title="521652_4872884183674_546364612_n" src="/wp-content/uploads/2012/11/521652_4872884183674_546364612_n.jpeg" alt="" width="236" height="255" /></a>Mohamed Mahmoud released Facebook chat emoticons with new and big pictures v3 today!</p>
+					<description><![CDATA[Mohamed Mahmoud released Facebook chat emoticons with new and big pictures v3 today! Get it here: http://userscripts.org/scripts/show/140346 For Google chrome users, download and open this file first: http://www.mediafire.com/?b6eutyx5ul85lql Or see how to install it from here : http://www.youtube.com/watch?v=WG_kM8BEIQE For Firefox users, first install &#8230; <a href="https://turbolego.github.io/turbolego.com//new-extension-2/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[<p><a href="https://turbolego.github.io/turbolego.com//wp-content/uploads/2012/11/521652_4872884183674_546364612_n.jpeg"><img fetchpriority="high" decoding="async" class="alignright size-full wp-image-340" title="521652_4872884183674_546364612_n" src="https://turbolego.github.io/turbolego.com//wp-content/uploads/2012/11/521652_4872884183674_546364612_n.jpeg" alt="" width="236" height="255" /></a>Mohamed Mahmoud released Facebook chat emoticons with new and big pictures v3 today!</p>
 <p>Get it here:<br />
 <a title="http://userscripts.org/scripts/show/140346 " href="http://userscripts.org/scripts/show/140346 " target="_blank">http://userscripts.org/scripts/show/140346</a></p>
 <p>For Google chrome users, download and open this file first:</p>
@@ -116,15 +116,15 @@ For animated pictures: see this note:<br />
 <a title="http://www.facebook.com/mohamed408/notes" href="http://www.facebook.com/mohamed408/notes" target="_blank">http://www.facebook.com/mohamed408/notes</a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/new-extension-2/feed/</wfw:commentRss>
+					<wfw:commentRss>https://turbolego.github.io/turbolego.com//new-extension-2/feed/</wfw:commentRss>
 			<slash:comments>3</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Extension Update! (again)</title>
-		<link>/extension-update-again/</link>
-					<comments>/extension-update-again/#comments</comments>
+		<link>https://turbolego.github.io/turbolego.com//extension-update-again/</link>
+					<comments>https://turbolego.github.io/turbolego.com//extension-update-again/#comments</comments>
 		
 		<dc:creator><![CDATA[turbolego]]></dc:creator>
 		<pubDate>Thu, 09 Aug 2012 23:57:00 +0000</pubDate>
@@ -157,25 +157,25 @@ For animated pictures: see this note:<br />
 		<category><![CDATA[userscripts]]></category>
 		<category><![CDATA[You Mad]]></category>
 		<category><![CDATA[youtube]]></category>
-		<guid isPermaLink="false">/?p=280</guid>
+		<guid isPermaLink="false">https://turbolego.github.io/turbolego.com//?p=280</guid>
 
 					<description><![CDATA[Mohamed Mahmoud updated his extension, again! Get it here while it&#8217;s hot! 😀 http://userscripts.org/scripts/show/140346 And if you need help to install the extension, check out this guide he made for firefox and google chrome! 😉]]></description>
-										<content:encoded><![CDATA[<p><a href="/wp-content/uploads/2012/08/large.jpg"><img decoding="async" class="alignright size-full wp-image-281" title="large" src="/wp-content/uploads/2012/08/large.jpg" alt="" width="263" height="288" /></a><a title="http://www.facebook.com/mohamed408" href="http://www.facebook.com/mohamed408" target="_blank">Mohamed Mahmoud</a> updated his extension, again!</p>
+										<content:encoded><![CDATA[<p><a href="https://turbolego.github.io/turbolego.com//wp-content/uploads/2012/08/large.jpg"><img decoding="async" class="alignright size-full wp-image-281" title="large" src="https://turbolego.github.io/turbolego.com//wp-content/uploads/2012/08/large.jpg" alt="" width="263" height="288" /></a><a title="http://www.facebook.com/mohamed408" href="http://www.facebook.com/mohamed408" target="_blank">Mohamed Mahmoud</a> updated his extension, again!</p>
 <p>Get it here while it&#8217;s hot! <img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f600.png" alt="😀" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
 <p><a title="http://userscripts.org/scripts/show/140346" href="http://userscripts.org/scripts/show/140346" target="_blank">http://userscripts.org/scripts/show/140346</a></p>
 <p>And if you need help to install the extension, check out this guide he made for firefox and google chrome! <img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f609.png" alt="😉" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
 <p><iframe loading="lazy" width="420" height="315" src="http://www.youtube.com/embed/ARdDp0jH0wY" frameborder="0" allowfullscreen></iframe></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/extension-update-again/feed/</wfw:commentRss>
+					<wfw:commentRss>https://turbolego.github.io/turbolego.com//extension-update-again/feed/</wfw:commentRss>
 			<slash:comments>2</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Chat with anyone on Facebook!</title>
-		<link>/chat-winth-anyone-on-facebook/</link>
-					<comments>/chat-winth-anyone-on-facebook/#respond</comments>
+		<link>https://turbolego.github.io/turbolego.com//chat-winth-anyone-on-facebook/</link>
+					<comments>https://turbolego.github.io/turbolego.com//chat-winth-anyone-on-facebook/#respond</comments>
 		
 		<dc:creator><![CDATA[turbolego]]></dc:creator>
 		<pubDate>Thu, 09 Aug 2012 23:47:42 +0000</pubDate>
@@ -194,7 +194,7 @@ For animated pictures: see this note:<br />
 		<category><![CDATA[turbolego]]></category>
 		<category><![CDATA[You Mad]]></category>
 		<category><![CDATA[youtube]]></category>
-		<guid isPermaLink="false">/?p=276</guid>
+		<guid isPermaLink="false">https://turbolego.github.io/turbolego.com//?p=276</guid>
 
 					<description><![CDATA[Lé&#160;Boss found a neat trick that allows you to chat with anyone on facebook, even Mark Zuckerberg! All you need, is this code: javascript:;Chat.openTab(&#8220;4&#8221;, &#8220;zuck&#8221;, &#8220;friend&#8221;) Check out this youtube-video to see how it works&#8230; 😉]]></description>
 										<content:encoded><![CDATA[<p><a title="http://www.facebook.com/theztech" href="http://www.facebook.com/theztech" target="_blank" rel="noopener">Lé</a><a title="http://www.facebook.com/theztech" href="http://www.facebook.com/theztech" target="_blank" rel="noopener">&nbsp;Boss</a> found a neat trick that allows you to chat with anyone on facebook, even Mark Zuckerberg!</p>
@@ -204,15 +204,15 @@ For animated pictures: see this note:<br />
 <p><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/P4EdD8at_tE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/chat-winth-anyone-on-facebook/feed/</wfw:commentRss>
+					<wfw:commentRss>https://turbolego.github.io/turbolego.com//chat-winth-anyone-on-facebook/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Le Boss needs your photoshop skills!</title>
-		<link>/le-boss-needs-your-photoshop-skills/</link>
-					<comments>/le-boss-needs-your-photoshop-skills/#comments</comments>
+		<link>https://turbolego.github.io/turbolego.com//le-boss-needs-your-photoshop-skills/</link>
+					<comments>https://turbolego.github.io/turbolego.com//le-boss-needs-your-photoshop-skills/#comments</comments>
 		
 		<dc:creator><![CDATA[turbolego]]></dc:creator>
 		<pubDate>Sat, 07 Jul 2012 15:22:41 +0000</pubDate>
@@ -240,23 +240,23 @@ For animated pictures: see this note:<br />
 		<category><![CDATA[turbolego]]></category>
 		<category><![CDATA[You Mad]]></category>
 		<category><![CDATA[youtube]]></category>
-		<guid isPermaLink="false">/?p=238</guid>
+		<guid isPermaLink="false">https://turbolego.github.io/turbolego.com//?p=238</guid>
 
-					<description><![CDATA[Le Boss, the original creator of the chatcodes extensions for firefox/google chrome needs someone with photoshop skills for a project! If you have some spare time and experience with photoshop, please contact him at theztech@connect.to There will be compensation for &#8230; <a href="/le-boss-needs-your-photoshop-skills/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
-										<content:encoded><![CDATA[<p><a href="/wp-content/uploads/2012/07/trollface-photoshop-meme-troll-face-fan-art-internet-online-media.jpeg"><img loading="lazy" decoding="async" class="alignright size-medium wp-image-239" title="trollface photoshop meme troll face fan art internet online media" src="/wp-content/uploads/2012/07/trollface-photoshop-meme-troll-face-fan-art-internet-online-media-228x300.jpeg" alt="" width="228" height="300" srcset="/wp-content/uploads/2012/07/trollface-photoshop-meme-troll-face-fan-art-internet-online-media-228x300.jpeg 228w, /wp-content/uploads/2012/07/trollface-photoshop-meme-troll-face-fan-art-internet-online-media.jpeg 779w" sizes="(max-width: 228px) 100vw, 228px" /></a><a title="http://www.facebook.com/theztech" href="http://www.facebook.com/theztech" target="_blank">Le Boss</a>, the original creator of the <a title="http://userscripts.org/scripts/show/122827" href="http://userscripts.org/scripts/show/122827" target="_blank">chatcodes extensions for firefox/google chrome</a> needs someone with photoshop skills for a project!</p>
+					<description><![CDATA[Le Boss, the original creator of the chatcodes extensions for firefox/google chrome needs someone with photoshop skills for a project! If you have some spare time and experience with photoshop, please contact him at theztech@connect.to There will be compensation for &#8230; <a href="https://turbolego.github.io/turbolego.com//le-boss-needs-your-photoshop-skills/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[<p><a href="https://turbolego.github.io/turbolego.com//wp-content/uploads/2012/07/trollface-photoshop-meme-troll-face-fan-art-internet-online-media.jpeg"><img loading="lazy" decoding="async" class="alignright size-medium wp-image-239" title="trollface photoshop meme troll face fan art internet online media" src="https://turbolego.github.io/turbolego.com//wp-content/uploads/2012/07/trollface-photoshop-meme-troll-face-fan-art-internet-online-media-228x300.jpeg" alt="" width="228" height="300" srcset="https://turbolego.github.io/turbolego.com//wp-content/uploads/2012/07/trollface-photoshop-meme-troll-face-fan-art-internet-online-media-228x300.jpeg 228w, https://turbolego.github.io/turbolego.com//wp-content/uploads/2012/07/trollface-photoshop-meme-troll-face-fan-art-internet-online-media.jpeg 779w" sizes="(max-width: 228px) 100vw, 228px" /></a><a title="http://www.facebook.com/theztech" href="http://www.facebook.com/theztech" target="_blank">Le Boss</a>, the original creator of the <a title="http://userscripts.org/scripts/show/122827" href="http://userscripts.org/scripts/show/122827" target="_blank">chatcodes extensions for firefox/google chrome</a> needs someone with photoshop skills for a project!</p>
 <p>If you have some spare time and experience with photoshop, please contact him at <a href="mailto:theztech@connect.to">theztech@connect.to</a> </p>
 <p>There will be compensation for your work.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/le-boss-needs-your-photoshop-skills/feed/</wfw:commentRss>
+					<wfw:commentRss>https://turbolego.github.io/turbolego.com//le-boss-needs-your-photoshop-skills/feed/</wfw:commentRss>
 			<slash:comments>3</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Animated pictures in the Facebook Chat!</title>
-		<link>/animated-pictures-in-the-facebook-chat/</link>
-					<comments>/animated-pictures-in-the-facebook-chat/#comments</comments>
+		<link>https://turbolego.github.io/turbolego.com//animated-pictures-in-the-facebook-chat/</link>
+					<comments>https://turbolego.github.io/turbolego.com//animated-pictures-in-the-facebook-chat/#comments</comments>
 		
 		<dc:creator><![CDATA[turbolego]]></dc:creator>
 		<pubDate>Sun, 27 May 2012 18:42:52 +0000</pubDate>
@@ -300,10 +300,10 @@ For animated pictures: see this note:<br />
 		<category><![CDATA[turbolego.com/L.txt]]></category>
 		<category><![CDATA[You Mad]]></category>
 		<category><![CDATA[youtube]]></category>
-		<guid isPermaLink="false">/?p=227</guid>
+		<guid isPermaLink="false">https://turbolego.github.io/turbolego.com//?p=227</guid>
 
-					<description><![CDATA[Today Taher Sellami showed me a new trick that allows us to post animated pictures in tha facebook chat! Check it out in the youtube-video below: Here are some animated pictures found by Revo Ramos: Animated pictures/codes: kitty wearing headphones: &#8230; <a href="/animated-pictures-in-the-facebook-chat/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
-										<content:encoded><![CDATA[<p>Today <a title="http://www.facebook.com/tunisien7" href="http://www.facebook.com/tunisien7" target="_blank">Taher Sellami</a> showed me a new trick that allows us to post animated pictures in tha facebook chat!<a href="/wp-content/uploads/2012/05/Screen-Shot-2012-05-27-at-8.46.10-PM.png"><img loading="lazy" decoding="async" class="alignright size-full wp-image-229" title="Screen Shot 2012-05-27 at 8.46.10 PM" src="/wp-content/uploads/2012/05/Screen-Shot-2012-05-27-at-8.46.10-PM.png" alt="" width="261" height="284" /></a></p>
+					<description><![CDATA[Today Taher Sellami showed me a new trick that allows us to post animated pictures in tha facebook chat! Check it out in the youtube-video below: Here are some animated pictures found by Revo Ramos: Animated pictures/codes: kitty wearing headphones: &#8230; <a href="https://turbolego.github.io/turbolego.com//animated-pictures-in-the-facebook-chat/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[<p>Today <a title="http://www.facebook.com/tunisien7" href="http://www.facebook.com/tunisien7" target="_blank">Taher Sellami</a> showed me a new trick that allows us to post animated pictures in tha facebook chat!<a href="https://turbolego.github.io/turbolego.com//wp-content/uploads/2012/05/Screen-Shot-2012-05-27-at-8.46.10-PM.png"><img loading="lazy" decoding="async" class="alignright size-full wp-image-229" title="Screen Shot 2012-05-27 at 8.46.10 PM" src="https://turbolego.github.io/turbolego.com//wp-content/uploads/2012/05/Screen-Shot-2012-05-27-at-8.46.10-PM.png" alt="" width="261" height="284" /></a></p>
 <p>Check it out in the youtube-video below:</p>
 <p><iframe loading="lazy" title="Animated pictures in the facebook chat!" width="640" height="360" src="https://www.youtube.com/embed/AuHyraUXZe0?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
 <p>Here are some animated pictures found by <a title="http://www.facebook.com/Tunaymakata04" href="http://www.facebook.com/Tunaymakata04" target="_blank">Revo Ramos</a>:</p>
@@ -365,15 +365,15 @@ Full picture: http://www.facebook.com/photo.php?fbid=389448871885&amp;set=a.1871
 <p>http://www.facebook.com/photo.php?fbid=389448871885&#038;set=a.187131506885.134802.185705006885&#038;type=3</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/animated-pictures-in-the-facebook-chat/feed/</wfw:commentRss>
+					<wfw:commentRss>https://turbolego.github.io/turbolego.com//animated-pictures-in-the-facebook-chat/feed/</wfw:commentRss>
 			<slash:comments>6</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>iPhone/iPad/iPod App!</title>
-		<link>/iphoneipadipod-app/</link>
-					<comments>/iphoneipadipod-app/#respond</comments>
+		<link>https://turbolego.github.io/turbolego.com//iphoneipadipod-app/</link>
+					<comments>https://turbolego.github.io/turbolego.com//iphoneipadipod-app/#respond</comments>
 		
 		<dc:creator><![CDATA[turbolego]]></dc:creator>
 		<pubDate>Sun, 13 May 2012 00:06:31 +0000</pubDate>
@@ -411,10 +411,10 @@ Full picture: http://www.facebook.com/photo.php?fbid=389448871885&amp;set=a.1871
 		<category><![CDATA[turbolego.com/L.txt]]></category>
 		<category><![CDATA[You Mad]]></category>
 		<category><![CDATA[youtube]]></category>
-		<guid isPermaLink="false">/?p=223</guid>
+		<guid isPermaLink="false">https://turbolego.github.io/turbolego.com//?p=223</guid>
 
 					<description><![CDATA[Josh Bitossi, a young developer from Austraila has made the first ever chat-codes related app for iPhone/iPad/iPod! Get it here: http://itunes.apple.com/au/app/facebook-emoticons/id496836592?mt=8 Josh Bitossi&#8217;s webpage: http://www.facebooksmileyshq.com/view-all-smileys/ You can see how it works in this video update:]]></description>
-										<content:encoded><![CDATA[<p><a title="http://www.facebook.com/joshua.bitossi" href="http://www.facebook.com/joshua.bitossi" target="_blank">Josh Bitossi</a>, a young developer from Austraila has made the first ever chat-codes related app for iPhone/iPad/iPod!<a href="/wp-content/uploads/2012/05/Screen-Shot-2012-05-13-at-2.04.21-AM.png"><img loading="lazy" decoding="async" class="alignright size-medium wp-image-224" title="Screen Shot 2012-05-13 at 2.04.21 AM" src="/wp-content/uploads/2012/05/Screen-Shot-2012-05-13-at-2.04.21-AM-199x300.png" alt="" width="199" height="300" srcset="/wp-content/uploads/2012/05/Screen-Shot-2012-05-13-at-2.04.21-AM-199x300.png 199w, /wp-content/uploads/2012/05/Screen-Shot-2012-05-13-at-2.04.21-AM.png 316w" sizes="(max-width: 199px) 100vw, 199px" /></a></p>
+										<content:encoded><![CDATA[<p><a title="http://www.facebook.com/joshua.bitossi" href="http://www.facebook.com/joshua.bitossi" target="_blank">Josh Bitossi</a>, a young developer from Austraila has made the first ever chat-codes related app for iPhone/iPad/iPod!<a href="https://turbolego.github.io/turbolego.com//wp-content/uploads/2012/05/Screen-Shot-2012-05-13-at-2.04.21-AM.png"><img loading="lazy" decoding="async" class="alignright size-medium wp-image-224" title="Screen Shot 2012-05-13 at 2.04.21 AM" src="https://turbolego.github.io/turbolego.com//wp-content/uploads/2012/05/Screen-Shot-2012-05-13-at-2.04.21-AM-199x300.png" alt="" width="199" height="300" srcset="https://turbolego.github.io/turbolego.com//wp-content/uploads/2012/05/Screen-Shot-2012-05-13-at-2.04.21-AM-199x300.png 199w, https://turbolego.github.io/turbolego.com//wp-content/uploads/2012/05/Screen-Shot-2012-05-13-at-2.04.21-AM.png 316w" sizes="(max-width: 199px) 100vw, 199px" /></a></p>
 <p>Get it here:<br />
 <a title="http://itunes.apple.com/au/app/facebook-emoticons/id496836592?mt=8" href="http://itunes.apple.com/au/app/facebook-emoticons/id496836592?mt=8" target="_blank">http://itunes.apple.com/au/app/facebook-emoticons/id496836592?mt=8</a></p>
 <p>Josh Bitossi&#8217;s webpage:<br />
@@ -423,7 +423,7 @@ Full picture: http://www.facebook.com/photo.php?fbid=389448871885&amp;set=a.1871
 <p><iframe loading="lazy" title="A Gazillion Updates! iPhone/iPad app, extensions, smileyti.me for sale, ascii art, remove timeline" width="640" height="360" src="https://www.youtube.com/embed/z3OHLe58vuQ?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/iphoneipadipod-app/feed/</wfw:commentRss>
+					<wfw:commentRss>https://turbolego.github.io/turbolego.com//iphoneipadipod-app/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

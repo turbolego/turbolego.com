@@ -9,8 +9,8 @@
 
 <channel>
 	<title>small &#8211; The Chat Codes Blog</title>
-	<atom:link href="/tag/small/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="https://turbolego.github.io/turbolego.com//tag/small/feed/" rel="self" type="application/rss+xml" />
+	<link>https://turbolego.github.io/turbolego.com/</link>
 	<description>For all that is chat related.</description>
 	<lastBuildDate>Thu, 31 Jan 2013 21:54:27 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	<generator>https://wordpress.org/?v=6.6.1</generator>
 	<item>
 		<title>Extension update and faster installation for Google Chrome!</title>
-		<link>/extension-update-and-faster-installation-for-google-chrome/</link>
-					<comments>/extension-update-and-faster-installation-for-google-chrome/#respond</comments>
+		<link>https://turbolego.github.io/turbolego.com//extension-update-and-faster-installation-for-google-chrome/</link>
+					<comments>https://turbolego.github.io/turbolego.com//extension-update-and-faster-installation-for-google-chrome/#respond</comments>
 		
 		<dc:creator><![CDATA[turbolego]]></dc:creator>
 		<pubDate>Thu, 31 Jan 2013 21:42:47 +0000</pubDate>
@@ -50,25 +50,25 @@
 		<category><![CDATA[turbolego]]></category>
 		<category><![CDATA[update]]></category>
 		<category><![CDATA[userscripts]]></category>
-		<guid isPermaLink="false">/?p=394</guid>
+		<guid isPermaLink="false">https://turbolego.github.io/turbolego.com//?p=394</guid>
 
-					<description><![CDATA[Mohamed Mahmoud has made an updated version of his extension, and made a new and faster and easier installation guide for google chrome with the new Tampermonkey extension! I installed the new extension by Mohamed on google chrome in under &#8230; <a href="/extension-update-and-faster-installation-for-google-chrome/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
-										<content:encoded><![CDATA[<p><a href="/wp-content/uploads/2013/01/Screen-Shot-2013-01-31-at-8.40.55-PM.png"><img fetchpriority="high" decoding="async" class="alignright size-full wp-image-395" alt="Screen Shot 2013-01-31 at 8.40.55 PM" src="/wp-content/uploads/2013/01/Screen-Shot-2013-01-31-at-8.40.55-PM.png" width="260" height="283" /></a>Mohamed Mahmoud has made an updated version of his extension, and made a new and faster and easier installation guide for google chrome with the new Tampermonkey extension!</p>
+					<description><![CDATA[Mohamed Mahmoud has made an updated version of his extension, and made a new and faster and easier installation guide for google chrome with the new Tampermonkey extension! I installed the new extension by Mohamed on google chrome in under &#8230; <a href="https://turbolego.github.io/turbolego.com//extension-update-and-faster-installation-for-google-chrome/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[<p><a href="https://turbolego.github.io/turbolego.com//wp-content/uploads/2013/01/Screen-Shot-2013-01-31-at-8.40.55-PM.png"><img fetchpriority="high" decoding="async" class="alignright size-full wp-image-395" alt="Screen Shot 2013-01-31 at 8.40.55 PM" src="https://turbolego.github.io/turbolego.com//wp-content/uploads/2013/01/Screen-Shot-2013-01-31-at-8.40.55-PM.png" width="260" height="283" /></a>Mohamed Mahmoud has made an updated version of his extension, and made a new and faster and easier installation guide for google chrome with the new Tampermonkey extension!</p>
 <p>I installed the new extension by Mohamed on google chrome in under 1 minute with just a couple clicks!</p>
 <p>Firefox users still have to use Greasemonkey.</p>
 <p>Check out Mohamed&#8217;s blog for installation guide: <a title="http://press-share.blogspot.no/2013/01/facebook-chat-emoticons-by-mohamed.html" href="http://press-share.blogspot.no/2013/01/facebook-chat-emoticons-by-mohamed.html" target="_blank">http://press-share.blogspot.no/2013/01/facebook-chat-emoticons-by-mohamed.html</a></p>
 <p>If you already have Tampermonkey/Greasemonkey, go here to install the script: <a title="http://userscripts.org/scripts/show/140346" href="http://userscripts.org/scripts/show/140346" target="_blank">http://userscripts.org/scripts/show/140346</a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/extension-update-and-faster-installation-for-google-chrome/feed/</wfw:commentRss>
+					<wfw:commentRss>https://turbolego.github.io/turbolego.com//extension-update-and-faster-installation-for-google-chrome/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>ChatCodes in the google plus chat!</title>
-		<link>/chatcodes-in-the-google-plus-chat/</link>
-					<comments>/chatcodes-in-the-google-plus-chat/#respond</comments>
+		<link>https://turbolego.github.io/turbolego.com//chatcodes-in-the-google-plus-chat/</link>
+					<comments>https://turbolego.github.io/turbolego.com//chatcodes-in-the-google-plus-chat/#respond</comments>
 		
 		<dc:creator><![CDATA[turbolego]]></dc:creator>
 		<pubDate>Wed, 19 Dec 2012 01:54:46 +0000</pubDate>
@@ -95,12 +95,12 @@
 		<category><![CDATA[smileys]]></category>
 		<category><![CDATA[turboelgo]]></category>
 		<category><![CDATA[turbolego]]></category>
-		<guid isPermaLink="false">/?p=367</guid>
+		<guid isPermaLink="false">https://turbolego.github.io/turbolego.com//?p=367</guid>
 
-					<description><![CDATA[Alright, so this is my first attempt to get chatcodes to work in the google plus chat, and i think i&#8217;m on to something! First off, i checked the dimentions of the chat-window, since i don&#8217;t want to make gigantic &#8230; <a href="/chatcodes-in-the-google-plus-chat/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+					<description><![CDATA[Alright, so this is my first attempt to get chatcodes to work in the google plus chat, and i think i&#8217;m on to something! First off, i checked the dimentions of the chat-window, since i don&#8217;t want to make gigantic &#8230; <a href="https://turbolego.github.io/turbolego.com//chatcodes-in-the-google-plus-chat/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
 										<content:encoded><![CDATA[<p>Alright, so this is my first attempt to get chatcodes to work in the google plus chat, and i think i&#8217;m on to something!</p>
 <p>First off, i checked the dimentions of the chat-window, since i don&#8217;t want to make gigantic chatcodes where the user(s) have to expand the window to see the code.</p>
-<p><a href="/chatcodes-in-the-google-plus-chat/screen-shot-2012-12-19-at-12-38-06-am/" rel="attachment wp-att-368"><img decoding="async" class="alignright size-medium wp-image-368" alt="Screen Shot 2012-12-19 at 12.38.06 AM" src="/wp-content/uploads/2012/12/Screen-Shot-2012-12-19-at-12.38.06-AM-170x300.png" width="170" height="300" srcset="/wp-content/uploads/2012/12/Screen-Shot-2012-12-19-at-12.38.06-AM-170x300.png 170w, /wp-content/uploads/2012/12/Screen-Shot-2012-12-19-at-12.38.06-AM.png 179w" sizes="(max-width: 170px) 100vw, 170px" /></a>These are the max-dimentions i found:</p>
+<p><a href="https://turbolego.github.io/turbolego.com//chatcodes-in-the-google-plus-chat/screen-shot-2012-12-19-at-12-38-06-am/" rel="attachment wp-att-368"><img decoding="async" class="alignright size-medium wp-image-368" alt="Screen Shot 2012-12-19 at 12.38.06 AM" src="https://turbolego.github.io/turbolego.com//wp-content/uploads/2012/12/Screen-Shot-2012-12-19-at-12.38.06-AM-170x300.png" width="170" height="300" srcset="https://turbolego.github.io/turbolego.com//wp-content/uploads/2012/12/Screen-Shot-2012-12-19-at-12.38.06-AM-170x300.png 170w, https://turbolego.github.io/turbolego.com//wp-content/uploads/2012/12/Screen-Shot-2012-12-19-at-12.38.06-AM.png 179w" sizes="(max-width: 170px) 100vw, 170px" /></a>These are the max-dimentions i found:</p>
 <p>Width:</p>
 <p>,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 38 commas<br />
 _____________________ 21 underscores<br />
@@ -109,13 +109,13 @@ aaaaaaaaaaaaaaaaaaaa 22 letters (lower-case)<br />
 BBBBBBBBBBBBBBBB 17 letters (Upper-case)</p>
 <p>Height:</p>
 <p>10 letters/symbols/numbers (anything)</p>
-<p><a href="/chatcodes-in-the-google-plus-chat/screen-shot-2012-12-19-at-2-04-33-am/" rel="attachment wp-att-369"><img decoding="async" class="alignright size-medium wp-image-369" alt="Screen Shot 2012-12-19 at 2.04.33 AM" src="/wp-content/uploads/2012/12/Screen-Shot-2012-12-19-at-2.04.33-AM-300x159.png" width="300" height="159" srcset="/wp-content/uploads/2012/12/Screen-Shot-2012-12-19-at-2.04.33-AM-300x159.png 300w, /wp-content/uploads/2012/12/Screen-Shot-2012-12-19-at-2.04.33-AM.png 442w" sizes="(max-width: 300px) 100vw, 300px" /></a>If you post a new message to someone, the default size is f.ex. 17 upper-case letters in width and 10 letters in height, so this was my target size. Then, i looked for some ascii-art generators, and found this one: <a title="http://www.degraeve.com/img2txt.php" href="http://www.degraeve.com/img2txt.php" target="_blank">http://www.degraeve.com/img2txt.php</a></p>
+<p><a href="https://turbolego.github.io/turbolego.com//chatcodes-in-the-google-plus-chat/screen-shot-2012-12-19-at-2-04-33-am/" rel="attachment wp-att-369"><img decoding="async" class="alignright size-medium wp-image-369" alt="Screen Shot 2012-12-19 at 2.04.33 AM" src="https://turbolego.github.io/turbolego.com//wp-content/uploads/2012/12/Screen-Shot-2012-12-19-at-2.04.33-AM-300x159.png" width="300" height="159" srcset="https://turbolego.github.io/turbolego.com//wp-content/uploads/2012/12/Screen-Shot-2012-12-19-at-2.04.33-AM-300x159.png 300w, https://turbolego.github.io/turbolego.com//wp-content/uploads/2012/12/Screen-Shot-2012-12-19-at-2.04.33-AM.png 442w" sizes="(max-width: 300px) 100vw, 300px" /></a>If you post a new message to someone, the default size is f.ex. 17 upper-case letters in width and 10 letters in height, so this was my target size. Then, i looked for some ascii-art generators, and found this one: <a title="http://www.degraeve.com/img2txt.php" href="http://www.degraeve.com/img2txt.php" target="_blank">http://www.degraeve.com/img2txt.php</a></p>
 <p>&nbsp;</p>
-<p><a href="/chatcodes-in-the-google-plus-chat/screen-shot-2012-12-19-at-2-22-33-am-2/" rel="attachment wp-att-371"><img loading="lazy" decoding="async" class="alignright size-medium wp-image-371" alt="Screen Shot 2012-12-19 at 2.22.33 AM" src="/wp-content/uploads/2012/12/Screen-Shot-2012-12-19-at-2.22.33-AM1-300x246.png" width="300" height="246" srcset="/wp-content/uploads/2012/12/Screen-Shot-2012-12-19-at-2.22.33-AM1-300x246.png 300w, /wp-content/uploads/2012/12/Screen-Shot-2012-12-19-at-2.22.33-AM1.png 542w" sizes="(max-width: 300px) 100vw, 300px" /></a>Using one letter and color-html, i was able to make a ascii-art version of the &#8220;awesome smiley&#8221; picture. Then, i checked out what kind of formatting the google plus chat could provide, and found that if you typed:</p>
+<p><a href="https://turbolego.github.io/turbolego.com//chatcodes-in-the-google-plus-chat/screen-shot-2012-12-19-at-2-22-33-am-2/" rel="attachment wp-att-371"><img loading="lazy" decoding="async" class="alignright size-medium wp-image-371" alt="Screen Shot 2012-12-19 at 2.22.33 AM" src="https://turbolego.github.io/turbolego.com//wp-content/uploads/2012/12/Screen-Shot-2012-12-19-at-2.22.33-AM1-300x246.png" width="300" height="246" srcset="https://turbolego.github.io/turbolego.com//wp-content/uploads/2012/12/Screen-Shot-2012-12-19-at-2.22.33-AM1-300x246.png 300w, https://turbolego.github.io/turbolego.com//wp-content/uploads/2012/12/Screen-Shot-2012-12-19-at-2.22.33-AM1.png 542w" sizes="(max-width: 300px) 100vw, 300px" /></a>Using one letter and color-html, i was able to make a ascii-art version of the &#8220;awesome smiley&#8221; picture. Then, i checked out what kind of formatting the google plus chat could provide, and found that if you typed:</p>
 <p>*something here* = <strong>something here</strong></p>
 <p>_something here_ =<em> something here</em></p>
 <p>-something here- = <del>something here</del></p>
-<p><a href="/chatcodes-in-the-google-plus-chat/screen-shot-2012-12-19-at-2-27-00-am/" rel="attachment wp-att-372"><img loading="lazy" decoding="async" class="alignright size-medium wp-image-372" alt="Screen Shot 2012-12-19 at 2.27.00 AM" src="/wp-content/uploads/2012/12/Screen-Shot-2012-12-19-at-2.27.00-AM-300x220.png" width="300" height="220" srcset="/wp-content/uploads/2012/12/Screen-Shot-2012-12-19-at-2.27.00-AM-300x220.png 300w, /wp-content/uploads/2012/12/Screen-Shot-2012-12-19-at-2.27.00-AM.png 475w" sizes="(max-width: 300px) 100vw, 300px" /></a>So, i then went in my favorite text-editor, pasted in the colorised html code, and gave the text a light background so that i could see what i was doing. Then, i added &#8220;*&#8221;, &#8220;-&#8221; or &#8220;_&#8221; depending on the color. This is the first code i came up with:</p>
+<p><a href="https://turbolego.github.io/turbolego.com//chatcodes-in-the-google-plus-chat/screen-shot-2012-12-19-at-2-27-00-am/" rel="attachment wp-att-372"><img loading="lazy" decoding="async" class="alignright size-medium wp-image-372" alt="Screen Shot 2012-12-19 at 2.27.00 AM" src="https://turbolego.github.io/turbolego.com//wp-content/uploads/2012/12/Screen-Shot-2012-12-19-at-2.27.00-AM-300x220.png" width="300" height="220" srcset="https://turbolego.github.io/turbolego.com//wp-content/uploads/2012/12/Screen-Shot-2012-12-19-at-2.27.00-AM-300x220.png 300w, https://turbolego.github.io/turbolego.com//wp-content/uploads/2012/12/Screen-Shot-2012-12-19-at-2.27.00-AM.png 475w" sizes="(max-width: 300px) 100vw, 300px" /></a>So, i then went in my favorite text-editor, pasted in the colorised html code, and gave the text a light background so that i could see what i was doing. Then, i added &#8220;*&#8221;, &#8220;-&#8221; or &#8220;_&#8221; depending on the color. This is the first code i came up with:</p>
 <h6></h6>
 <h6></h6>
 <h6>-AAAAAA-*AAAAA*-AAAAAA-<br />
@@ -136,7 +136,7 @@ BBBBBBBBBBBBBBBB 17 letters (Upper-case)</p>
 -AAAA-*A*_AAAAAAA_*A*-AAAA-<br />
 -AAAAAA-*AAAAA*-AAAAAA-</h6>
 <p>This code looked like crap, so i decided to change the letter &#8220;A&#8221; to something else&#8230;</p>
-<p><img loading="lazy" decoding="async" class="alignright size-medium wp-image-375" style="line-height: 24px; font-size: 16px;" alt="Screen Shot 2012-12-19 at 2.30.55 AM" src="/wp-content/uploads/2012/12/Screen-Shot-2012-12-19-at-2.30.55-AM-174x300.png" width="174" height="300" srcset="/wp-content/uploads/2012/12/Screen-Shot-2012-12-19-at-2.30.55-AM-174x300.png 174w, /wp-content/uploads/2012/12/Screen-Shot-2012-12-19-at-2.30.55-AM.png 234w" sizes="(max-width: 174px) 100vw, 174px" /></p>
+<p><img loading="lazy" decoding="async" class="alignright size-medium wp-image-375" style="line-height: 24px; font-size: 16px;" alt="Screen Shot 2012-12-19 at 2.30.55 AM" src="https://turbolego.github.io/turbolego.com//wp-content/uploads/2012/12/Screen-Shot-2012-12-19-at-2.30.55-AM-174x300.png" width="174" height="300" srcset="https://turbolego.github.io/turbolego.com//wp-content/uploads/2012/12/Screen-Shot-2012-12-19-at-2.30.55-AM-174x300.png 174w, https://turbolego.github.io/turbolego.com//wp-content/uploads/2012/12/Screen-Shot-2012-12-19-at-2.30.55-AM.png 234w" sizes="(max-width: 174px) 100vw, 174px" /></p>
 <h6>-[][][][][][]-*[][][][][]*-[][][][][][]-<br />
 -[][][][]-*[]*_[][][][][][][]_*[]*-[][][][]-<br />
 -[][]-*[][]*_[][][][][][][][][]_*[][]*-[][]-<br />
@@ -156,7 +156,7 @@ BBBBBBBBBBBBBBBB 17 letters (Upper-case)</p>
 -[][][][][][]-*[][][][][]*-[][][][][][]-</h6>
 <p>&nbsp;</p>
 <p>This is the best so far, and takes up a little less space than the upper-case letter &#8220;A&#8221; (max 17 letters wide). So i made another version, 22 letters wide:</p>
-<p><a href="/chatcodes-in-the-google-plus-chat/screen-shot-2012-12-19-at-2-36-03-am/" rel="attachment wp-att-376"><img loading="lazy" decoding="async" class="alignright size-medium wp-image-376" alt="Screen Shot 2012-12-19 at 2.36.03 AM" src="/wp-content/uploads/2012/12/Screen-Shot-2012-12-19-at-2.36.03-AM-146x300.png" width="146" height="300" srcset="/wp-content/uploads/2012/12/Screen-Shot-2012-12-19-at-2.36.03-AM-146x300.png 146w, /wp-content/uploads/2012/12/Screen-Shot-2012-12-19-at-2.36.03-AM.png 233w" sizes="(max-width: 146px) 100vw, 146px" /></a></p>
+<p><a href="https://turbolego.github.io/turbolego.com//chatcodes-in-the-google-plus-chat/screen-shot-2012-12-19-at-2-36-03-am/" rel="attachment wp-att-376"><img loading="lazy" decoding="async" class="alignright size-medium wp-image-376" alt="Screen Shot 2012-12-19 at 2.36.03 AM" src="https://turbolego.github.io/turbolego.com//wp-content/uploads/2012/12/Screen-Shot-2012-12-19-at-2.36.03-AM-146x300.png" width="146" height="300" srcset="https://turbolego.github.io/turbolego.com//wp-content/uploads/2012/12/Screen-Shot-2012-12-19-at-2.36.03-AM-146x300.png 146w, https://turbolego.github.io/turbolego.com//wp-content/uploads/2012/12/Screen-Shot-2012-12-19-at-2.36.03-AM.png 233w" sizes="(max-width: 146px) 100vw, 146px" /></a></p>
 <h6>-[][][][][][][][]-*[][][][][][]*-[][][][][][][][]-<br />
 -[][][][][]-*[][][]*_[][][][][][]_*[][][]*-[][][][][]-<br />
 -[][][][]-*[][]*_[][][][][][][][][][]_*[][]*-[][][][]-<br />
@@ -179,10 +179,10 @@ BBBBBBBBBBBBBBBB 17 letters (Upper-case)</p>
 -[][][][]-*[][]*_[][]_*[][][][][]*_[][][]_*[][]*-[][][][]-<br />
 -[][][][][]-*[][][]*_[][][][][][]_*[][][]*-[][][][][]-<br />
 -[][][][][][][][]-*[][][][][][]*-[][][][][][][][]-</h6>
-<p><a href="/chatcodes-in-the-google-plus-chat/screen-shot-2012-12-19-at-2-39-33-am/" rel="attachment wp-att-377"><img loading="lazy" decoding="async" class="alignright size-medium wp-image-377" alt="Screen Shot 2012-12-19 at 2.39.33 AM" src="/wp-content/uploads/2012/12/Screen-Shot-2012-12-19-at-2.39.33-AM-300x131.png" width="300" height="131" srcset="/wp-content/uploads/2012/12/Screen-Shot-2012-12-19-at-2.39.33-AM-300x131.png 300w, /wp-content/uploads/2012/12/Screen-Shot-2012-12-19-at-2.39.33-AM.png 435w" sizes="(max-width: 300px) 100vw, 300px" /></a>This is the last attempti&#8217;ve made so far, and could be the beginning of chatcodes on google plus in 3 &#8220;colors&#8221;. After further inspection, i found that the max length of &#8220;[]&#8221; is 25. Meaning you can take any picture to <a title="http://www.degraeve.com/img2txt.php" href="http://www.degraeve.com/img2txt.php" target="_blank">http://www.degraeve.com/img2txt.php</a>, select the settings in the picture to the right, then, copy the ascii-code into a text-editor that can handle html-color (like TextEdit on mac) and add &#8220;*&#8221;, &#8220;_&#8221; or &#8220;-&#8221; around the text of different colors&#8230;</p>
+<p><a href="https://turbolego.github.io/turbolego.com//chatcodes-in-the-google-plus-chat/screen-shot-2012-12-19-at-2-39-33-am/" rel="attachment wp-att-377"><img loading="lazy" decoding="async" class="alignright size-medium wp-image-377" alt="Screen Shot 2012-12-19 at 2.39.33 AM" src="https://turbolego.github.io/turbolego.com//wp-content/uploads/2012/12/Screen-Shot-2012-12-19-at-2.39.33-AM-300x131.png" width="300" height="131" srcset="https://turbolego.github.io/turbolego.com//wp-content/uploads/2012/12/Screen-Shot-2012-12-19-at-2.39.33-AM-300x131.png 300w, https://turbolego.github.io/turbolego.com//wp-content/uploads/2012/12/Screen-Shot-2012-12-19-at-2.39.33-AM.png 435w" sizes="(max-width: 300px) 100vw, 300px" /></a>This is the last attempti&#8217;ve made so far, and could be the beginning of chatcodes on google plus in 3 &#8220;colors&#8221;. After further inspection, i found that the max length of &#8220;[]&#8221; is 25. Meaning you can take any picture to <a title="http://www.degraeve.com/img2txt.php" href="http://www.degraeve.com/img2txt.php" target="_blank">http://www.degraeve.com/img2txt.php</a>, select the settings in the picture to the right, then, copy the ascii-code into a text-editor that can handle html-color (like TextEdit on mac) and add &#8220;*&#8221;, &#8220;_&#8221; or &#8220;-&#8221; around the text of different colors&#8230;</p>
 <p>This is the largest &#8220;awesome smiley&#8221; google plus chatcode i&#8217;ve made so far, have fun posting it around, and have fun making more of these!</p>
 <p>If you make a code, please post it in the ChatCodes group on google plus: <a title="http://gplus.to/ChatCodes" href="http://gplus.to/ChatCodes" target="_blank">http://gplus.to/ChatCodes</a></p>
-<h6><a href="/chatcodes-in-the-google-plus-chat/screen-shot-2012-12-19-at-2-49-45-am/" rel="attachment wp-att-378"><img loading="lazy" decoding="async" class="alignright size-medium wp-image-378" alt="Screen Shot 2012-12-19 at 2.49.45 AM" src="/wp-content/uploads/2012/12/Screen-Shot-2012-12-19-at-2.49.45-AM-126x300.png" width="126" height="300" srcset="/wp-content/uploads/2012/12/Screen-Shot-2012-12-19-at-2.49.45-AM-126x300.png 126w, /wp-content/uploads/2012/12/Screen-Shot-2012-12-19-at-2.49.45-AM.png 228w" sizes="(max-width: 126px) 100vw, 126px" /></a>-[][][][][][][][][]-*[][][][][][][]*-[][][][][][][][][]-<br />
+<h6><a href="https://turbolego.github.io/turbolego.com//chatcodes-in-the-google-plus-chat/screen-shot-2012-12-19-at-2-49-45-am/" rel="attachment wp-att-378"><img loading="lazy" decoding="async" class="alignright size-medium wp-image-378" alt="Screen Shot 2012-12-19 at 2.49.45 AM" src="https://turbolego.github.io/turbolego.com//wp-content/uploads/2012/12/Screen-Shot-2012-12-19-at-2.49.45-AM-126x300.png" width="126" height="300" srcset="https://turbolego.github.io/turbolego.com//wp-content/uploads/2012/12/Screen-Shot-2012-12-19-at-2.49.45-AM-126x300.png 126w, https://turbolego.github.io/turbolego.com//wp-content/uploads/2012/12/Screen-Shot-2012-12-19-at-2.49.45-AM.png 228w" sizes="(max-width: 126px) 100vw, 126px" /></a>-[][][][][][][][][]-*[][][][][][][]*-[][][][][][][][][]-<br />
 -[][][][][][]-*[][][]*_[][][][][][][]_*[][]*-[][][][][][][]-<br />
 -[][][][][]-*[][]*_[][][][][][][][][][][]_*[][]*-[][][][][]-<br />
 -[][][][]-*[]*_[][][][][][][][][][][][][][][]_*[]*-[][][][]-<br />
@@ -211,15 +211,15 @@ BBBBBBBBBBBBBBBB 17 letters (Upper-case)</p>
 <h6></h6>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/chatcodes-in-the-google-plus-chat/feed/</wfw:commentRss>
+					<wfw:commentRss>https://turbolego.github.io/turbolego.com//chatcodes-in-the-google-plus-chat/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>More updates on the latest extension!</title>
-		<link>/more-updates-on-the-latest-extension/</link>
-					<comments>/more-updates-on-the-latest-extension/#comments</comments>
+		<link>https://turbolego.github.io/turbolego.com//more-updates-on-the-latest-extension/</link>
+					<comments>https://turbolego.github.io/turbolego.com//more-updates-on-the-latest-extension/#comments</comments>
 		
 		<dc:creator><![CDATA[turbolego]]></dc:creator>
 		<pubDate>Thu, 29 Nov 2012 23:10:00 +0000</pubDate>
@@ -237,23 +237,23 @@ BBBBBBBBBBBBBBBB 17 letters (Upper-case)</p>
 		<category><![CDATA[smiley]]></category>
 		<category><![CDATA[smileys]]></category>
 		<category><![CDATA[turbolego]]></category>
-		<guid isPermaLink="false">/?p=354</guid>
+		<guid isPermaLink="false">https://turbolego.github.io/turbolego.com//?p=354</guid>
 
 					<description><![CDATA[The Extension for google chrome has now even more chatcodes! Memes and smileys in one single extension! Get it here: https://chrome.google.com/webstore/detail/facebook-memes/lbngkdfpleemhghepcpegikepknpebcp]]></description>
-										<content:encoded><![CDATA[<p><a href="/wp-content/uploads/2012/11/unnamed.jpg"><img loading="lazy" decoding="async" class="alignright  wp-image-355" title="unnamed" src="/wp-content/uploads/2012/11/unnamed.jpg" alt="" width="384" height="240" srcset="/wp-content/uploads/2012/11/unnamed.jpg 640w, /wp-content/uploads/2012/11/unnamed-300x187.jpg 300w" sizes="(max-width: 384px) 100vw, 384px" /></a>The Extension for google chrome has now even more chatcodes!</p>
+										<content:encoded><![CDATA[<p><a href="https://turbolego.github.io/turbolego.com//wp-content/uploads/2012/11/unnamed.jpg"><img loading="lazy" decoding="async" class="alignright  wp-image-355" title="unnamed" src="https://turbolego.github.io/turbolego.com//wp-content/uploads/2012/11/unnamed.jpg" alt="" width="384" height="240" srcset="https://turbolego.github.io/turbolego.com//wp-content/uploads/2012/11/unnamed.jpg 640w, https://turbolego.github.io/turbolego.com//wp-content/uploads/2012/11/unnamed-300x187.jpg 300w" sizes="(max-width: 384px) 100vw, 384px" /></a>The Extension for google chrome has now even more chatcodes!</p>
 <p>Memes and smileys in one single extension!</p>
 <p>Get it here: <a title="https://chrome.google.com/webstore/detail/facebook-memes/lbngkdfpleemhghepcpegikepknpebcp" href="https://chrome.google.com/webstore/detail/facebook-memes/lbngkdfpleemhghepcpegikepknpebcp" target="_blank">https://chrome.google.com/webstore/detail/facebook-memes/lbngkdfpleemhghepcpegikepknpebcp</a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/more-updates-on-the-latest-extension/feed/</wfw:commentRss>
+					<wfw:commentRss>https://turbolego.github.io/turbolego.com//more-updates-on-the-latest-extension/feed/</wfw:commentRss>
 			<slash:comments>4</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>New Extension!</title>
-		<link>/new-extension-2/</link>
-					<comments>/new-extension-2/#comments</comments>
+		<link>https://turbolego.github.io/turbolego.com//new-extension-2/</link>
+					<comments>https://turbolego.github.io/turbolego.com//new-extension-2/#comments</comments>
 		
 		<dc:creator><![CDATA[turbolego]]></dc:creator>
 		<pubDate>Thu, 01 Nov 2012 03:03:06 +0000</pubDate>
@@ -280,10 +280,10 @@ BBBBBBBBBBBBBBBB 17 letters (Upper-case)</p>
 		<category><![CDATA[turbolego]]></category>
 		<category><![CDATA[userscripts]]></category>
 		<category><![CDATA[youtube]]></category>
-		<guid isPermaLink="false">/?p=339</guid>
+		<guid isPermaLink="false">https://turbolego.github.io/turbolego.com//?p=339</guid>
 
-					<description><![CDATA[Mohamed Mahmoud released Facebook chat emoticons with new and big pictures v3 today! Get it here: http://userscripts.org/scripts/show/140346 For Google chrome users, download and open this file first: http://www.mediafire.com/?b6eutyx5ul85lql Or see how to install it from here : http://www.youtube.com/watch?v=WG_kM8BEIQE For Firefox users, first install &#8230; <a href="/new-extension-2/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
-										<content:encoded><![CDATA[<p><a href="/wp-content/uploads/2012/11/521652_4872884183674_546364612_n.jpeg"><img loading="lazy" decoding="async" class="alignright size-full wp-image-340" title="521652_4872884183674_546364612_n" src="/wp-content/uploads/2012/11/521652_4872884183674_546364612_n.jpeg" alt="" width="236" height="255" /></a>Mohamed Mahmoud released Facebook chat emoticons with new and big pictures v3 today!</p>
+					<description><![CDATA[Mohamed Mahmoud released Facebook chat emoticons with new and big pictures v3 today! Get it here: http://userscripts.org/scripts/show/140346 For Google chrome users, download and open this file first: http://www.mediafire.com/?b6eutyx5ul85lql Or see how to install it from here : http://www.youtube.com/watch?v=WG_kM8BEIQE For Firefox users, first install &#8230; <a href="https://turbolego.github.io/turbolego.com//new-extension-2/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[<p><a href="https://turbolego.github.io/turbolego.com//wp-content/uploads/2012/11/521652_4872884183674_546364612_n.jpeg"><img loading="lazy" decoding="async" class="alignright size-full wp-image-340" title="521652_4872884183674_546364612_n" src="https://turbolego.github.io/turbolego.com//wp-content/uploads/2012/11/521652_4872884183674_546364612_n.jpeg" alt="" width="236" height="255" /></a>Mohamed Mahmoud released Facebook chat emoticons with new and big pictures v3 today!</p>
 <p>Get it here:<br />
 <a title="http://userscripts.org/scripts/show/140346 " href="http://userscripts.org/scripts/show/140346 " target="_blank">http://userscripts.org/scripts/show/140346</a></p>
 <p>For Google chrome users, download and open this file first:</p>
@@ -298,15 +298,15 @@ For animated pictures: see this note:<br />
 <a title="http://www.facebook.com/mohamed408/notes" href="http://www.facebook.com/mohamed408/notes" target="_blank">http://www.facebook.com/mohamed408/notes</a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/new-extension-2/feed/</wfw:commentRss>
+					<wfw:commentRss>https://turbolego.github.io/turbolego.com//new-extension-2/feed/</wfw:commentRss>
 			<slash:comments>3</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Chat codes you can remember!</title>
-		<link>/chat-codes-you-can-remember/</link>
-					<comments>/chat-codes-you-can-remember/#comments</comments>
+		<link>https://turbolego.github.io/turbolego.com//chat-codes-you-can-remember/</link>
+					<comments>https://turbolego.github.io/turbolego.com//chat-codes-you-can-remember/#comments</comments>
 		
 		<dc:creator><![CDATA[turbolego]]></dc:creator>
 		<pubDate>Fri, 12 Oct 2012 23:07:19 +0000</pubDate>
@@ -329,10 +329,10 @@ For animated pictures: see this note:<br />
 		<category><![CDATA[turbolego]]></category>
 		<category><![CDATA[turbolego.com/L.txt]]></category>
 		<category><![CDATA[username]]></category>
-		<guid isPermaLink="false">/?p=318</guid>
+		<guid isPermaLink="false">https://turbolego.github.io/turbolego.com//?p=318</guid>
 
-					<description><![CDATA[Today i started making some facebook smileys with codes that you can actually remember! Usually, the chatcodes are something long and bizarre like &#8220;[[149269741885552]]&#8221; but there&#8217;s a way to make a chatcode like &#8220;[[chatcodes]]&#8221; for small smileys! Here&#8217;s a small &#8230; <a href="/chat-codes-you-can-remember/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
-										<content:encoded><![CDATA[<p><a href="/wp-content/uploads/2012/10/Screen-Shot-2012-10-13-at-12.41.32-AM.png"><img loading="lazy" decoding="async" class="alignright size-full wp-image-325" title="Screen Shot 2012-10-13 at 12.41.32 AM" src="/wp-content/uploads/2012/10/Screen-Shot-2012-10-13-at-12.41.32-AM.png" alt="" width="261" height="284" /></a>Today i started making some facebook smileys with codes that you can actually remember!</p>
+					<description><![CDATA[Today i started making some facebook smileys with codes that you can actually remember! Usually, the chatcodes are something long and bizarre like &#8220;[[149269741885552]]&#8221; but there&#8217;s a way to make a chatcode like &#8220;[[chatcodes]]&#8221; for small smileys! Here&#8217;s a small &#8230; <a href="https://turbolego.github.io/turbolego.com//chat-codes-you-can-remember/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[<p><a href="https://turbolego.github.io/turbolego.com//wp-content/uploads/2012/10/Screen-Shot-2012-10-13-at-12.41.32-AM.png"><img loading="lazy" decoding="async" class="alignright size-full wp-image-325" title="Screen Shot 2012-10-13 at 12.41.32 AM" src="https://turbolego.github.io/turbolego.com//wp-content/uploads/2012/10/Screen-Shot-2012-10-13-at-12.41.32-AM.png" alt="" width="261" height="284" /></a>Today i started making some facebook smileys with codes that you can actually remember!</p>
 <p>Usually, the chatcodes are something long and bizarre like &#8220;[[149269741885552]]&#8221; but there&#8217;s a way to make a chatcode like &#8220;[[chatcodes]]&#8221; for small smileys!</p>
 <p>Here&#8217;s a small collection of some smileys with chatcodes you can remember:</p>
 <p data-jsid="message">Fuck you: [[midfing]] <img decoding="async" title="midfing" src="http://graph.facebook.com/midfing/picture" alt="[[midfing]]" /><br />
@@ -348,30 +348,30 @@ Rock sign: [[roxsign]] <img decoding="async" title="roxsign" src="http://graph.
 <p data-jsid="message">2. A 180 x 180 pixel picture that still looks good when shrinked down to 16 x 16 pixels.</p>
 <p data-jsid="message">Example:</p>
 <p data-jsid="message">180 x 180:</p>
-<p data-jsid="message"><a href="/wp-content/uploads/2012/10/ball.png"><img loading="lazy" decoding="async" class="size-thumbnail wp-image-319 alignnone" title="ball" src="/wp-content/uploads/2012/10/ball-150x150.png" alt="" width="150" height="150" srcset="/wp-content/uploads/2012/10/ball-150x150.png 150w, /wp-content/uploads/2012/10/ball.png 297w" sizes="(max-width: 150px) 100vw, 150px" /></a></p>
+<p data-jsid="message"><a href="https://turbolego.github.io/turbolego.com//wp-content/uploads/2012/10/ball.png"><img loading="lazy" decoding="async" class="size-thumbnail wp-image-319 alignnone" title="ball" src="https://turbolego.github.io/turbolego.com//wp-content/uploads/2012/10/ball-150x150.png" alt="" width="150" height="150" srcset="https://turbolego.github.io/turbolego.com//wp-content/uploads/2012/10/ball-150x150.png 150w, https://turbolego.github.io/turbolego.com//wp-content/uploads/2012/10/ball.png 297w" sizes="(max-width: 150px) 100vw, 150px" /></a></p>
 <p data-jsid="message">16 x 16:</p>
-<p data-jsid="message"><a href="/wp-content/uploads/2012/10/Screen-Shot-2012-10-13-at-12.49.17-AM.png"><img loading="lazy" decoding="async" class="size-full wp-image-321 alignnone" title="Screen Shot 2012-10-13 at 12.49.17 AM" src="/wp-content/uploads/2012/10/Screen-Shot-2012-10-13-at-12.49.17-AM.png" alt="" width="23" height="23" /></a></p>
+<p data-jsid="message"><a href="https://turbolego.github.io/turbolego.com//wp-content/uploads/2012/10/Screen-Shot-2012-10-13-at-12.49.17-AM.png"><img loading="lazy" decoding="async" class="size-full wp-image-321 alignnone" title="Screen Shot 2012-10-13 at 12.49.17 AM" src="https://turbolego.github.io/turbolego.com//wp-content/uploads/2012/10/Screen-Shot-2012-10-13-at-12.49.17-AM.png" alt="" width="23" height="23" /></a></p>
 <p data-jsid="message">3. Upload the 180 x 180 pixel picture to your page, and use it as the page profile picture.</p>
-<p data-jsid="message"><a href="/wp-content/uploads/2012/10/Screen-Shot-2012-10-13-at-12.52.32-AM1.png"><img loading="lazy" decoding="async" class="alignnone size-full wp-image-323" title="Screen Shot 2012-10-13 at 12.52.32 AM" src="/wp-content/uploads/2012/10/Screen-Shot-2012-10-13-at-12.52.32-AM1.png" alt="" width="401" height="190" srcset="/wp-content/uploads/2012/10/Screen-Shot-2012-10-13-at-12.52.32-AM1.png 401w, /wp-content/uploads/2012/10/Screen-Shot-2012-10-13-at-12.52.32-AM1-300x142.png 300w" sizes="(max-width: 401px) 100vw, 401px" /></a></p>
+<p data-jsid="message"><a href="https://turbolego.github.io/turbolego.com//wp-content/uploads/2012/10/Screen-Shot-2012-10-13-at-12.52.32-AM1.png"><img loading="lazy" decoding="async" class="alignnone size-full wp-image-323" title="Screen Shot 2012-10-13 at 12.52.32 AM" src="https://turbolego.github.io/turbolego.com//wp-content/uploads/2012/10/Screen-Shot-2012-10-13-at-12.52.32-AM1.png" alt="" width="401" height="190" srcset="https://turbolego.github.io/turbolego.com//wp-content/uploads/2012/10/Screen-Shot-2012-10-13-at-12.52.32-AM1.png 401w, https://turbolego.github.io/turbolego.com//wp-content/uploads/2012/10/Screen-Shot-2012-10-13-at-12.52.32-AM1-300x142.png 300w" sizes="(max-width: 401px) 100vw, 401px" /></a></p>
 <p data-jsid="message">4. Get 25 likes.</p>
 <p data-jsid="message">5. Go to &#8220;Edit page&#8221; and then &#8220;Update info&#8221;.</p>
 <p data-jsid="message">6. Select a nickname/username:</p>
-<p data-jsid="message"><a href="/wp-content/uploads/2012/10/Screen-Shot-2012-10-13-at-12.59.08-AM.png"><img loading="lazy" decoding="async" class="alignnone size-full wp-image-324" title="Screen Shot 2012-10-13 at 12.59.08 AM" src="/wp-content/uploads/2012/10/Screen-Shot-2012-10-13-at-12.59.08-AM.png" alt="" width="535" height="144" srcset="/wp-content/uploads/2012/10/Screen-Shot-2012-10-13-at-12.59.08-AM.png 535w, /wp-content/uploads/2012/10/Screen-Shot-2012-10-13-at-12.59.08-AM-300x80.png 300w" sizes="(max-width: 535px) 100vw, 535px" /></a></p>
+<p data-jsid="message"><a href="https://turbolego.github.io/turbolego.com//wp-content/uploads/2012/10/Screen-Shot-2012-10-13-at-12.59.08-AM.png"><img loading="lazy" decoding="async" class="alignnone size-full wp-image-324" title="Screen Shot 2012-10-13 at 12.59.08 AM" src="https://turbolego.github.io/turbolego.com//wp-content/uploads/2012/10/Screen-Shot-2012-10-13-at-12.59.08-AM.png" alt="" width="535" height="144" srcset="https://turbolego.github.io/turbolego.com//wp-content/uploads/2012/10/Screen-Shot-2012-10-13-at-12.59.08-AM.png 535w, https://turbolego.github.io/turbolego.com//wp-content/uploads/2012/10/Screen-Shot-2012-10-13-at-12.59.08-AM-300x80.png 300w" sizes="(max-width: 535px) 100vw, 535px" /></a></p>
 <p data-jsid="message">Once you have found a available nickname/username, your page will be named like this: http://facebook.com/the username you selected</p>
 <p>Now you can take your username, and put it in brackets like this: [[the username you selected]] and post it in the chat.</p>
-<p data-jsid="message"><a href="/wp-content/uploads/2012/10/Screen-Shot-2012-10-13-at-1.05.07-AM.png"><img loading="lazy" decoding="async" class="alignnone size-full wp-image-326" title="Screen Shot 2012-10-13 at 1.05.07 AM" src="/wp-content/uploads/2012/10/Screen-Shot-2012-10-13-at-1.05.07-AM.png" alt="" width="260" height="112" /></a></p>
+<p data-jsid="message"><a href="https://turbolego.github.io/turbolego.com//wp-content/uploads/2012/10/Screen-Shot-2012-10-13-at-1.05.07-AM.png"><img loading="lazy" decoding="async" class="alignnone size-full wp-image-326" title="Screen Shot 2012-10-13 at 1.05.07 AM" src="https://turbolego.github.io/turbolego.com//wp-content/uploads/2012/10/Screen-Shot-2012-10-13-at-1.05.07-AM.png" alt="" width="260" height="112" /></a></p>
 <p data-jsid="message">Have fun! :3</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/chat-codes-you-can-remember/feed/</wfw:commentRss>
+					<wfw:commentRss>https://turbolego.github.io/turbolego.com//chat-codes-you-can-remember/feed/</wfw:commentRss>
 			<slash:comments>10</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Make your own animated chat-pictures!</title>
-		<link>/make-your-own-animated-chat-pictures/</link>
-					<comments>/make-your-own-animated-chat-pictures/#comments</comments>
+		<link>https://turbolego.github.io/turbolego.com//make-your-own-animated-chat-pictures/</link>
+					<comments>https://turbolego.github.io/turbolego.com//make-your-own-animated-chat-pictures/#comments</comments>
 		
 		<dc:creator><![CDATA[turbolego]]></dc:creator>
 		<pubDate>Thu, 06 Sep 2012 05:46:57 +0000</pubDate>
@@ -394,31 +394,31 @@ Rock sign: [[roxsign]] <img decoding="async" title="roxsign" src="http://graph.
 		<category><![CDATA[turboelgo]]></category>
 		<category><![CDATA[turbolego]]></category>
 		<category><![CDATA[turbolego.com/L.txt]]></category>
-		<guid isPermaLink="false">/?p=294</guid>
+		<guid isPermaLink="false">https://turbolego.github.io/turbolego.com//?p=294</guid>
 
-					<description><![CDATA[Mohamed Mahmoud is still finding new tricks, and now he has found a way to make new animated pictures that can be sent trough the &#8220;share&#8221; button to facebook chat! This is how you do it: 1. Go to http://www.facebook.com/notes.php &#8230; <a href="/make-your-own-animated-chat-pictures/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
-										<content:encoded><![CDATA[<p><img loading="lazy" decoding="async" class="alignright size-medium wp-image-295" title="Screen Shot 2012-09-06 at 7.38.16 AM" src="/wp-content/uploads/2012/09/Screen-Shot-2012-09-06-at-7.38.16-AM-300x260.png" alt="" width="300" height="260" srcset="/wp-content/uploads/2012/09/Screen-Shot-2012-09-06-at-7.38.16-AM-300x260.png 300w, /wp-content/uploads/2012/09/Screen-Shot-2012-09-06-at-7.38.16-AM.png 801w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+					<description><![CDATA[Mohamed Mahmoud is still finding new tricks, and now he has found a way to make new animated pictures that can be sent trough the &#8220;share&#8221; button to facebook chat! This is how you do it: 1. Go to http://www.facebook.com/notes.php &#8230; <a href="https://turbolego.github.io/turbolego.com//make-your-own-animated-chat-pictures/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[<p><img loading="lazy" decoding="async" class="alignright size-medium wp-image-295" title="Screen Shot 2012-09-06 at 7.38.16 AM" src="https://turbolego.github.io/turbolego.com//wp-content/uploads/2012/09/Screen-Shot-2012-09-06-at-7.38.16-AM-300x260.png" alt="" width="300" height="260" srcset="https://turbolego.github.io/turbolego.com//wp-content/uploads/2012/09/Screen-Shot-2012-09-06-at-7.38.16-AM-300x260.png 300w, https://turbolego.github.io/turbolego.com//wp-content/uploads/2012/09/Screen-Shot-2012-09-06-at-7.38.16-AM.png 801w" sizes="(max-width: 300px) 100vw, 300px" /></p>
 <p><a title="http://www.facebook.com/mohamed408" href="http://www.facebook.com/mohamed408" target="_blank">Mohamed Mahmoud</a> is still finding new tricks, and now he has found a way to make new animated pictures that can be sent trough the &#8220;share&#8221; button to facebook chat!</p>
 <p>This is how you do it:</p>
 <p>1. Go to <a title="http://www.facebook.com/notes.php" href="http://www.facebook.com/notes.php" target="_blank">http://www.facebook.com/notes.php</a></p>
 <p>2. Click the “Write a Note” button.</p>
-<p>3. Type in this code, replace the &#8220;/ugh.gif&#8221; with your own animated picture, duh&#8217;:</p>
-<p>&lt;img src=&#8221;/ugh.gif&#8221;/&gt;</p>
+<p>3. Type in this code, replace the &#8220;https://turbolego.github.io/turbolego.com//ugh.gif&#8221; with your own animated picture, duh&#8217;:</p>
+<p>&lt;img src=&#8221;https://turbolego.github.io/turbolego.com//ugh.gif&#8221;/&gt;</p>
 <p>4. Click the “Publish” button<br />
 5. Click the &#8220;share&#8221; button on your note, and choose &#8220;In a private Message&#8221;</p>
-<p><img loading="lazy" decoding="async" class="size-medium wp-image-296 alignnone" title="Screen Shot 2012-09-06 at 7.39.53 AM" src="/wp-content/uploads/2012/09/Screen-Shot-2012-09-06-at-7.39.53-AM-300x266.png" alt="" width="300" height="266" srcset="/wp-content/uploads/2012/09/Screen-Shot-2012-09-06-at-7.39.53-AM-300x266.png 300w, /wp-content/uploads/2012/09/Screen-Shot-2012-09-06-at-7.39.53-AM.png 509w" sizes="(max-width: 300px) 100vw, 300px" /><a href="/wp-content/uploads/2012/09/Screen-Shot-2012-09-06-at-7.39.46-AM.png"><img loading="lazy" decoding="async" class="alignnone size-full wp-image-297" title="Screen Shot 2012-09-06 at 7.39.46 AM" src="/wp-content/uploads/2012/09/Screen-Shot-2012-09-06-at-7.39.46-AM.png" alt="" width="260" height="285" /></a></p>
+<p><img loading="lazy" decoding="async" class="size-medium wp-image-296 alignnone" title="Screen Shot 2012-09-06 at 7.39.53 AM" src="https://turbolego.github.io/turbolego.com//wp-content/uploads/2012/09/Screen-Shot-2012-09-06-at-7.39.53-AM-300x266.png" alt="" width="300" height="266" srcset="https://turbolego.github.io/turbolego.com//wp-content/uploads/2012/09/Screen-Shot-2012-09-06-at-7.39.53-AM-300x266.png 300w, https://turbolego.github.io/turbolego.com//wp-content/uploads/2012/09/Screen-Shot-2012-09-06-at-7.39.53-AM.png 509w" sizes="(max-width: 300px) 100vw, 300px" /><a href="https://turbolego.github.io/turbolego.com//wp-content/uploads/2012/09/Screen-Shot-2012-09-06-at-7.39.46-AM.png"><img loading="lazy" decoding="async" class="alignnone size-full wp-image-297" title="Screen Shot 2012-09-06 at 7.39.46 AM" src="https://turbolego.github.io/turbolego.com//wp-content/uploads/2012/09/Screen-Shot-2012-09-06-at-7.39.46-AM.png" alt="" width="260" height="285" /></a></p>
 <p>Here&#8217;s the &#8220;ugh&#8221; note if you want to test it out: <a title="http://www.facebook.com/notes/tobias-andersen/ugh/10151018053586954" href="http://www.facebook.com/notes/tobias-andersen/ugh/10151018053586954" target="_blank">http://www.facebook.com/notes/tobias-andersen/ugh/10151018053586954</a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/make-your-own-animated-chat-pictures/feed/</wfw:commentRss>
+					<wfw:commentRss>https://turbolego.github.io/turbolego.com//make-your-own-animated-chat-pictures/feed/</wfw:commentRss>
 			<slash:comments>2</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Extension Update!</title>
-		<link>/extension-update-3/</link>
-					<comments>/extension-update-3/#comments</comments>
+		<link>https://turbolego.github.io/turbolego.com//extension-update-3/</link>
+					<comments>https://turbolego.github.io/turbolego.com//extension-update-3/#comments</comments>
 		
 		<dc:creator><![CDATA[turbolego]]></dc:creator>
 		<pubDate>Mon, 03 Sep 2012 05:33:33 +0000</pubDate>
@@ -449,10 +449,10 @@ Rock sign: [[roxsign]] <img decoding="async" title="roxsign" src="http://graph.
 		<category><![CDATA[turbolego]]></category>
 		<category><![CDATA[userscripts]]></category>
 		<category><![CDATA[You Mad]]></category>
-		<guid isPermaLink="false">/?p=285</guid>
+		<guid isPermaLink="false">https://turbolego.github.io/turbolego.com//?p=285</guid>
 
-					<description><![CDATA[Mohamed Mahmoud made a new version of the extension &#8221;Facebook chat emotions with animated picture and big emotions&#8221; ! Get it her: http://userscripts.org/scripts/show/140346 Some people have trouble installing extensions with Google Chrome, because it says &#8220;you can only install plugins/whatever &#8230; <a href="/extension-update-3/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
-										<content:encoded><![CDATA[<p><a href="/wp-content/uploads/2012/09/251432_4497678283761_243644025_n.jpg"><img loading="lazy" decoding="async" class="alignright size-full wp-image-286" title="251432_4497678283761_243644025_n" src="/wp-content/uploads/2012/09/251432_4497678283761_243644025_n.jpg" alt="" width="255" height="256" srcset="/wp-content/uploads/2012/09/251432_4497678283761_243644025_n.jpg 255w, /wp-content/uploads/2012/09/251432_4497678283761_243644025_n-150x150.jpg 150w" sizes="(max-width: 255px) 100vw, 255px" /></a><a title="http://www.facebook.com/mohamed408" href="http://www.facebook.com/mohamed408" target="_blank">Mohamed Mahmoud</a> made a new version of the extension &#8221;Facebook chat emotions with animated picture and big emotions&#8221; !</p>
+					<description><![CDATA[Mohamed Mahmoud made a new version of the extension &#8221;Facebook chat emotions with animated picture and big emotions&#8221; ! Get it her: http://userscripts.org/scripts/show/140346 Some people have trouble installing extensions with Google Chrome, because it says &#8220;you can only install plugins/whatever &#8230; <a href="https://turbolego.github.io/turbolego.com//extension-update-3/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[<p><a href="https://turbolego.github.io/turbolego.com//wp-content/uploads/2012/09/251432_4497678283761_243644025_n.jpg"><img loading="lazy" decoding="async" class="alignright size-full wp-image-286" title="251432_4497678283761_243644025_n" src="https://turbolego.github.io/turbolego.com//wp-content/uploads/2012/09/251432_4497678283761_243644025_n.jpg" alt="" width="255" height="256" srcset="https://turbolego.github.io/turbolego.com//wp-content/uploads/2012/09/251432_4497678283761_243644025_n.jpg 255w, https://turbolego.github.io/turbolego.com//wp-content/uploads/2012/09/251432_4497678283761_243644025_n-150x150.jpg 150w" sizes="(max-width: 255px) 100vw, 255px" /></a><a title="http://www.facebook.com/mohamed408" href="http://www.facebook.com/mohamed408" target="_blank">Mohamed Mahmoud</a> made a new version of the extension &#8221;Facebook chat emotions with animated picture and big emotions&#8221; !</p>
 <p>Get it her: <a title="http://userscripts.org/scripts/show/140346" href="http://userscripts.org/scripts/show/140346" target="_blank">http://userscripts.org/scripts/show/140346</a></p>
 <p>Some people have trouble installing extensions with Google Chrome, because it says &#8220;you can only install plugins/whatever from the Chrome Store&#8221;&#8230; Don&#8217;t worry tho, because it will be available soon in the &#8221;Google chrome web store&#8221; ! <img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f600.png" alt="😀" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
 <p>(stay tuned for updates)</p>
@@ -460,15 +460,15 @@ Rock sign: [[roxsign]] <img decoding="async" title="roxsign" src="http://graph.
 <p><iframe loading="lazy" src="http://www.youtube.com/embed/ARdDp0jH0wY" frameborder="0" width="420" height="315"></iframe></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/extension-update-3/feed/</wfw:commentRss>
+					<wfw:commentRss>https://turbolego.github.io/turbolego.com//extension-update-3/feed/</wfw:commentRss>
 			<slash:comments>4</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Extension Update! (again)</title>
-		<link>/extension-update-again/</link>
-					<comments>/extension-update-again/#comments</comments>
+		<link>https://turbolego.github.io/turbolego.com//extension-update-again/</link>
+					<comments>https://turbolego.github.io/turbolego.com//extension-update-again/#comments</comments>
 		
 		<dc:creator><![CDATA[turbolego]]></dc:creator>
 		<pubDate>Thu, 09 Aug 2012 23:57:00 +0000</pubDate>
@@ -501,25 +501,25 @@ Rock sign: [[roxsign]] <img decoding="async" title="roxsign" src="http://graph.
 		<category><![CDATA[userscripts]]></category>
 		<category><![CDATA[You Mad]]></category>
 		<category><![CDATA[youtube]]></category>
-		<guid isPermaLink="false">/?p=280</guid>
+		<guid isPermaLink="false">https://turbolego.github.io/turbolego.com//?p=280</guid>
 
 					<description><![CDATA[Mohamed Mahmoud updated his extension, again! Get it here while it&#8217;s hot! 😀 http://userscripts.org/scripts/show/140346 And if you need help to install the extension, check out this guide he made for firefox and google chrome! 😉]]></description>
-										<content:encoded><![CDATA[<p><a href="/wp-content/uploads/2012/08/large.jpg"><img loading="lazy" decoding="async" class="alignright size-full wp-image-281" title="large" src="/wp-content/uploads/2012/08/large.jpg" alt="" width="263" height="288" /></a><a title="http://www.facebook.com/mohamed408" href="http://www.facebook.com/mohamed408" target="_blank">Mohamed Mahmoud</a> updated his extension, again!</p>
+										<content:encoded><![CDATA[<p><a href="https://turbolego.github.io/turbolego.com//wp-content/uploads/2012/08/large.jpg"><img loading="lazy" decoding="async" class="alignright size-full wp-image-281" title="large" src="https://turbolego.github.io/turbolego.com//wp-content/uploads/2012/08/large.jpg" alt="" width="263" height="288" /></a><a title="http://www.facebook.com/mohamed408" href="http://www.facebook.com/mohamed408" target="_blank">Mohamed Mahmoud</a> updated his extension, again!</p>
 <p>Get it here while it&#8217;s hot! <img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f600.png" alt="😀" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
 <p><a title="http://userscripts.org/scripts/show/140346" href="http://userscripts.org/scripts/show/140346" target="_blank">http://userscripts.org/scripts/show/140346</a></p>
 <p>And if you need help to install the extension, check out this guide he made for firefox and google chrome! <img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f609.png" alt="😉" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
 <p><iframe loading="lazy" width="420" height="315" src="http://www.youtube.com/embed/ARdDp0jH0wY" frameborder="0" allowfullscreen></iframe></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/extension-update-again/feed/</wfw:commentRss>
+					<wfw:commentRss>https://turbolego.github.io/turbolego.com//extension-update-again/feed/</wfw:commentRss>
 			<slash:comments>2</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Extension update!</title>
-		<link>/extension-update-2/</link>
-					<comments>/extension-update-2/#comments</comments>
+		<link>https://turbolego.github.io/turbolego.com//extension-update-2/</link>
+					<comments>https://turbolego.github.io/turbolego.com//extension-update-2/#comments</comments>
 		
 		<dc:creator><![CDATA[turbolego]]></dc:creator>
 		<pubDate>Wed, 01 Aug 2012 12:35:33 +0000</pubDate>
@@ -548,23 +548,23 @@ Rock sign: [[roxsign]] <img decoding="async" title="roxsign" src="http://graph.
 		<category><![CDATA[sourcecode]]></category>
 		<category><![CDATA[userscripts]]></category>
 		<category><![CDATA[You Mad]]></category>
-		<guid isPermaLink="false">/?p=268</guid>
+		<guid isPermaLink="false">https://turbolego.github.io/turbolego.com//?p=268</guid>
 
 					<description><![CDATA[Mohamed Mahmoud has updated his extension! Get it here:  userscripts.org/scripts/show/139478]]></description>
-										<content:encoded><![CDATA[<p><a href="/wp-content/uploads/2012/08/625627_4329892849230_1632306359_n1.jpeg"><img loading="lazy" decoding="async" class="alignright  wp-image-271" title="625627_4329892849230_1632306359_n" src="/wp-content/uploads/2012/08/625627_4329892849230_1632306359_n1.jpeg" alt="" width="295" height="162" srcset="/wp-content/uploads/2012/08/625627_4329892849230_1632306359_n1.jpeg 526w, /wp-content/uploads/2012/08/625627_4329892849230_1632306359_n1-300x165.jpeg 300w" sizes="(max-width: 295px) 100vw, 295px" /></a><a title="http://www.facebook.com/mohamed408" href="http://www.facebook.com/mohamed408" target="_blank">Mohamed Mahmoud</a> has updated his extension!</p>
+										<content:encoded><![CDATA[<p><a href="https://turbolego.github.io/turbolego.com//wp-content/uploads/2012/08/625627_4329892849230_1632306359_n1.jpeg"><img loading="lazy" decoding="async" class="alignright  wp-image-271" title="625627_4329892849230_1632306359_n" src="https://turbolego.github.io/turbolego.com//wp-content/uploads/2012/08/625627_4329892849230_1632306359_n1.jpeg" alt="" width="295" height="162" srcset="https://turbolego.github.io/turbolego.com//wp-content/uploads/2012/08/625627_4329892849230_1632306359_n1.jpeg 526w, https://turbolego.github.io/turbolego.com//wp-content/uploads/2012/08/625627_4329892849230_1632306359_n1-300x165.jpeg 300w" sizes="(max-width: 295px) 100vw, 295px" /></a><a title="http://www.facebook.com/mohamed408" href="http://www.facebook.com/mohamed408" target="_blank">Mohamed Mahmoud</a> has updated his extension!</p>
 <p>Get it here: <br />
 <a title="http://userscripts.org/scripts/show/139478" href="http://userscripts.org/scripts/show/139478" target="_blank">userscripts.org/scripts/show/139478</a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/extension-update-2/feed/</wfw:commentRss>
+					<wfw:commentRss>https://turbolego.github.io/turbolego.com//extension-update-2/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>New extension&#8230; WITH ANIMATED PICTURES!</title>
-		<link>/new-extension-with-animated-pictures/</link>
-					<comments>/new-extension-with-animated-pictures/#comments</comments>
+		<link>https://turbolego.github.io/turbolego.com//new-extension-with-animated-pictures/</link>
+					<comments>https://turbolego.github.io/turbolego.com//new-extension-with-animated-pictures/#comments</comments>
 		
 		<dc:creator><![CDATA[turbolego]]></dc:creator>
 		<pubDate>Sun, 29 Jul 2012 02:46:06 +0000</pubDate>
@@ -598,15 +598,15 @@ Rock sign: [[roxsign]] <img decoding="async" title="roxsign" src="http://graph.
 		<category><![CDATA[turbolego.com/L.txt]]></category>
 		<category><![CDATA[userscripts]]></category>
 		<category><![CDATA[You Mad]]></category>
-		<guid isPermaLink="false">/?p=247</guid>
+		<guid isPermaLink="false">https://turbolego.github.io/turbolego.com//?p=247</guid>
 
 					<description><![CDATA[Mohamed Mahmoud made a new extension using some of the source-code from the old extension by Lé Boss, and this extension by anonymous86. This extension is the first one to have ANIMATED pictures! Get it here: userscripts.org/scripts/show/139478]]></description>
-										<content:encoded><![CDATA[<p><a href="/wp-content/uploads/2012/07/Screen-Shot-2012-07-29-at-4.23.24-AM.png"><img loading="lazy" decoding="async" class="alignright size-full wp-image-248" title="Screen Shot 2012-07-29 at 4.23.24 AM" src="/wp-content/uploads/2012/07/Screen-Shot-2012-07-29-at-4.23.24-AM.png" alt="" width="259" height="283" /></a><a title="http://www.facebook.com/mohamed408" href="http://www.facebook.com/mohamed408" target="_blank">Mohamed Mahmoud</a> made a new extension using some of the source-code from <a title="http://userscripts.org/scripts/show/122827" href="http://userscripts.org/scripts/show/122827" target="_blank">the old extension</a> by <a title="http://www.facebook.com/theztech" href="http://www.facebook.com/theztech" target="_blank">Lé Boss</a>, and <a title="http://userscripts.org/scripts/show/123054" href="http://userscripts.org/scripts/show/123054" target="_blank">this extension</a> by <a href="http://userscripts.org/users/426789" rel="nofollow">anonymous86</a>.</p>
+										<content:encoded><![CDATA[<p><a href="https://turbolego.github.io/turbolego.com//wp-content/uploads/2012/07/Screen-Shot-2012-07-29-at-4.23.24-AM.png"><img loading="lazy" decoding="async" class="alignright size-full wp-image-248" title="Screen Shot 2012-07-29 at 4.23.24 AM" src="https://turbolego.github.io/turbolego.com//wp-content/uploads/2012/07/Screen-Shot-2012-07-29-at-4.23.24-AM.png" alt="" width="259" height="283" /></a><a title="http://www.facebook.com/mohamed408" href="http://www.facebook.com/mohamed408" target="_blank">Mohamed Mahmoud</a> made a new extension using some of the source-code from <a title="http://userscripts.org/scripts/show/122827" href="http://userscripts.org/scripts/show/122827" target="_blank">the old extension</a> by <a title="http://www.facebook.com/theztech" href="http://www.facebook.com/theztech" target="_blank">Lé Boss</a>, and <a title="http://userscripts.org/scripts/show/123054" href="http://userscripts.org/scripts/show/123054" target="_blank">this extension</a> by <a href="http://userscripts.org/users/426789" rel="nofollow">anonymous86</a>.</p>
 <p>This extension is the first one to have ANIMATED pictures!</p>
 <p>Get it here: <a title="http://userscripts.org/scripts/show/139478" href="http://userscripts.org/scripts/show/139478" target="_blank">userscripts.org/scripts/show/139478</a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/new-extension-with-animated-pictures/feed/</wfw:commentRss>
+					<wfw:commentRss>https://turbolego.github.io/turbolego.com//new-extension-with-animated-pictures/feed/</wfw:commentRss>
 			<slash:comments>2</slash:comments>
 		
 		

@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: The First Generator	</title>
-	<atom:link href="/the-first-generator/feed/" rel="self" type="application/rss+xml" />
-	<link>/the-first-generator/</link>
+	<atom:link href="https://turbolego.github.io/turbolego.com//the-first-generator/feed/" rel="self" type="application/rss+xml" />
+	<link>https://turbolego.github.io/turbolego.com//the-first-generator/</link>
 	<description>For all that is chat related.</description>
 	<lastBuildDate>Fri, 09 Mar 2012 16:08:03 +0000</lastBuildDate>
 	<sy:updatePeriod>

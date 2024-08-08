@@ -9,8 +9,8 @@
 
 <channel>
 	<title>anonymous86 &#8211; The Chat Codes Blog</title>
-	<atom:link href="/tag/anonymous86/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="https://turbolego.github.io/turbolego.com//tag/anonymous86/feed/" rel="self" type="application/rss+xml" />
+	<link>https://turbolego.github.io/turbolego.com/</link>
 	<description>For all that is chat related.</description>
 	<lastBuildDate>Mon, 03 Sep 2012 05:35:41 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	<generator>https://wordpress.org/?v=6.6.1</generator>
 	<item>
 		<title>Extension Update!</title>
-		<link>/extension-update-3/</link>
-					<comments>/extension-update-3/#comments</comments>
+		<link>https://turbolego.github.io/turbolego.com//extension-update-3/</link>
+					<comments>https://turbolego.github.io/turbolego.com//extension-update-3/#comments</comments>
 		
 		<dc:creator><![CDATA[turbolego]]></dc:creator>
 		<pubDate>Mon, 03 Sep 2012 05:33:33 +0000</pubDate>
@@ -53,10 +53,10 @@
 		<category><![CDATA[turbolego]]></category>
 		<category><![CDATA[userscripts]]></category>
 		<category><![CDATA[You Mad]]></category>
-		<guid isPermaLink="false">/?p=285</guid>
+		<guid isPermaLink="false">https://turbolego.github.io/turbolego.com//?p=285</guid>
 
-					<description><![CDATA[Mohamed Mahmoud made a new version of the extension &#8221;Facebook chat emotions with animated picture and big emotions&#8221; ! Get it her: http://userscripts.org/scripts/show/140346 Some people have trouble installing extensions with Google Chrome, because it says &#8220;you can only install plugins/whatever &#8230; <a href="/extension-update-3/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
-										<content:encoded><![CDATA[<p><a href="/wp-content/uploads/2012/09/251432_4497678283761_243644025_n.jpg"><img fetchpriority="high" decoding="async" class="alignright size-full wp-image-286" title="251432_4497678283761_243644025_n" src="/wp-content/uploads/2012/09/251432_4497678283761_243644025_n.jpg" alt="" width="255" height="256" srcset="/wp-content/uploads/2012/09/251432_4497678283761_243644025_n.jpg 255w, /wp-content/uploads/2012/09/251432_4497678283761_243644025_n-150x150.jpg 150w" sizes="(max-width: 255px) 100vw, 255px" /></a><a title="http://www.facebook.com/mohamed408" href="http://www.facebook.com/mohamed408" target="_blank">Mohamed Mahmoud</a> made a new version of the extension &#8221;Facebook chat emotions with animated picture and big emotions&#8221; !</p>
+					<description><![CDATA[Mohamed Mahmoud made a new version of the extension &#8221;Facebook chat emotions with animated picture and big emotions&#8221; ! Get it her: http://userscripts.org/scripts/show/140346 Some people have trouble installing extensions with Google Chrome, because it says &#8220;you can only install plugins/whatever &#8230; <a href="https://turbolego.github.io/turbolego.com//extension-update-3/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[<p><a href="https://turbolego.github.io/turbolego.com//wp-content/uploads/2012/09/251432_4497678283761_243644025_n.jpg"><img fetchpriority="high" decoding="async" class="alignright size-full wp-image-286" title="251432_4497678283761_243644025_n" src="https://turbolego.github.io/turbolego.com//wp-content/uploads/2012/09/251432_4497678283761_243644025_n.jpg" alt="" width="255" height="256" srcset="https://turbolego.github.io/turbolego.com//wp-content/uploads/2012/09/251432_4497678283761_243644025_n.jpg 255w, https://turbolego.github.io/turbolego.com//wp-content/uploads/2012/09/251432_4497678283761_243644025_n-150x150.jpg 150w" sizes="(max-width: 255px) 100vw, 255px" /></a><a title="http://www.facebook.com/mohamed408" href="http://www.facebook.com/mohamed408" target="_blank">Mohamed Mahmoud</a> made a new version of the extension &#8221;Facebook chat emotions with animated picture and big emotions&#8221; !</p>
 <p>Get it her: <a title="http://userscripts.org/scripts/show/140346" href="http://userscripts.org/scripts/show/140346" target="_blank">http://userscripts.org/scripts/show/140346</a></p>
 <p>Some people have trouble installing extensions with Google Chrome, because it says &#8220;you can only install plugins/whatever from the Chrome Store&#8221;&#8230; Don&#8217;t worry tho, because it will be available soon in the &#8221;Google chrome web store&#8221; ! <img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f600.png" alt="😀" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
 <p>(stay tuned for updates)</p>
@@ -64,15 +64,15 @@
 <p><iframe src="http://www.youtube.com/embed/ARdDp0jH0wY" frameborder="0" width="420" height="315"></iframe></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/extension-update-3/feed/</wfw:commentRss>
+					<wfw:commentRss>https://turbolego.github.io/turbolego.com//extension-update-3/feed/</wfw:commentRss>
 			<slash:comments>4</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Extension Update! (again)</title>
-		<link>/extension-update-again/</link>
-					<comments>/extension-update-again/#comments</comments>
+		<link>https://turbolego.github.io/turbolego.com//extension-update-again/</link>
+					<comments>https://turbolego.github.io/turbolego.com//extension-update-again/#comments</comments>
 		
 		<dc:creator><![CDATA[turbolego]]></dc:creator>
 		<pubDate>Thu, 09 Aug 2012 23:57:00 +0000</pubDate>
@@ -105,25 +105,25 @@
 		<category><![CDATA[userscripts]]></category>
 		<category><![CDATA[You Mad]]></category>
 		<category><![CDATA[youtube]]></category>
-		<guid isPermaLink="false">/?p=280</guid>
+		<guid isPermaLink="false">https://turbolego.github.io/turbolego.com//?p=280</guid>
 
 					<description><![CDATA[Mohamed Mahmoud updated his extension, again! Get it here while it&#8217;s hot! 😀 http://userscripts.org/scripts/show/140346 And if you need help to install the extension, check out this guide he made for firefox and google chrome! 😉]]></description>
-										<content:encoded><![CDATA[<p><a href="/wp-content/uploads/2012/08/large.jpg"><img decoding="async" class="alignright size-full wp-image-281" title="large" src="/wp-content/uploads/2012/08/large.jpg" alt="" width="263" height="288" /></a><a title="http://www.facebook.com/mohamed408" href="http://www.facebook.com/mohamed408" target="_blank">Mohamed Mahmoud</a> updated his extension, again!</p>
+										<content:encoded><![CDATA[<p><a href="https://turbolego.github.io/turbolego.com//wp-content/uploads/2012/08/large.jpg"><img decoding="async" class="alignright size-full wp-image-281" title="large" src="https://turbolego.github.io/turbolego.com//wp-content/uploads/2012/08/large.jpg" alt="" width="263" height="288" /></a><a title="http://www.facebook.com/mohamed408" href="http://www.facebook.com/mohamed408" target="_blank">Mohamed Mahmoud</a> updated his extension, again!</p>
 <p>Get it here while it&#8217;s hot! <img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f600.png" alt="😀" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
 <p><a title="http://userscripts.org/scripts/show/140346" href="http://userscripts.org/scripts/show/140346" target="_blank">http://userscripts.org/scripts/show/140346</a></p>
 <p>And if you need help to install the extension, check out this guide he made for firefox and google chrome! <img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f609.png" alt="😉" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
 <p><iframe loading="lazy" width="420" height="315" src="http://www.youtube.com/embed/ARdDp0jH0wY" frameborder="0" allowfullscreen></iframe></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/extension-update-again/feed/</wfw:commentRss>
+					<wfw:commentRss>https://turbolego.github.io/turbolego.com//extension-update-again/feed/</wfw:commentRss>
 			<slash:comments>2</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Extension update!</title>
-		<link>/extension-update-2/</link>
-					<comments>/extension-update-2/#comments</comments>
+		<link>https://turbolego.github.io/turbolego.com//extension-update-2/</link>
+					<comments>https://turbolego.github.io/turbolego.com//extension-update-2/#comments</comments>
 		
 		<dc:creator><![CDATA[turbolego]]></dc:creator>
 		<pubDate>Wed, 01 Aug 2012 12:35:33 +0000</pubDate>
@@ -152,23 +152,23 @@
 		<category><![CDATA[sourcecode]]></category>
 		<category><![CDATA[userscripts]]></category>
 		<category><![CDATA[You Mad]]></category>
-		<guid isPermaLink="false">/?p=268</guid>
+		<guid isPermaLink="false">https://turbolego.github.io/turbolego.com//?p=268</guid>
 
 					<description><![CDATA[Mohamed Mahmoud has updated his extension! Get it here:  userscripts.org/scripts/show/139478]]></description>
-										<content:encoded><![CDATA[<p><a href="/wp-content/uploads/2012/08/625627_4329892849230_1632306359_n1.jpeg"><img loading="lazy" decoding="async" class="alignright  wp-image-271" title="625627_4329892849230_1632306359_n" src="/wp-content/uploads/2012/08/625627_4329892849230_1632306359_n1.jpeg" alt="" width="295" height="162" srcset="/wp-content/uploads/2012/08/625627_4329892849230_1632306359_n1.jpeg 526w, /wp-content/uploads/2012/08/625627_4329892849230_1632306359_n1-300x165.jpeg 300w" sizes="(max-width: 295px) 100vw, 295px" /></a><a title="http://www.facebook.com/mohamed408" href="http://www.facebook.com/mohamed408" target="_blank">Mohamed Mahmoud</a> has updated his extension!</p>
+										<content:encoded><![CDATA[<p><a href="https://turbolego.github.io/turbolego.com//wp-content/uploads/2012/08/625627_4329892849230_1632306359_n1.jpeg"><img loading="lazy" decoding="async" class="alignright  wp-image-271" title="625627_4329892849230_1632306359_n" src="https://turbolego.github.io/turbolego.com//wp-content/uploads/2012/08/625627_4329892849230_1632306359_n1.jpeg" alt="" width="295" height="162" srcset="https://turbolego.github.io/turbolego.com//wp-content/uploads/2012/08/625627_4329892849230_1632306359_n1.jpeg 526w, https://turbolego.github.io/turbolego.com//wp-content/uploads/2012/08/625627_4329892849230_1632306359_n1-300x165.jpeg 300w" sizes="(max-width: 295px) 100vw, 295px" /></a><a title="http://www.facebook.com/mohamed408" href="http://www.facebook.com/mohamed408" target="_blank">Mohamed Mahmoud</a> has updated his extension!</p>
 <p>Get it here: <br />
 <a title="http://userscripts.org/scripts/show/139478" href="http://userscripts.org/scripts/show/139478" target="_blank">userscripts.org/scripts/show/139478</a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/extension-update-2/feed/</wfw:commentRss>
+					<wfw:commentRss>https://turbolego.github.io/turbolego.com//extension-update-2/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>New extension&#8230; WITH ANIMATED PICTURES!</title>
-		<link>/new-extension-with-animated-pictures/</link>
-					<comments>/new-extension-with-animated-pictures/#comments</comments>
+		<link>https://turbolego.github.io/turbolego.com//new-extension-with-animated-pictures/</link>
+					<comments>https://turbolego.github.io/turbolego.com//new-extension-with-animated-pictures/#comments</comments>
 		
 		<dc:creator><![CDATA[turbolego]]></dc:creator>
 		<pubDate>Sun, 29 Jul 2012 02:46:06 +0000</pubDate>
@@ -202,15 +202,15 @@
 		<category><![CDATA[turbolego.com/L.txt]]></category>
 		<category><![CDATA[userscripts]]></category>
 		<category><![CDATA[You Mad]]></category>
-		<guid isPermaLink="false">/?p=247</guid>
+		<guid isPermaLink="false">https://turbolego.github.io/turbolego.com//?p=247</guid>
 
 					<description><![CDATA[Mohamed Mahmoud made a new extension using some of the source-code from the old extension by Lé Boss, and this extension by anonymous86. This extension is the first one to have ANIMATED pictures! Get it here: userscripts.org/scripts/show/139478]]></description>
-										<content:encoded><![CDATA[<p><a href="/wp-content/uploads/2012/07/Screen-Shot-2012-07-29-at-4.23.24-AM.png"><img loading="lazy" decoding="async" class="alignright size-full wp-image-248" title="Screen Shot 2012-07-29 at 4.23.24 AM" src="/wp-content/uploads/2012/07/Screen-Shot-2012-07-29-at-4.23.24-AM.png" alt="" width="259" height="283" /></a><a title="http://www.facebook.com/mohamed408" href="http://www.facebook.com/mohamed408" target="_blank">Mohamed Mahmoud</a> made a new extension using some of the source-code from <a title="http://userscripts.org/scripts/show/122827" href="http://userscripts.org/scripts/show/122827" target="_blank">the old extension</a> by <a title="http://www.facebook.com/theztech" href="http://www.facebook.com/theztech" target="_blank">Lé Boss</a>, and <a title="http://userscripts.org/scripts/show/123054" href="http://userscripts.org/scripts/show/123054" target="_blank">this extension</a> by <a href="http://userscripts.org/users/426789" rel="nofollow">anonymous86</a>.</p>
+										<content:encoded><![CDATA[<p><a href="https://turbolego.github.io/turbolego.com//wp-content/uploads/2012/07/Screen-Shot-2012-07-29-at-4.23.24-AM.png"><img loading="lazy" decoding="async" class="alignright size-full wp-image-248" title="Screen Shot 2012-07-29 at 4.23.24 AM" src="https://turbolego.github.io/turbolego.com//wp-content/uploads/2012/07/Screen-Shot-2012-07-29-at-4.23.24-AM.png" alt="" width="259" height="283" /></a><a title="http://www.facebook.com/mohamed408" href="http://www.facebook.com/mohamed408" target="_blank">Mohamed Mahmoud</a> made a new extension using some of the source-code from <a title="http://userscripts.org/scripts/show/122827" href="http://userscripts.org/scripts/show/122827" target="_blank">the old extension</a> by <a title="http://www.facebook.com/theztech" href="http://www.facebook.com/theztech" target="_blank">Lé Boss</a>, and <a title="http://userscripts.org/scripts/show/123054" href="http://userscripts.org/scripts/show/123054" target="_blank">this extension</a> by <a href="http://userscripts.org/users/426789" rel="nofollow">anonymous86</a>.</p>
 <p>This extension is the first one to have ANIMATED pictures!</p>
 <p>Get it here: <a title="http://userscripts.org/scripts/show/139478" href="http://userscripts.org/scripts/show/139478" target="_blank">userscripts.org/scripts/show/139478</a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/new-extension-with-animated-pictures/feed/</wfw:commentRss>
+					<wfw:commentRss>https://turbolego.github.io/turbolego.com//new-extension-with-animated-pictures/feed/</wfw:commentRss>
 			<slash:comments>2</slash:comments>
 		
 		

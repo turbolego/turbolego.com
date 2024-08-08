@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: New extension!	</title>
-	<atom:link href="/new-extension/feed/" rel="self" type="application/rss+xml" />
-	<link>/new-extension/</link>
+	<atom:link href="https://turbolego.github.io/turbolego.com//new-extension/feed/" rel="self" type="application/rss+xml" />
+	<link>https://turbolego.github.io/turbolego.com//new-extension/</link>
 	<description>For all that is chat related.</description>
 	<lastBuildDate>Tue, 27 Mar 2012 15:54:37 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,11 +20,11 @@
 	<item>
 		<title>
 		By: Souma ČrâZzy		</title>
-		<link>/new-extension/#comment-52</link>
+		<link>https://turbolego.github.io/turbolego.com//new-extension/#comment-52</link>
 
 		<dc:creator><![CDATA[Souma ČrâZzy]]></dc:creator>
 		<pubDate>Tue, 27 Mar 2012 15:54:37 +0000</pubDate>
-		<guid isPermaLink="false">/?p=181#comment-52</guid>
+		<guid isPermaLink="false">https://turbolego.github.io/turbolego.com//?p=181#comment-52</guid>
 
 					<description><![CDATA[http://www.facebook.com/?ref=tn_tnmn#!/photo.php?fbid=3517348180517&#038;set=a.1568801388065.73696.1476360554&#038;type=1&#038;theater]]></description>
 			<content:encoded><![CDATA[<p><a href="http://www.facebook.com/?ref=tn_tnmn#!/photo.php?fbid=3517348180517&#038;set=a.1568801388065.73696.1476360554&#038;type=1&#038;theater" rel="nofollow ugc">http://www.facebook.com/?ref=tn_tnmn#!/photo.php?fbid=3517348180517&#038;set=a.1568801388065.73696.1476360554&#038;type=1&#038;theater</a></p>
@@ -34,11 +34,11 @@
 		<item>
 		<title>
 		By: ikableja		</title>
-		<link>/new-extension/#comment-51</link>
+		<link>https://turbolego.github.io/turbolego.com//new-extension/#comment-51</link>
 
 		<dc:creator><![CDATA[ikableja]]></dc:creator>
 		<pubDate>Sun, 25 Mar 2012 14:43:17 +0000</pubDate>
-		<guid isPermaLink="false">/?p=181#comment-51</guid>
+		<guid isPermaLink="false">https://turbolego.github.io/turbolego.com//?p=181#comment-51</guid>
 
 					<description><![CDATA[:)]]></description>
 			<content:encoded><![CDATA[<p>🙂</p>
@@ -48,11 +48,11 @@
 		<item>
 		<title>
 		By: Another New Extension! &#124; The Chat Codes Blog		</title>
-		<link>/new-extension/#comment-15</link>
+		<link>https://turbolego.github.io/turbolego.com//new-extension/#comment-15</link>
 
 		<dc:creator><![CDATA[Another New Extension! &#124; The Chat Codes Blog]]></dc:creator>
 		<pubDate>Wed, 21 Mar 2012 20:28:35 +0000</pubDate>
-		<guid isPermaLink="false">/?p=181#comment-15</guid>
+		<guid isPermaLink="false">https://turbolego.github.io/turbolego.com//?p=181#comment-15</guid>
 
 					<description><![CDATA[[...] The Chat Codes Blog   For all that is chat related.    Skip to content HomeAll the Current Facebook Chat toolsReport broken codesOther projects&#8230;About me        &#8592; New extension! [...]]]></description>
 			<content:encoded><![CDATA[<p>[&#8230;] The Chat Codes Blog   For all that is chat related.    Skip to content HomeAll the Current Facebook Chat toolsReport broken codesOther projects&#8230;About me        &larr; New extension! [&#8230;]</p>

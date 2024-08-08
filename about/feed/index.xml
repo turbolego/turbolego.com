@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: About me	</title>
-	<atom:link href="/about/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="https://turbolego.github.io/turbolego.com//about/feed/" rel="self" type="application/rss+xml" />
+	<link>https://turbolego.github.io/turbolego.com/</link>
 	<description>For all that is chat related.</description>
 	<lastBuildDate>Sun, 28 Apr 2013 23:09:13 +0000</lastBuildDate>
 	<sy:updatePeriod>

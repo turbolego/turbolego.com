@@ -9,8 +9,8 @@
 
 <channel>
 	<title>sticker &#8211; The Chat Codes Blog</title>
-	<atom:link href="/tag/sticker/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="https://turbolego.github.io/turbolego.com//tag/sticker/feed/" rel="self" type="application/rss+xml" />
+	<link>https://turbolego.github.io/turbolego.com/</link>
 	<description>For all that is chat related.</description>
 	<lastBuildDate>Wed, 07 Aug 2024 08:09:30 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	<generator>https://wordpress.org/?v=6.6.1</generator>
 	<item>
 		<title>Stickers!</title>
-		<link>/stickers/</link>
-					<comments>/stickers/#comments</comments>
+		<link>https://turbolego.github.io/turbolego.com//stickers/</link>
+					<comments>https://turbolego.github.io/turbolego.com//stickers/#comments</comments>
 		
 		<dc:creator><![CDATA[turbolego]]></dc:creator>
 		<pubDate>Tue, 07 May 2013 16:34:34 +0000</pubDate>
@@ -53,9 +53,9 @@
 		<category><![CDATA[Velja Janković]]></category>
 		<category><![CDATA[You Mad]]></category>
 		<category><![CDATA[youtube]]></category>
-		<guid isPermaLink="false">/?p=413</guid>
+		<guid isPermaLink="false">https://turbolego.github.io/turbolego.com//?p=413</guid>
 
-					<description><![CDATA[17&#8217;th of May, Facebook released their Version 6 of the Facebook app for iphone and android. However, they did not release any methods for computer users running facebook in google chrome, firefox, opera, safari, Internet Explorer or any other browser! &#8230; <a href="/stickers/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+					<description><![CDATA[17&#8217;th of May, Facebook released their Version 6 of the Facebook app for iphone and android. However, they did not release any methods for computer users running facebook in google chrome, firefox, opera, safari, Internet Explorer or any other browser! &#8230; <a href="https://turbolego.github.io/turbolego.com//stickers/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
 										<content:encoded><![CDATA[<p><a title="http://www.hongkiat.com/blog/facebook-app-for-iphone/" href="http://www.hongkiat.com/blog/facebook-app-for-iphone/" target="_blank" rel="noopener">17&#8217;th of May, Facebook released their Version 6 of the Facebook app for iphone and android.</a></p>
 <p>However, they did not release any methods for computer users running facebook in google chrome, firefox, opera, safari, Internet Explorer or any other browser!</p>
 <p>So, <a title="http://chatstickers.com/" href="http://chatstickers.com/" target="_blank" rel="noopener">http://chatstickers.com/</a> was made by one of our developers, and a extension was created by <a title="http://www.facebook.com/theztech" href="http://www.facebook.com/theztech" target="_blank" rel="noopener">Velja Janković</a>.</p>
@@ -63,7 +63,7 @@
 <p><iframe title="Facebook Stickers on Chrome, Firefox and other browsers!" width="640" height="360" src="https://www.youtube.com/embed/2v6sRDV-lUc?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/stickers/feed/</wfw:commentRss>
+					<wfw:commentRss>https://turbolego.github.io/turbolego.com//stickers/feed/</wfw:commentRss>
 			<slash:comments>3</slash:comments>
 		
 		
