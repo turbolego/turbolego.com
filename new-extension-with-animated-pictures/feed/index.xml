@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: New extension&#8230; WITH ANIMATED PICTURES!	</title>
+	<atom:link href="/new-extension-with-animated-pictures/feed/" rel="self" type="application/rss+xml" />
+	<link>/new-extension-with-animated-pictures/</link>
+	<description>For all that is chat related.</description>
+	<lastBuildDate>Tue, 31 Jul 2012 12:50:01 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+	<item>
+		<title>
+		By: Mùslîm Âmnâ		</title>
+		<link>/new-extension-with-animated-pictures/#comment-289</link>
+
+		<dc:creator><![CDATA[Mùslîm Âmnâ]]></dc:creator>
+		<pubDate>Tue, 31 Jul 2012 12:50:01 +0000</pubDate>
+		<guid isPermaLink="false">/?p=247#comment-289</guid>
+
+					<description><![CDATA[amna]]></description>
+			<content:encoded><![CDATA[<p>amna</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: HaMa Achils ShoSho		</title>
+		<link>/new-extension-with-animated-pictures/#comment-281</link>
+
+		<dc:creator><![CDATA[HaMa Achils ShoSho]]></dc:creator>
+		<pubDate>Sun, 29 Jul 2012 03:37:35 +0000</pubDate>
+		<guid isPermaLink="false">/?p=247#comment-281</guid>
+
+					<description><![CDATA[like this]]></description>
+			<content:encoded><![CDATA[<p>like this</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

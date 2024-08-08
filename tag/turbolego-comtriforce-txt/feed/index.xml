@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>turbolego.com/triforce.txt &#8211; The Chat Codes Blog</title>
+	<atom:link href="/tag/turbolego-comtriforce-txt/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>For all that is chat related.</description>
+	<lastBuildDate>Tue, 23 Oct 2012 03:04:17 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+	<item>
+		<title>How to triforce and post blank status updates on facebook!</title>
+		<link>/how-to-triforce-and-post-blank-status-updates-on-facebook/</link>
+					<comments>/how-to-triforce-and-post-blank-status-updates-on-facebook/#comments</comments>
+		
+		<dc:creator><![CDATA[turbolego]]></dc:creator>
+		<pubDate>Tue, 23 Oct 2012 03:04:17 +0000</pubDate>
+				<category><![CDATA[Chat Codes]]></category>
+		<category><![CDATA[alt+0005]]></category>
+		<category><![CDATA[alt+255]]></category>
+		<category><![CDATA[chat]]></category>
+		<category><![CDATA[code]]></category>
+		<category><![CDATA[codes]]></category>
+		<category><![CDATA[facebook]]></category>
+		<category><![CDATA[firefox]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[google chrome]]></category>
+		<category><![CDATA[smiley]]></category>
+		<category><![CDATA[smileys]]></category>
+		<category><![CDATA[turboelgo]]></category>
+		<category><![CDATA[turbolego]]></category>
+		<category><![CDATA[turbolego.com/ninja.txt]]></category>
+		<category><![CDATA[turbolego.com/triforce.txt]]></category>
+		<guid isPermaLink="false">/?p=329</guid>
+
+					<description><![CDATA[Cheats: /triforce.txt /ninja.txt Today i figured out a way to triforce on facebook, using this guide from &#8220;know your meme&#8221; as a starting-point: knowyourmeme.com/memes/newfags-cant-triforce The method used in the article by knowyourmeme works on almost all webpages, but not in &#8230; <a href="/how-to-triforce-and-post-blank-status-updates-on-facebook/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[<p><iframe title="How to triforce and post blank status updates on facebook" width="640" height="360" src="https://www.youtube.com/embed/xKqOrjVn98s?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+<p><a href="/wp-content/uploads/2012/10/Screen-Shot-2012-10-23-at-4.58.37-AM.png"><img fetchpriority="high" decoding="async" class="alignright  wp-image-330" title="Screen Shot 2012-10-23 at 4.58.37 AM" src="/wp-content/uploads/2012/10/Screen-Shot-2012-10-23-at-4.58.37-AM.png" alt="" width="337" height="486" srcset="/wp-content/uploads/2012/10/Screen-Shot-2012-10-23-at-4.58.37-AM.png 421w, /wp-content/uploads/2012/10/Screen-Shot-2012-10-23-at-4.58.37-AM-208x300.png 208w" sizes="(max-width: 337px) 100vw, 337px" /></a>Cheats:<br />
+<a title="/triforce.txt" href="/triforce.txt" target="_blank">/triforce.txt</a><br />
+<a title="/ninja.txt" href="/ninja.txt" target="_blank">/ninja.txt</a></p>
+<p>Today i figured out a way to triforce on facebook, using this guide from &#8220;know your meme&#8221; as a starting-point:</p>
+<p><a title="http://knowyourmeme.com/memes/newfags-cant-triforce" href="http://knowyourmeme.com/memes/newfags-cant-triforce" target="_blank">knowyourmeme.com/memes/newfags-cant-triforce</a></p>
+<p>The method used in the article by knowyourmeme works on almost all webpages, but not in facebook comments and facebook statuses. It does however work in the facebook chat!</p>
+<ul>
+<li>Windows: [alt-255] [alt-255] [alt-30] [enter] [alt 30] [alt 255] [alt 30]</li>
+<li>Mac: [option-space] + [option-space] + [option-J] + [enter] + [option-J] + [option-space] + [option-J]</li>
+<li>Linux : [Ctrl+Shift+U + a0] [Ctrl+Shift+U + a0] [Ctrl+Shift+U + 25b2] [Enter] [Ctrl+Shift+U + 25b2] [Ctrl+Shift+U + a0] [Ctrl+Shift+U + 25b2]</li>
+</ul>
+<p>Now, the problem is that the character alt+255 alone only works in the facebook chat, and not in comments/status updates, and thus using this method will make you looks like a newfag. The solution is to find a new invisible character that has not (yet) been disabled in the facebook comments/status updates.</p>
+<p>The only character i found that worked, was the &#8220;ENQUIRY&#8221; character: <a title="http://www.fileformat.info/info/unicode/char/0005/index.htm" href="http://www.fileformat.info/info/unicode/char/0005/index.htm" target="_blank">http://www.fileformat.info/info/unicode/char/0005/index.htm</a></p>
+<p>With this character, you can make a triforce by adding it in front of the two alt+255 characters, like so:</p>
+<p>[alt+0005] [alt-255] [alt+0005] [alt-255] [alt-30] [enter] [alt 30] [alt 255] [alt 30]</p>
+<p>For the blank status update, you only need to type this: [alt+0005]</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/how-to-triforce-and-post-blank-status-updates-on-facebook/feed/</wfw:commentRss>
+			<slash:comments>20</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

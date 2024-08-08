@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>update &#8211; The Chat Codes Blog</title>
+	<atom:link href="/tag/update/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>For all that is chat related.</description>
+	<lastBuildDate>Thu, 31 Jan 2013 21:54:27 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+	<item>
+		<title>Extension update and faster installation for Google Chrome!</title>
+		<link>/extension-update-and-faster-installation-for-google-chrome/</link>
+					<comments>/extension-update-and-faster-installation-for-google-chrome/#respond</comments>
+		
+		<dc:creator><![CDATA[turbolego]]></dc:creator>
+		<pubDate>Thu, 31 Jan 2013 21:42:47 +0000</pubDate>
+				<category><![CDATA[Chat Codes]]></category>
+		<category><![CDATA[chat]]></category>
+		<category><![CDATA[chrome]]></category>
+		<category><![CDATA[code]]></category>
+		<category><![CDATA[codes]]></category>
+		<category><![CDATA[emoticons]]></category>
+		<category><![CDATA[extension]]></category>
+		<category><![CDATA[facebook]]></category>
+		<category><![CDATA[firefox]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[google chrome]]></category>
+		<category><![CDATA[greasemonkey]]></category>
+		<category><![CDATA[Mohamed Mahmoud]]></category>
+		<category><![CDATA[pictures]]></category>
+		<category><![CDATA[small]]></category>
+		<category><![CDATA[smiley]]></category>
+		<category><![CDATA[smileys]]></category>
+		<category><![CDATA[source]]></category>
+		<category><![CDATA[sourcecode]]></category>
+		<category><![CDATA[tampermonkey]]></category>
+		<category><![CDATA[turboelgo]]></category>
+		<category><![CDATA[turbolego]]></category>
+		<category><![CDATA[update]]></category>
+		<category><![CDATA[userscripts]]></category>
+		<guid isPermaLink="false">/?p=394</guid>
+
+					<description><![CDATA[Mohamed Mahmoud has made an updated version of his extension, and made a new and faster and easier installation guide for google chrome with the new Tampermonkey extension! I installed the new extension by Mohamed on google chrome in under &#8230; <a href="/extension-update-and-faster-installation-for-google-chrome/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[<p><a href="/wp-content/uploads/2013/01/Screen-Shot-2013-01-31-at-8.40.55-PM.png"><img fetchpriority="high" decoding="async" class="alignright size-full wp-image-395" alt="Screen Shot 2013-01-31 at 8.40.55 PM" src="/wp-content/uploads/2013/01/Screen-Shot-2013-01-31-at-8.40.55-PM.png" width="260" height="283" /></a>Mohamed Mahmoud has made an updated version of his extension, and made a new and faster and easier installation guide for google chrome with the new Tampermonkey extension!</p>
+<p>I installed the new extension by Mohamed on google chrome in under 1 minute with just a couple clicks!</p>
+<p>Firefox users still have to use Greasemonkey.</p>
+<p>Check out Mohamed&#8217;s blog for installation guide: <a title="http://press-share.blogspot.no/2013/01/facebook-chat-emoticons-by-mohamed.html" href="http://press-share.blogspot.no/2013/01/facebook-chat-emoticons-by-mohamed.html" target="_blank">http://press-share.blogspot.no/2013/01/facebook-chat-emoticons-by-mohamed.html</a></p>
+<p>If you already have Tampermonkey/Greasemonkey, go here to install the script: <a title="http://userscripts.org/scripts/show/140346" href="http://userscripts.org/scripts/show/140346" target="_blank">http://userscripts.org/scripts/show/140346</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/extension-update-and-faster-installation-for-google-chrome/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

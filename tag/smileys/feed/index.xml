@@ -1,0 +1,600 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>smileys &#8211; The Chat Codes Blog</title>
+	<atom:link href="/tag/smileys/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>For all that is chat related.</description>
+	<lastBuildDate>Wed, 07 Aug 2024 08:09:30 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+	<item>
+		<title>Stickers!</title>
+		<link>/stickers/</link>
+					<comments>/stickers/#comments</comments>
+		
+		<dc:creator><![CDATA[turbolego]]></dc:creator>
+		<pubDate>Tue, 07 May 2013 16:34:34 +0000</pubDate>
+				<category><![CDATA[Chat Codes]]></category>
+		<category><![CDATA[chat]]></category>
+		<category><![CDATA[chat heads]]></category>
+		<category><![CDATA[chrome]]></category>
+		<category><![CDATA[code]]></category>
+		<category><![CDATA[codes]]></category>
+		<category><![CDATA[emoticons]]></category>
+		<category><![CDATA[extension]]></category>
+		<category><![CDATA[facebook]]></category>
+		<category><![CDATA[firefox]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[google chrome]]></category>
+		<category><![CDATA[greasemonkey]]></category>
+		<category><![CDATA[ipad]]></category>
+		<category><![CDATA[iphone]]></category>
+		<category><![CDATA[ipod]]></category>
+		<category><![CDATA[Le Boss]]></category>
+		<category><![CDATA[pictures]]></category>
+		<category><![CDATA[Raymond Holthe]]></category>
+		<category><![CDATA[smiley]]></category>
+		<category><![CDATA[smileys]]></category>
+		<category><![CDATA[sticker]]></category>
+		<category><![CDATA[stickers]]></category>
+		<category><![CDATA[userscripts]]></category>
+		<category><![CDATA[Velja Janković]]></category>
+		<category><![CDATA[You Mad]]></category>
+		<category><![CDATA[youtube]]></category>
+		<guid isPermaLink="false">/?p=413</guid>
+
+					<description><![CDATA[17&#8217;th of May, Facebook released their Version 6 of the Facebook app for iphone and android. However, they did not release any methods for computer users running facebook in google chrome, firefox, opera, safari, Internet Explorer or any other browser! &#8230; <a href="/stickers/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[<p><a title="http://www.hongkiat.com/blog/facebook-app-for-iphone/" href="http://www.hongkiat.com/blog/facebook-app-for-iphone/" target="_blank" rel="noopener">17&#8217;th of May, Facebook released their Version 6 of the Facebook app for iphone and android.</a></p>
+<p>However, they did not release any methods for computer users running facebook in google chrome, firefox, opera, safari, Internet Explorer or any other browser!</p>
+<p>So, <a title="http://chatstickers.com/" href="http://chatstickers.com/" target="_blank" rel="noopener">http://chatstickers.com/</a> was made by one of our developers, and a extension was created by <a title="http://www.facebook.com/theztech" href="http://www.facebook.com/theztech" target="_blank" rel="noopener">Velja Janković</a>.</p>
+<p>Here&#8217;s how it works:</p>
+<p><iframe title="Facebook Stickers on Chrome, Firefox and other browsers!" width="640" height="360" src="https://www.youtube.com/embed/2v6sRDV-lUc?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/stickers/feed/</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Extension update and faster installation for Google Chrome!</title>
+		<link>/extension-update-and-faster-installation-for-google-chrome/</link>
+					<comments>/extension-update-and-faster-installation-for-google-chrome/#respond</comments>
+		
+		<dc:creator><![CDATA[turbolego]]></dc:creator>
+		<pubDate>Thu, 31 Jan 2013 21:42:47 +0000</pubDate>
+				<category><![CDATA[Chat Codes]]></category>
+		<category><![CDATA[chat]]></category>
+		<category><![CDATA[chrome]]></category>
+		<category><![CDATA[code]]></category>
+		<category><![CDATA[codes]]></category>
+		<category><![CDATA[emoticons]]></category>
+		<category><![CDATA[extension]]></category>
+		<category><![CDATA[facebook]]></category>
+		<category><![CDATA[firefox]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[google chrome]]></category>
+		<category><![CDATA[greasemonkey]]></category>
+		<category><![CDATA[Mohamed Mahmoud]]></category>
+		<category><![CDATA[pictures]]></category>
+		<category><![CDATA[small]]></category>
+		<category><![CDATA[smiley]]></category>
+		<category><![CDATA[smileys]]></category>
+		<category><![CDATA[source]]></category>
+		<category><![CDATA[sourcecode]]></category>
+		<category><![CDATA[tampermonkey]]></category>
+		<category><![CDATA[turboelgo]]></category>
+		<category><![CDATA[turbolego]]></category>
+		<category><![CDATA[update]]></category>
+		<category><![CDATA[userscripts]]></category>
+		<guid isPermaLink="false">/?p=394</guid>
+
+					<description><![CDATA[Mohamed Mahmoud has made an updated version of his extension, and made a new and faster and easier installation guide for google chrome with the new Tampermonkey extension! I installed the new extension by Mohamed on google chrome in under &#8230; <a href="/extension-update-and-faster-installation-for-google-chrome/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[<p><a href="/wp-content/uploads/2013/01/Screen-Shot-2013-01-31-at-8.40.55-PM.png"><img fetchpriority="high" decoding="async" class="alignright size-full wp-image-395" alt="Screen Shot 2013-01-31 at 8.40.55 PM" src="/wp-content/uploads/2013/01/Screen-Shot-2013-01-31-at-8.40.55-PM.png" width="260" height="283" /></a>Mohamed Mahmoud has made an updated version of his extension, and made a new and faster and easier installation guide for google chrome with the new Tampermonkey extension!</p>
+<p>I installed the new extension by Mohamed on google chrome in under 1 minute with just a couple clicks!</p>
+<p>Firefox users still have to use Greasemonkey.</p>
+<p>Check out Mohamed&#8217;s blog for installation guide: <a title="http://press-share.blogspot.no/2013/01/facebook-chat-emoticons-by-mohamed.html" href="http://press-share.blogspot.no/2013/01/facebook-chat-emoticons-by-mohamed.html" target="_blank">http://press-share.blogspot.no/2013/01/facebook-chat-emoticons-by-mohamed.html</a></p>
+<p>If you already have Tampermonkey/Greasemonkey, go here to install the script: <a title="http://userscripts.org/scripts/show/140346" href="http://userscripts.org/scripts/show/140346" target="_blank">http://userscripts.org/scripts/show/140346</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/extension-update-and-faster-installation-for-google-chrome/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>ChatCodes in the google plus chat!</title>
+		<link>/chatcodes-in-the-google-plus-chat/</link>
+					<comments>/chatcodes-in-the-google-plus-chat/#respond</comments>
+		
+		<dc:creator><![CDATA[turbolego]]></dc:creator>
+		<pubDate>Wed, 19 Dec 2012 01:54:46 +0000</pubDate>
+				<category><![CDATA[Chat Codes]]></category>
+		<category><![CDATA[awesome]]></category>
+		<category><![CDATA[chat]]></category>
+		<category><![CDATA[chat codes]]></category>
+		<category><![CDATA[chatcodes]]></category>
+		<category><![CDATA[chrome]]></category>
+		<category><![CDATA[code]]></category>
+		<category><![CDATA[codes]]></category>
+		<category><![CDATA[facebook]]></category>
+		<category><![CDATA[firefox]]></category>
+		<category><![CDATA[g+]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[google chrome]]></category>
+		<category><![CDATA[google plus]]></category>
+		<category><![CDATA[googleplus]]></category>
+		<category><![CDATA[meme]]></category>
+		<category><![CDATA[plus]]></category>
+		<category><![CDATA[pluss]]></category>
+		<category><![CDATA[small]]></category>
+		<category><![CDATA[smiley]]></category>
+		<category><![CDATA[smileys]]></category>
+		<category><![CDATA[turboelgo]]></category>
+		<category><![CDATA[turbolego]]></category>
+		<guid isPermaLink="false">/?p=367</guid>
+
+					<description><![CDATA[Alright, so this is my first attempt to get chatcodes to work in the google plus chat, and i think i&#8217;m on to something! First off, i checked the dimentions of the chat-window, since i don&#8217;t want to make gigantic &#8230; <a href="/chatcodes-in-the-google-plus-chat/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[<p>Alright, so this is my first attempt to get chatcodes to work in the google plus chat, and i think i&#8217;m on to something!</p>
+<p>First off, i checked the dimentions of the chat-window, since i don&#8217;t want to make gigantic chatcodes where the user(s) have to expand the window to see the code.</p>
+<p><a href="/chatcodes-in-the-google-plus-chat/screen-shot-2012-12-19-at-12-38-06-am/" rel="attachment wp-att-368"><img decoding="async" class="alignright size-medium wp-image-368" alt="Screen Shot 2012-12-19 at 12.38.06 AM" src="/wp-content/uploads/2012/12/Screen-Shot-2012-12-19-at-12.38.06-AM-170x300.png" width="170" height="300" srcset="/wp-content/uploads/2012/12/Screen-Shot-2012-12-19-at-12.38.06-AM-170x300.png 170w, /wp-content/uploads/2012/12/Screen-Shot-2012-12-19-at-12.38.06-AM.png 179w" sizes="(max-width: 170px) 100vw, 170px" /></a>These are the max-dimentions i found:</p>
+<p>Width:</p>
+<p>,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 38 commas<br />
+_____________________ 21 underscores<br />
+00000000000000000000 22 numbers<br />
+aaaaaaaaaaaaaaaaaaaa 22 letters (lower-case)<br />
+BBBBBBBBBBBBBBBB 17 letters (Upper-case)</p>
+<p>Height:</p>
+<p>10 letters/symbols/numbers (anything)</p>
+<p><a href="/chatcodes-in-the-google-plus-chat/screen-shot-2012-12-19-at-2-04-33-am/" rel="attachment wp-att-369"><img loading="lazy" decoding="async" class="alignright size-medium wp-image-369" alt="Screen Shot 2012-12-19 at 2.04.33 AM" src="/wp-content/uploads/2012/12/Screen-Shot-2012-12-19-at-2.04.33-AM-300x159.png" width="300" height="159" srcset="/wp-content/uploads/2012/12/Screen-Shot-2012-12-19-at-2.04.33-AM-300x159.png 300w, /wp-content/uploads/2012/12/Screen-Shot-2012-12-19-at-2.04.33-AM.png 442w" sizes="(max-width: 300px) 100vw, 300px" /></a>If you post a new message to someone, the default size is f.ex. 17 upper-case letters in width and 10 letters in height, so this was my target size. Then, i looked for some ascii-art generators, and found this one: <a title="http://www.degraeve.com/img2txt.php" href="http://www.degraeve.com/img2txt.php" target="_blank">http://www.degraeve.com/img2txt.php</a></p>
+<p>&nbsp;</p>
+<p><a href="/chatcodes-in-the-google-plus-chat/screen-shot-2012-12-19-at-2-22-33-am-2/" rel="attachment wp-att-371"><img loading="lazy" decoding="async" class="alignright size-medium wp-image-371" alt="Screen Shot 2012-12-19 at 2.22.33 AM" src="/wp-content/uploads/2012/12/Screen-Shot-2012-12-19-at-2.22.33-AM1-300x246.png" width="300" height="246" srcset="/wp-content/uploads/2012/12/Screen-Shot-2012-12-19-at-2.22.33-AM1-300x246.png 300w, /wp-content/uploads/2012/12/Screen-Shot-2012-12-19-at-2.22.33-AM1.png 542w" sizes="(max-width: 300px) 100vw, 300px" /></a>Using one letter and color-html, i was able to make a ascii-art version of the &#8220;awesome smiley&#8221; picture. Then, i checked out what kind of formatting the google plus chat could provide, and found that if you typed:</p>
+<p>*something here* = <strong>something here</strong></p>
+<p>_something here_ =<em> something here</em></p>
+<p>-something here- = <del>something here</del></p>
+<p><a href="/chatcodes-in-the-google-plus-chat/screen-shot-2012-12-19-at-2-27-00-am/" rel="attachment wp-att-372"><img loading="lazy" decoding="async" class="alignright size-medium wp-image-372" alt="Screen Shot 2012-12-19 at 2.27.00 AM" src="/wp-content/uploads/2012/12/Screen-Shot-2012-12-19-at-2.27.00-AM-300x220.png" width="300" height="220" srcset="/wp-content/uploads/2012/12/Screen-Shot-2012-12-19-at-2.27.00-AM-300x220.png 300w, /wp-content/uploads/2012/12/Screen-Shot-2012-12-19-at-2.27.00-AM.png 475w" sizes="(max-width: 300px) 100vw, 300px" /></a>So, i then went in my favorite text-editor, pasted in the colorised html code, and gave the text a light background so that i could see what i was doing. Then, i added &#8220;*&#8221;, &#8220;-&#8221; or &#8220;_&#8221; depending on the color. This is the first code i came up with:</p>
+<h6></h6>
+<h6></h6>
+<h6>-AAAAAA-*AAAAA*-AAAAAA-<br />
+-AAAA-*A*_AAAAAAA_*A*-AAAA-<br />
+-AA-*AA*_AAAAAAAAA_*AA*-AA-<br />
+-AA-*A*_AAAAAAAAAAA_*A*-AA-<br />
+-A-*AA*-A-*A*_AAAAA_-AA-*A*_AA_*A*-A-<br />
+-A-_A_-AA-*AA*_AAA_-AAA-*A*_AAA_-A-<br />
+*A*_A_-AAAA-_AAA_-AAAA-*A*_AA_*A*<br />
+*A*_A_*AAAA*_AAA_*AAAAA*_AA_*A*<br />
+*A*_AAAAAAAAAAAAAAA_*A*<br />
+*A*_A_*AAAAAAAAAAA*_AAA_*A*<br />
+*A*_AA_*AAAAAAAAAAA*_AA_*A*<br />
+-A-_AA_*AAAAAAAAAAA*_AA_-A-<br />
+-A-*A*_AA_*AAAAAAAAA*_AA_*A*-A-<br />
+-AA-*A*_A_*AAAAAAAAA*_A_*A*-AA-<br />
+-AA-*AA*_A_*AAAAAA*_AA_*AA*-AA-<br />
+-AAAA-*A*_AAAAAAA_*A*-AAAA-<br />
+-AAAAAA-*AAAAA*-AAAAAA-</h6>
+<p>This code looked like crap, so i decided to change the letter &#8220;A&#8221; to something else&#8230;</p>
+<p><img loading="lazy" decoding="async" class="alignright size-medium wp-image-375" style="line-height: 24px; font-size: 16px;" alt="Screen Shot 2012-12-19 at 2.30.55 AM" src="/wp-content/uploads/2012/12/Screen-Shot-2012-12-19-at-2.30.55-AM-174x300.png" width="174" height="300" srcset="/wp-content/uploads/2012/12/Screen-Shot-2012-12-19-at-2.30.55-AM-174x300.png 174w, /wp-content/uploads/2012/12/Screen-Shot-2012-12-19-at-2.30.55-AM.png 234w" sizes="(max-width: 174px) 100vw, 174px" /></p>
+<h6>-[][][][][][]-*[][][][][]*-[][][][][][]-<br />
+-[][][][]-*[]*_[][][][][][][]_*[]*-[][][][]-<br />
+-[][]-*[][]*_[][][][][][][][][]_*[][]*-[][]-<br />
+-[][]-*[]*_[][][][][][][][][][][]_*[]*-[][]-<br />
+-[]-*[][]*-[]-*[]*_[][][][][]_-[][]-*[]*_[][]_*[]*-[]-<br />
+-[]-_[]_-[][]-*[][]*_[][][]_-[][][]-*[]*_[][][]_-[]-<br />
+*[]*_[]_-[][][][]-_[][][]_-[][][][]-*[]*_[][]_*[]*<br />
+*[]*_[]_*[][][][]*_[][][]_*[][][][][]*_[][]_*[]*<br />
+*[]*_[][][][][][][][][][][][][][][]_*[]*<br />
+*[]*_[]_*[][][][][][][][][][][]*_[][][]_*[]*<br />
+*[]*_[][]_*[][][][][][][][][][][]*_[][]_*[]*<br />
+-[]-_[][]_*[][][][][][][][][][][]*_[][]_-[]-<br />
+-[]-*[]*_[][]_*[][][][][][][][][]*_[][]_*[]*-[]-<br />
+-[][]-*[]*_[]_*[][][][][][][][][]*_[]_*[]*-[][]-<br />
+-[][]-*[][]*_[]_*[][][][][][]*_[][]_*[][]*-[][]-<br />
+-[][][][]-*[]*_[][][][][][][]_*[]*-[][][][]-<br />
+-[][][][][][]-*[][][][][]*-[][][][][][]-</h6>
+<p>&nbsp;</p>
+<p>This is the best so far, and takes up a little less space than the upper-case letter &#8220;A&#8221; (max 17 letters wide). So i made another version, 22 letters wide:</p>
+<p><a href="/chatcodes-in-the-google-plus-chat/screen-shot-2012-12-19-at-2-36-03-am/" rel="attachment wp-att-376"><img loading="lazy" decoding="async" class="alignright size-medium wp-image-376" alt="Screen Shot 2012-12-19 at 2.36.03 AM" src="/wp-content/uploads/2012/12/Screen-Shot-2012-12-19-at-2.36.03-AM-146x300.png" width="146" height="300" srcset="/wp-content/uploads/2012/12/Screen-Shot-2012-12-19-at-2.36.03-AM-146x300.png 146w, /wp-content/uploads/2012/12/Screen-Shot-2012-12-19-at-2.36.03-AM.png 233w" sizes="(max-width: 146px) 100vw, 146px" /></a></p>
+<h6>-[][][][][][][][]-*[][][][][][]*-[][][][][][][][]-<br />
+-[][][][][]-*[][][]*_[][][][][][]_*[][][]*-[][][][][]-<br />
+-[][][][]-*[][]*_[][][][][][][][][][]_*[][]*-[][][][]-<br />
+-[][][]-*[]*_[][][][][][][][][][][][][][]_*[]*-[][][]-<br />
+-[][]-*[]*_[][][][][][][][][][][][][][][][]_*[]*-[][]-<br />
+-[]-*[][][][][]*_[][][][][][][]_*[][][]*_[][][]_*[][]*-[]-<br />
+-[]-*[]*_[]_-[][]-*[][]*_[][][][][]_*[]*-[][]-*[][]*_[][][]_*[]*-[]-<br />
+-[]-*[][]*-[][]-*[][][]*_[][][]_*[]*-[][][]-*[][][]*_[][]_*[]*-[]-<br />
+*[]*_[]_*[]*-[][][][]-*[]*_[][][]_*[]*-[][][][][]-*[]*_[][][]_*[]*<br />
+*[]*_[]_*[]*-[][][][]-*[]*_[][][]_*[]*-[][][][][]-*[]*_[][][]_*[]*<br />
+*[]*_[][][][][][][][][][][][][][][][][][][][]_*[]*<br />
+*[]*_[][][][][][][][][][][][][][][][][][][][]_*[]*<br />
+*[]*_[][]_*[][][][][][][][][][][][][][]*_[][][][]_*[]*<br />
+*[]*_[][][]_*[][][][][][][][][][][][][][]*_[][][]_*[]*<br />
+-[]-*[]*_[][]_*[][][][][][][][][][][][][][]*_[][]_*[]*-[]-<br />
+-[]-*[]*_[][]_*[][][][][][][][][][][][][]*_[][][]_*[]*-[]-<br />
+-[]-*[][]*_[][]_*[][][][][][][][][][][][]*_[][]_*[][]*-[]-<br />
+-[][]-*[]*_[][]_*[][][][][][][][][][][]*_[][][]_*[]*-[][]-<br />
+-[][][]-*[]*_[][]_*[][][][][][][][][]*_[][][]_*[]*-[][][]-<br />
+-[][][][]-*[][]*_[][]_*[][][][][]*_[][][]_*[][]*-[][][][]-<br />
+-[][][][][]-*[][][]*_[][][][][][]_*[][][]*-[][][][][]-<br />
+-[][][][][][][][]-*[][][][][][]*-[][][][][][][][]-</h6>
+<p><a href="/chatcodes-in-the-google-plus-chat/screen-shot-2012-12-19-at-2-39-33-am/" rel="attachment wp-att-377"><img loading="lazy" decoding="async" class="alignright size-medium wp-image-377" alt="Screen Shot 2012-12-19 at 2.39.33 AM" src="/wp-content/uploads/2012/12/Screen-Shot-2012-12-19-at-2.39.33-AM-300x131.png" width="300" height="131" srcset="/wp-content/uploads/2012/12/Screen-Shot-2012-12-19-at-2.39.33-AM-300x131.png 300w, /wp-content/uploads/2012/12/Screen-Shot-2012-12-19-at-2.39.33-AM.png 435w" sizes="(max-width: 300px) 100vw, 300px" /></a>This is the last attempti&#8217;ve made so far, and could be the beginning of chatcodes on google plus in 3 &#8220;colors&#8221;. After further inspection, i found that the max length of &#8220;[]&#8221; is 25. Meaning you can take any picture to <a title="http://www.degraeve.com/img2txt.php" href="http://www.degraeve.com/img2txt.php" target="_blank">http://www.degraeve.com/img2txt.php</a>, select the settings in the picture to the right, then, copy the ascii-code into a text-editor that can handle html-color (like TextEdit on mac) and add &#8220;*&#8221;, &#8220;_&#8221; or &#8220;-&#8221; around the text of different colors&#8230;</p>
+<p>This is the largest &#8220;awesome smiley&#8221; google plus chatcode i&#8217;ve made so far, have fun posting it around, and have fun making more of these!</p>
+<p>If you make a code, please post it in the ChatCodes group on google plus: <a title="http://gplus.to/ChatCodes" href="http://gplus.to/ChatCodes" target="_blank">http://gplus.to/ChatCodes</a></p>
+<h6><a href="/chatcodes-in-the-google-plus-chat/screen-shot-2012-12-19-at-2-49-45-am/" rel="attachment wp-att-378"><img loading="lazy" decoding="async" class="alignright size-medium wp-image-378" alt="Screen Shot 2012-12-19 at 2.49.45 AM" src="/wp-content/uploads/2012/12/Screen-Shot-2012-12-19-at-2.49.45-AM-126x300.png" width="126" height="300" srcset="/wp-content/uploads/2012/12/Screen-Shot-2012-12-19-at-2.49.45-AM-126x300.png 126w, /wp-content/uploads/2012/12/Screen-Shot-2012-12-19-at-2.49.45-AM.png 228w" sizes="(max-width: 126px) 100vw, 126px" /></a>-[][][][][][][][][]-*[][][][][][][]*-[][][][][][][][][]-<br />
+-[][][][][][]-*[][][]*_[][][][][][][]_*[][]*-[][][][][][][]-<br />
+-[][][][][]-*[][]*_[][][][][][][][][][][]_*[][]*-[][][][][]-<br />
+-[][][][]-*[]*_[][][][][][][][][][][][][][][]_*[]*-[][][][]-<br />
+-[][][]-*[]*_[][][][][][][][][][][][][][][][][]_*[]*-[][][]-<br />
+-[][]-*[]*_[][][][][][][][][][][][][][][][][][][]_*[]*-[][]-<br />
+-[]-*[][][][]*-[]-*[][]*_[][][][][][]_*[][]*-[]-*[][]*_[][][]_*[]*-[][]-<br />
+-[]-*[]*_[]_*[]*-[][]-*[][]*_[][][][][]_*[]*-[][][]-*[][][]*_[][][]_*[]*-[]-<br />
+-[]-*[][]*-[][][]-*[][][]*_[][][][]_*[]*-[][][]-*[][][]*_[][][]_*[]*-[]-<br />
+*[]*_[]_*[]*-[][][][][]-*[]*_[][][][]_-[][][][][][]-*[]*_[][][][]_*[]*<br />
+*[]*_[]_*[]*-[][][][][]-*[]*_[][][][]_-[][][][][][]-*[]*_[][][][]_*[]*<br />
+*[]*_[][]_*[][][][][][]*_[][][][]_*[][][][][][][]*_[][][][]_*[]*<br />
+*[]*_[][][][][][][][][][][][][][][][][][][][][][][]_*[]*<br />
+*[]*_[][][][][][][][][][][][][][][][][][][][][][][]_*[]*<br />
+*[]*_[][][]_*[][][][][][][][][][][][][][][][]*_[][][][]_*[]*<br />
+*[]*_[][][]_*[][][][][][][][][][][][][][][][]*_[][][]_*[][]*<br />
+-[]-*[]*_[][]_*[][][][][][][][][][][][][][][][]*_[][][]_*[]*-[]-<br />
+-[]-*[]*_[][][]_*[][][][][][][][][][][][][][][]*_[][][]_*[]*-[]-<br />
+-[][]-*[]*_[][]_*[][][][][][][][][][][][][][]*_[][][]_*[]*-[][]-<br />
+-[][]-*[]*_[][][]_*[][][][][][][][][][][][][]*_[][]_*[][]*-[][]-<br />
+-[][][]-*[]*_[][][]_*[][][][][][][][][][][]*_[][][]_*[]*-[][][]-<br />
+-[][][][]-*[]*_[][][]_*[][][][][][][][][]*_[][]_*[][]*-[][][][]-<br />
+-[][][][][]-*[][]*_[][][]_*[][][][]*_[][][][]_*[][]*-[][][][][]-<br />
+-[][][][][][][]-*[][]*_[][][][][][]_*[][][]*-[][][][][][][]-<br />
+-[][][][][][][][][]-*[][][][][][][]*-[][][][][][][][][]-</h6>
+<h6></h6>
+<h6></h6>
+]]></content:encoded>
+					
+					<wfw:commentRss>/chatcodes-in-the-google-plus-chat/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>You thought it was only facebook who could have ChatCodes? Google+, here we come&#8230;</title>
+		<link>/you-thought-it-was-only-facebook-who-could-have-chatcodes-google-here-we-come/</link>
+					<comments>/you-thought-it-was-only-facebook-who-could-have-chatcodes-google-here-we-come/#comments</comments>
+		
+		<dc:creator><![CDATA[turbolego]]></dc:creator>
+		<pubDate>Tue, 18 Dec 2012 23:00:02 +0000</pubDate>
+				<category><![CDATA[Chat Codes]]></category>
+		<category><![CDATA[chat]]></category>
+		<category><![CDATA[chrome]]></category>
+		<category><![CDATA[codes]]></category>
+		<category><![CDATA[emoticons]]></category>
+		<category><![CDATA[extension]]></category>
+		<category><![CDATA[facebook]]></category>
+		<category><![CDATA[firefox]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[google chrome]]></category>
+		<category><![CDATA[smiley]]></category>
+		<category><![CDATA[smileys]]></category>
+		<category><![CDATA[turboelgo]]></category>
+		<category><![CDATA[turbolego]]></category>
+		<guid isPermaLink="false">/?p=358</guid>
+
+					<description><![CDATA[So, it&#8217;s been a year since i started this whole &#8220;ChatCodes&#8221; business on facebook. And i&#8217;m now checking out possibilities for chatcodes on google plus. I&#8217;ve started a open group on google plus: http://gplus.to/ChatCodes This is what i&#8217;ve found so far of chatcodes-tools &#8230; <a href="/you-thought-it-was-only-facebook-who-could-have-chatcodes-google-here-we-come/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[<p><a href="/you-thought-it-was-only-facebook-who-could-have-chatcodes-google-here-we-come/screen-shot-2012-12-18-at-11-26-53-pm/" rel="attachment wp-att-359"><img loading="lazy" decoding="async" class="alignright  wp-image-359" alt="Screen Shot 2012-12-18 at 11.26.53 PM" src="/wp-content/uploads/2012/12/Screen-Shot-2012-12-18-at-11.26.53-PM.png" width="125" height="174" /></a>So, it&#8217;s been a year since i started this whole &#8220;ChatCodes&#8221; business on facebook. And i&#8217;m now checking out possibilities for chatcodes on <a title="https://plus.google.com/" href="https://plus.google.com/" target="_blank">google plus</a>. I&#8217;ve started a open group on google plus: <a title="http://gplus.to/ChatCodes" href="http://gplus.to/ChatCodes" target="_blank">http://gplus.to/ChatCodes</a></p>
+<p>This is what i&#8217;ve found so far of chatcodes-tools for the google plus chat is the following extensions for google chrome and firefox:</p>
+<p>&nbsp;</p>
+<p><a href="/you-thought-it-was-only-facebook-who-could-have-chatcodes-google-here-we-come/1-2/" rel="attachment wp-att-361"><img loading="lazy" decoding="async" class="alignright  wp-image-361" alt="1" src="/wp-content/uploads/2012/12/1-244x300.png" width="176" height="216" srcset="/wp-content/uploads/2012/12/1-244x300.png 244w, /wp-content/uploads/2012/12/1.png 804w" sizes="(max-width: 176px) 100vw, 176px" /></a><a title="http://www.i2symbol.com/" href="http://www.i2symbol.com/" target="_blank">i2Symbol &#8211; Emoticons, Smileys, Symbols Home page</a></p>
+<p><a title="https://chrome.google.com/webstore/detail/i2symbol-emoticons-smiley/gponajbpomilcmbmfoipobkikeopjjhp" href="https://chrome.google.com/webstore/detail/i2symbol-emoticons-smiley/gponajbpomilcmbmfoipobkikeopjjhp" target="_blank">i2Symbol on the Google chrome Store</a></p>
+<p>This extension has a lot of symbols that work in the google plus chat (and a lot of other places, too, like facebook!)</p>
+<p>&nbsp;</p>
+<p><a title="https://chrome.google.com/webstore/detail/g%2B-float-chat/mfdcnompihmoabomjngipdicppdfaibm/details" href="https://chrome.google.com/webstore/detail/g%2B-float-chat/mfdcnompihmoabomjngipdicppdfaibm/details" target="_blank">G+ float chat</a></p>
+<p><img loading="lazy" decoding="async" class="alignright size-medium wp-image-362" alt="Screen Shot 2012-12-18 at 11.47.02 PM" src="/wp-content/uploads/2012/12/Screen-Shot-2012-12-18-at-11.47.02-PM-175x300.png" width="175" height="300" srcset="/wp-content/uploads/2012/12/Screen-Shot-2012-12-18-at-11.47.02-PM-175x300.png 175w, /wp-content/uploads/2012/12/Screen-Shot-2012-12-18-at-11.47.02-PM-600x1024.png 600w" sizes="(max-width: 175px) 100vw, 175px" /></p>
+<p>This extension allows you to have a bunch of G+ chat windows open wherever you want, and you can show/hide them by clicking on the small blue &#8220;g&#8221; symbol in the top right corner in google chrome. It&#8217;s like MSN all over again. <img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f61b.png" alt="😛" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>&nbsp;</p>
+<p>These two extensions are the only chatcodes-related things i&#8217;ve found so far, but i plan on investigting further to see if i can find ways to post full sized memes in the google plus chat.</p>
+<p><a title="https://plus.google.com/communities/113385369687157587737" href="https://plus.google.com/communities/113385369687157587737" target="_blank">Join the ChatCodes group on google plus to check for updates.</a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/you-thought-it-was-only-facebook-who-could-have-chatcodes-google-here-we-come/feed/</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>More updates on the latest extension!</title>
+		<link>/more-updates-on-the-latest-extension/</link>
+					<comments>/more-updates-on-the-latest-extension/#comments</comments>
+		
+		<dc:creator><![CDATA[turbolego]]></dc:creator>
+		<pubDate>Thu, 29 Nov 2012 23:10:00 +0000</pubDate>
+				<category><![CDATA[Chat Codes]]></category>
+		<category><![CDATA[bitMAN]]></category>
+		<category><![CDATA[chat]]></category>
+		<category><![CDATA[chrome]]></category>
+		<category><![CDATA[code]]></category>
+		<category><![CDATA[codes]]></category>
+		<category><![CDATA[emoticons]]></category>
+		<category><![CDATA[extension]]></category>
+		<category><![CDATA[facebook]]></category>
+		<category><![CDATA[google chrome]]></category>
+		<category><![CDATA[small]]></category>
+		<category><![CDATA[smiley]]></category>
+		<category><![CDATA[smileys]]></category>
+		<category><![CDATA[turbolego]]></category>
+		<guid isPermaLink="false">/?p=354</guid>
+
+					<description><![CDATA[The Extension for google chrome has now even more chatcodes! Memes and smileys in one single extension! Get it here: https://chrome.google.com/webstore/detail/facebook-memes/lbngkdfpleemhghepcpegikepknpebcp]]></description>
+										<content:encoded><![CDATA[<p><a href="/wp-content/uploads/2012/11/unnamed.jpg"><img loading="lazy" decoding="async" class="alignright  wp-image-355" title="unnamed" src="/wp-content/uploads/2012/11/unnamed.jpg" alt="" width="384" height="240" srcset="/wp-content/uploads/2012/11/unnamed.jpg 640w, /wp-content/uploads/2012/11/unnamed-300x187.jpg 300w" sizes="(max-width: 384px) 100vw, 384px" /></a>The Extension for google chrome has now even more chatcodes!</p>
+<p>Memes and smileys in one single extension!</p>
+<p>Get it here: <a title="https://chrome.google.com/webstore/detail/facebook-memes/lbngkdfpleemhghepcpegikepknpebcp" href="https://chrome.google.com/webstore/detail/facebook-memes/lbngkdfpleemhghepcpegikepknpebcp" target="_blank">https://chrome.google.com/webstore/detail/facebook-memes/lbngkdfpleemhghepcpegikepknpebcp</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/more-updates-on-the-latest-extension/feed/</wfw:commentRss>
+			<slash:comments>4</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Memes for Facebook: Now availbale in the Chrome Store!</title>
+		<link>/memes-for-facebook-now-availbale-in-the-chrome-store/</link>
+					<comments>/memes-for-facebook-now-availbale-in-the-chrome-store/#comments</comments>
+		
+		<dc:creator><![CDATA[turbolego]]></dc:creator>
+		<pubDate>Fri, 09 Nov 2012 13:44:34 +0000</pubDate>
+				<category><![CDATA[Chat Codes]]></category>
+		<category><![CDATA[armcomix.com]]></category>
+		<category><![CDATA[bitMAN]]></category>
+		<category><![CDATA[chat]]></category>
+		<category><![CDATA[chrome]]></category>
+		<category><![CDATA[code]]></category>
+		<category><![CDATA[codes]]></category>
+		<category><![CDATA[emoticons]]></category>
+		<category><![CDATA[extension]]></category>
+		<category><![CDATA[facebook]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[google chrome]]></category>
+		<category><![CDATA[pictures]]></category>
+		<category><![CDATA[smiley]]></category>
+		<category><![CDATA[smileys]]></category>
+		<category><![CDATA[source]]></category>
+		<category><![CDATA[sourcecode]]></category>
+		<category><![CDATA[turboelgo]]></category>
+		<category><![CDATA[turbolego]]></category>
+		<category><![CDATA[userscripts]]></category>
+		<guid isPermaLink="false">/?p=349</guid>
+
+					<description><![CDATA[Finally there&#8217;s a new extension availble, and this time it&#8217;s on google chrome store! Get it here: https://chrome.google.com/webstore/detail/facebook-memes/lbngkdfpleemhghepcpegikepknpebcp &#160; Made by the developers at http://armcomix.com/ with special thanks to bitMAN &#160;]]></description>
+										<content:encoded><![CDATA[<p><a href="/wp-content/uploads/2012/11/1.png"><img loading="lazy" decoding="async" class="alignright size-full wp-image-351" title="1" src="/wp-content/uploads/2012/11/1.png" alt="" width="258" height="284" /></a>Finally there&#8217;s a new extension availble, and this time it&#8217;s on google chrome store!</p>
+<p>Get it here:</p>
+<p><a title="https://chrome.google.com/webstore/detail/facebook-memes/lbngkdfpleemhghepcpegikepknpebcp" href="https://chrome.google.com/webstore/detail/facebook-memes/lbngkdfpleemhghepcpegikepknpebcp" target="_blank">https://chrome.google.com/webstore/detail/facebook-memes/lbngkdfpleemhghepcpegikepknpebcp</a></p>
+<p>&nbsp;</p>
+<p>Made by the developers at <a title="http://armcomix.com/" href="http://armcomix.com/" target="_blank">http://armcomix.com/</a> with special thanks to <a title="http://userscripts.org/users/bitMAN" href="http://userscripts.org/users/bitMAN" target="_blank"><em>bitMAN</em></a></p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/memes-for-facebook-now-availbale-in-the-chrome-store/feed/</wfw:commentRss>
+			<slash:comments>6</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>New Extension!</title>
+		<link>/new-extension-2/</link>
+					<comments>/new-extension-2/#comments</comments>
+		
+		<dc:creator><![CDATA[turbolego]]></dc:creator>
+		<pubDate>Thu, 01 Nov 2012 03:03:06 +0000</pubDate>
+				<category><![CDATA[Chat Codes]]></category>
+		<category><![CDATA[animated]]></category>
+		<category><![CDATA[chat]]></category>
+		<category><![CDATA[chrome]]></category>
+		<category><![CDATA[code]]></category>
+		<category><![CDATA[codes]]></category>
+		<category><![CDATA[emoticons]]></category>
+		<category><![CDATA[extension]]></category>
+		<category><![CDATA[facebook]]></category>
+		<category><![CDATA[firefox]]></category>
+		<category><![CDATA[gif]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[google chrome]]></category>
+		<category><![CDATA[greasemonkey]]></category>
+		<category><![CDATA[Le Boss]]></category>
+		<category><![CDATA[Mohamed Mahmoud]]></category>
+		<category><![CDATA[pictures]]></category>
+		<category><![CDATA[small]]></category>
+		<category><![CDATA[smiley]]></category>
+		<category><![CDATA[smileys]]></category>
+		<category><![CDATA[turbolego]]></category>
+		<category><![CDATA[userscripts]]></category>
+		<category><![CDATA[youtube]]></category>
+		<guid isPermaLink="false">/?p=339</guid>
+
+					<description><![CDATA[Mohamed Mahmoud released Facebook chat emoticons with new and big pictures v3 today! Get it here: http://userscripts.org/scripts/show/140346 For Google chrome users, download and open this file first: http://www.mediafire.com/?b6eutyx5ul85lql Or see how to install it from here : http://www.youtube.com/watch?v=WG_kM8BEIQE For Firefox users, first install &#8230; <a href="/new-extension-2/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[<p><a href="/wp-content/uploads/2012/11/521652_4872884183674_546364612_n.jpeg"><img loading="lazy" decoding="async" class="alignright size-full wp-image-340" title="521652_4872884183674_546364612_n" src="/wp-content/uploads/2012/11/521652_4872884183674_546364612_n.jpeg" alt="" width="236" height="255" /></a>Mohamed Mahmoud released Facebook chat emoticons with new and big pictures v3 today!</p>
+<p>Get it here:<br />
+<a title="http://userscripts.org/scripts/show/140346 " href="http://userscripts.org/scripts/show/140346 " target="_blank">http://userscripts.org/scripts/show/140346</a></p>
+<p>For Google chrome users, download and open this file first:</p>
+<p><a title="http://www.mediafire.com/?b6eutyx5ul85lql  " href="http://www.mediafire.com/?b6eutyx5ul85lql  " target="_blank">http://www.mediafire.com/?b6eutyx5ul85lql</a></p>
+<p>Or see how to install it from here :<br />
+<a title="http://www.youtube.com/watch?v=WG_kM8BEIQE" href="http://www.youtube.com/watch?v=WG_kM8BEIQE" target="_blank">http://www.youtube.com/watch?v=WG_kM8BEIQE</a></p>
+<p>For Firefox users, first install this add on:</p>
+<p><a title="https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/  " href="https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/  " target="_blank">https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/</a></p>
+<p>Or see how to install it from here:<br />
+<a title="http://www.youtube.com/watch?v=ARdDp0jH0wY" href="http://www.youtube.com/watch?v=ARdDp0jH0wY" target="_blank">http://www.youtube.com/watch?v=ARdDp0jH0wY</a><br />
+For animated pictures: see this note:<br />
+<a title="http://www.facebook.com/mohamed408/notes" href="http://www.facebook.com/mohamed408/notes" target="_blank">http://www.facebook.com/mohamed408/notes</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/new-extension-2/feed/</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>How to triforce and post blank status updates on facebook!</title>
+		<link>/how-to-triforce-and-post-blank-status-updates-on-facebook/</link>
+					<comments>/how-to-triforce-and-post-blank-status-updates-on-facebook/#comments</comments>
+		
+		<dc:creator><![CDATA[turbolego]]></dc:creator>
+		<pubDate>Tue, 23 Oct 2012 03:04:17 +0000</pubDate>
+				<category><![CDATA[Chat Codes]]></category>
+		<category><![CDATA[alt+0005]]></category>
+		<category><![CDATA[alt+255]]></category>
+		<category><![CDATA[chat]]></category>
+		<category><![CDATA[code]]></category>
+		<category><![CDATA[codes]]></category>
+		<category><![CDATA[facebook]]></category>
+		<category><![CDATA[firefox]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[google chrome]]></category>
+		<category><![CDATA[smiley]]></category>
+		<category><![CDATA[smileys]]></category>
+		<category><![CDATA[turboelgo]]></category>
+		<category><![CDATA[turbolego]]></category>
+		<category><![CDATA[turbolego.com/ninja.txt]]></category>
+		<category><![CDATA[turbolego.com/triforce.txt]]></category>
+		<guid isPermaLink="false">/?p=329</guid>
+
+					<description><![CDATA[Cheats: /triforce.txt /ninja.txt Today i figured out a way to triforce on facebook, using this guide from &#8220;know your meme&#8221; as a starting-point: knowyourmeme.com/memes/newfags-cant-triforce The method used in the article by knowyourmeme works on almost all webpages, but not in &#8230; <a href="/how-to-triforce-and-post-blank-status-updates-on-facebook/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[<p><iframe loading="lazy" title="How to triforce and post blank status updates on facebook" width="640" height="360" src="https://www.youtube.com/embed/xKqOrjVn98s?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+<p><a href="/wp-content/uploads/2012/10/Screen-Shot-2012-10-23-at-4.58.37-AM.png"><img loading="lazy" decoding="async" class="alignright  wp-image-330" title="Screen Shot 2012-10-23 at 4.58.37 AM" src="/wp-content/uploads/2012/10/Screen-Shot-2012-10-23-at-4.58.37-AM.png" alt="" width="337" height="486" srcset="/wp-content/uploads/2012/10/Screen-Shot-2012-10-23-at-4.58.37-AM.png 421w, /wp-content/uploads/2012/10/Screen-Shot-2012-10-23-at-4.58.37-AM-208x300.png 208w" sizes="(max-width: 337px) 100vw, 337px" /></a>Cheats:<br />
+<a title="/triforce.txt" href="/triforce.txt" target="_blank">/triforce.txt</a><br />
+<a title="/ninja.txt" href="/ninja.txt" target="_blank">/ninja.txt</a></p>
+<p>Today i figured out a way to triforce on facebook, using this guide from &#8220;know your meme&#8221; as a starting-point:</p>
+<p><a title="http://knowyourmeme.com/memes/newfags-cant-triforce" href="http://knowyourmeme.com/memes/newfags-cant-triforce" target="_blank">knowyourmeme.com/memes/newfags-cant-triforce</a></p>
+<p>The method used in the article by knowyourmeme works on almost all webpages, but not in facebook comments and facebook statuses. It does however work in the facebook chat!</p>
+<ul>
+<li>Windows: [alt-255] [alt-255] [alt-30] [enter] [alt 30] [alt 255] [alt 30]</li>
+<li>Mac: [option-space] + [option-space] + [option-J] + [enter] + [option-J] + [option-space] + [option-J]</li>
+<li>Linux : [Ctrl+Shift+U + a0] [Ctrl+Shift+U + a0] [Ctrl+Shift+U + 25b2] [Enter] [Ctrl+Shift+U + 25b2] [Ctrl+Shift+U + a0] [Ctrl+Shift+U + 25b2]</li>
+</ul>
+<p>Now, the problem is that the character alt+255 alone only works in the facebook chat, and not in comments/status updates, and thus using this method will make you looks like a newfag. The solution is to find a new invisible character that has not (yet) been disabled in the facebook comments/status updates.</p>
+<p>The only character i found that worked, was the &#8220;ENQUIRY&#8221; character: <a title="http://www.fileformat.info/info/unicode/char/0005/index.htm" href="http://www.fileformat.info/info/unicode/char/0005/index.htm" target="_blank">http://www.fileformat.info/info/unicode/char/0005/index.htm</a></p>
+<p>With this character, you can make a triforce by adding it in front of the two alt+255 characters, like so:</p>
+<p>[alt+0005] [alt-255] [alt+0005] [alt-255] [alt-30] [enter] [alt 30] [alt 255] [alt 30]</p>
+<p>For the blank status update, you only need to type this: [alt+0005]</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/how-to-triforce-and-post-blank-status-updates-on-facebook/feed/</wfw:commentRss>
+			<slash:comments>20</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Chat codes you can remember!</title>
+		<link>/chat-codes-you-can-remember/</link>
+					<comments>/chat-codes-you-can-remember/#comments</comments>
+		
+		<dc:creator><![CDATA[turbolego]]></dc:creator>
+		<pubDate>Fri, 12 Oct 2012 23:07:19 +0000</pubDate>
+				<category><![CDATA[Chat Codes]]></category>
+		<category><![CDATA[chat]]></category>
+		<category><![CDATA[chrome]]></category>
+		<category><![CDATA[code]]></category>
+		<category><![CDATA[codes]]></category>
+		<category><![CDATA[emoticons]]></category>
+		<category><![CDATA[facebook]]></category>
+		<category><![CDATA[firefox]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[google chrome]]></category>
+		<category><![CDATA[likes]]></category>
+		<category><![CDATA[nickname]]></category>
+		<category><![CDATA[page]]></category>
+		<category><![CDATA[small]]></category>
+		<category><![CDATA[smiley]]></category>
+		<category><![CDATA[smileys]]></category>
+		<category><![CDATA[turbolego]]></category>
+		<category><![CDATA[turbolego.com/L.txt]]></category>
+		<category><![CDATA[username]]></category>
+		<guid isPermaLink="false">/?p=318</guid>
+
+					<description><![CDATA[Today i started making some facebook smileys with codes that you can actually remember! Usually, the chatcodes are something long and bizarre like &#8220;[[149269741885552]]&#8221; but there&#8217;s a way to make a chatcode like &#8220;[[chatcodes]]&#8221; for small smileys! Here&#8217;s a small &#8230; <a href="/chat-codes-you-can-remember/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[<p><a href="/wp-content/uploads/2012/10/Screen-Shot-2012-10-13-at-12.41.32-AM.png"><img loading="lazy" decoding="async" class="alignright size-full wp-image-325" title="Screen Shot 2012-10-13 at 12.41.32 AM" src="/wp-content/uploads/2012/10/Screen-Shot-2012-10-13-at-12.41.32-AM.png" alt="" width="261" height="284" /></a>Today i started making some facebook smileys with codes that you can actually remember!</p>
+<p>Usually, the chatcodes are something long and bizarre like &#8220;[[149269741885552]]&#8221; but there&#8217;s a way to make a chatcode like &#8220;[[chatcodes]]&#8221; for small smileys!</p>
+<p>Here&#8217;s a small collection of some smileys with chatcodes you can remember:</p>
+<p data-jsid="message">Fuck you: [[midfing]] <img decoding="async" title="midfing" src="http://graph.facebook.com/midfing/picture" alt="[[midfing]]" /><br />
+Dislike: [[iidislyk]] <img decoding="async" title="iidislyk" src="http://graph.facebook.com/iidislyk/picture" alt="[[iidislyk]]" /><br />
+Rock sign: [[roxsign]] <img decoding="async" title="roxsign" src="http://graph.facebook.com/roxsign/picture" alt="[[roxsign]]" /></p>
+<p data-jsid="message">Peace sign: [[ipeaceu]] <img decoding="async" title="ipeaceu" src="http://graph.facebook.com/ipeaceu/picture" alt="[[ipeaceu]]" /></p>
+<p data-jsid="message">Green Grin: [[facegrin]] <img decoding="async" title="facegrin" src="http://graph.facebook.com/facegrin/picture" alt="[[facegrin]]" /></p>
+<p data-jsid="message">chatcodes: [[chatcodes]] <img decoding="async" title="chatcodes" src="http://graph.facebook.com/chatcodes/picture" alt="[[chatcodes]]" /></p>
+<p data-jsid="message">
+<p data-jsid="message">This is how this works: facebook has this rule that says you can&#8217;t have a nickname for your page unless it has 25 likes or more. My page for example: <a title="http://facebook.com/chatcodes" href="http://facebook.com/chatcodes" target="_blank">http://facebook.com/chatcodes</a> was named <a title="http://facebook.com/312080468826419" href="http://facebook.com/312080468826419" target="_blank">http://facebook.com/312080468826419</a> before i got 25 likes and could choose a nickname&#8230;</p>
+<p data-jsid="message">So, in order to make these small smileys with an easy-to-remember code, you need the following:</p>
+<p data-jsid="message">1. A page, just make one here: <a title="http://www.facebook.com/pages/create.php" href="http://www.facebook.com/pages/create.php" target="_blank">http://www.facebook.com/pages/create.php</a></p>
+<p data-jsid="message">2. A 180 x 180 pixel picture that still looks good when shrinked down to 16 x 16 pixels.</p>
+<p data-jsid="message">Example:</p>
+<p data-jsid="message">180 x 180:</p>
+<p data-jsid="message"><a href="/wp-content/uploads/2012/10/ball.png"><img loading="lazy" decoding="async" class="size-thumbnail wp-image-319 alignnone" title="ball" src="/wp-content/uploads/2012/10/ball-150x150.png" alt="" width="150" height="150" srcset="/wp-content/uploads/2012/10/ball-150x150.png 150w, /wp-content/uploads/2012/10/ball.png 297w" sizes="(max-width: 150px) 100vw, 150px" /></a></p>
+<p data-jsid="message">16 x 16:</p>
+<p data-jsid="message"><a href="/wp-content/uploads/2012/10/Screen-Shot-2012-10-13-at-12.49.17-AM.png"><img loading="lazy" decoding="async" class="size-full wp-image-321 alignnone" title="Screen Shot 2012-10-13 at 12.49.17 AM" src="/wp-content/uploads/2012/10/Screen-Shot-2012-10-13-at-12.49.17-AM.png" alt="" width="23" height="23" /></a></p>
+<p data-jsid="message">3. Upload the 180 x 180 pixel picture to your page, and use it as the page profile picture.</p>
+<p data-jsid="message"><a href="/wp-content/uploads/2012/10/Screen-Shot-2012-10-13-at-12.52.32-AM1.png"><img loading="lazy" decoding="async" class="alignnone size-full wp-image-323" title="Screen Shot 2012-10-13 at 12.52.32 AM" src="/wp-content/uploads/2012/10/Screen-Shot-2012-10-13-at-12.52.32-AM1.png" alt="" width="401" height="190" srcset="/wp-content/uploads/2012/10/Screen-Shot-2012-10-13-at-12.52.32-AM1.png 401w, /wp-content/uploads/2012/10/Screen-Shot-2012-10-13-at-12.52.32-AM1-300x142.png 300w" sizes="(max-width: 401px) 100vw, 401px" /></a></p>
+<p data-jsid="message">4. Get 25 likes.</p>
+<p data-jsid="message">5. Go to &#8220;Edit page&#8221; and then &#8220;Update info&#8221;.</p>
+<p data-jsid="message">6. Select a nickname/username:</p>
+<p data-jsid="message"><a href="/wp-content/uploads/2012/10/Screen-Shot-2012-10-13-at-12.59.08-AM.png"><img loading="lazy" decoding="async" class="alignnone size-full wp-image-324" title="Screen Shot 2012-10-13 at 12.59.08 AM" src="/wp-content/uploads/2012/10/Screen-Shot-2012-10-13-at-12.59.08-AM.png" alt="" width="535" height="144" srcset="/wp-content/uploads/2012/10/Screen-Shot-2012-10-13-at-12.59.08-AM.png 535w, /wp-content/uploads/2012/10/Screen-Shot-2012-10-13-at-12.59.08-AM-300x80.png 300w" sizes="(max-width: 535px) 100vw, 535px" /></a></p>
+<p data-jsid="message">Once you have found a available nickname/username, your page will be named like this: http://facebook.com/the username you selected</p>
+<p>Now you can take your username, and put it in brackets like this: [[the username you selected]] and post it in the chat.</p>
+<p data-jsid="message"><a href="/wp-content/uploads/2012/10/Screen-Shot-2012-10-13-at-1.05.07-AM.png"><img loading="lazy" decoding="async" class="alignnone size-full wp-image-326" title="Screen Shot 2012-10-13 at 1.05.07 AM" src="/wp-content/uploads/2012/10/Screen-Shot-2012-10-13-at-1.05.07-AM.png" alt="" width="260" height="112" /></a></p>
+<p data-jsid="message">Have fun! :3</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/chat-codes-you-can-remember/feed/</wfw:commentRss>
+			<slash:comments>10</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>New extension, with Emojis!</title>
+		<link>/new-extension-with-emojis/</link>
+					<comments>/new-extension-with-emojis/#comments</comments>
+		
+		<dc:creator><![CDATA[turbolego]]></dc:creator>
+		<pubDate>Wed, 12 Sep 2012 13:01:49 +0000</pubDate>
+				<category><![CDATA[Chat Codes]]></category>
+		<category><![CDATA[chat]]></category>
+		<category><![CDATA[chrome]]></category>
+		<category><![CDATA[code]]></category>
+		<category><![CDATA[codes]]></category>
+		<category><![CDATA[Emoji]]></category>
+		<category><![CDATA[Emojis]]></category>
+		<category><![CDATA[emoticons]]></category>
+		<category><![CDATA[extension]]></category>
+		<category><![CDATA[facebook]]></category>
+		<category><![CDATA[firefox]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[google chrome]]></category>
+		<category><![CDATA[greasemonkey]]></category>
+		<category><![CDATA[pictures]]></category>
+		<category><![CDATA[smiley]]></category>
+		<category><![CDATA[smileys]]></category>
+		<category><![CDATA[Taher Sellami]]></category>
+		<category><![CDATA[userscripts]]></category>
+		<guid isPermaLink="false">/?p=312</guid>
+
+					<description><![CDATA[Taher Sellami has done it again! This time, he has made a extension with 96 Emojis! Get it here: userscripts.org/scripts/show/145630]]></description>
+										<content:encoded><![CDATA[<p><a href="/wp-content/uploads/2012/09/Screen-Shot-2012-09-12-at-2.53.39-PM.png"><img loading="lazy" decoding="async" class="alignright size-full wp-image-313" title="Screen Shot 2012-09-12 at 2.53.39 PM" src="/wp-content/uploads/2012/09/Screen-Shot-2012-09-12-at-2.53.39-PM.png" alt="" width="262" height="284" /></a><a href="http://www.facebook.com/tunisien7">Taher Sellami</a> has done it again!</p>
+<p>This time, he has made a extension with 96 Emojis!</p>
+<p>Get it here:</p>
+<p><a title="http://userscripts.org/scripts/show/145630" href="http://userscripts.org/scripts/show/145630" target="_blank">userscripts.org/scripts/show/145630</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/new-extension-with-emojis/feed/</wfw:commentRss>
+			<slash:comments>4</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

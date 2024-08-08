@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: New extension, with Emojis!	</title>
+	<atom:link href="/new-extension-with-emojis/feed/" rel="self" type="application/rss+xml" />
+	<link>/new-extension-with-emojis/</link>
+	<description>For all that is chat related.</description>
+	<lastBuildDate>Thu, 07 Mar 2013 22:01:44 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+	<item>
+		<title>
+		By: turbolego		</title>
+		<link>/new-extension-with-emojis/#comment-4541</link>
+
+		<dc:creator><![CDATA[turbolego]]></dc:creator>
+		<pubDate>Thu, 07 Mar 2013 22:01:44 +0000</pubDate>
+		<guid isPermaLink="false">/?p=312#comment-4541</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;/new-extension-with-emojis/#comment-4330&quot;&gt;Ronald&lt;/a&gt;.
+
+http://support.google.com/chrome/bin/answer.py?hl=en&amp;answer=113907]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="/new-extension-with-emojis/#comment-4330">Ronald</a>.</p>
+<p><a href="http://support.google.com/chrome/bin/answer.py?hl=en&#038;answer=113907" rel="nofollow ugc">http://support.google.com/chrome/bin/answer.py?hl=en&#038;answer=113907</a></p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Ronald		</title>
+		<link>/new-extension-with-emojis/#comment-4330</link>
+
+		<dc:creator><![CDATA[Ronald]]></dc:creator>
+		<pubDate>Sat, 02 Mar 2013 05:09:49 +0000</pubDate>
+		<guid isPermaLink="false">/?p=312#comment-4330</guid>
+
+					<description><![CDATA[How can I delete it once I&#039;ve installed it?]]></description>
+			<content:encoded><![CDATA[<p>How can I delete it once I&#8217;ve installed it?</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Himanshi Jaswal		</title>
+		<link>/new-extension-with-emojis/#comment-3712</link>
+
+		<dc:creator><![CDATA[Himanshi Jaswal]]></dc:creator>
+		<pubDate>Tue, 12 Feb 2013 07:49:19 +0000</pubDate>
+		<guid isPermaLink="false">/?p=312#comment-3712</guid>
+
+					<description><![CDATA[really nicee..]]></description>
+			<content:encoded><![CDATA[<p>really nicee..</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: emjay		</title>
+		<link>/new-extension-with-emojis/#comment-800</link>
+
+		<dc:creator><![CDATA[emjay]]></dc:creator>
+		<pubDate>Tue, 30 Oct 2012 02:47:30 +0000</pubDate>
+		<guid isPermaLink="false">/?p=312#comment-800</guid>
+
+					<description><![CDATA[weak ka pa rassel]]></description>
+			<content:encoded><![CDATA[<p>weak ka pa rassel</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

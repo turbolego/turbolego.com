@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>armcomix.com &#8211; The Chat Codes Blog</title>
+	<atom:link href="/tag/armcomix-com/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>For all that is chat related.</description>
+	<lastBuildDate>Fri, 09 Nov 2012 13:44:34 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+	<item>
+		<title>Memes for Facebook: Now availbale in the Chrome Store!</title>
+		<link>/memes-for-facebook-now-availbale-in-the-chrome-store/</link>
+					<comments>/memes-for-facebook-now-availbale-in-the-chrome-store/#comments</comments>
+		
+		<dc:creator><![CDATA[turbolego]]></dc:creator>
+		<pubDate>Fri, 09 Nov 2012 13:44:34 +0000</pubDate>
+				<category><![CDATA[Chat Codes]]></category>
+		<category><![CDATA[armcomix.com]]></category>
+		<category><![CDATA[bitMAN]]></category>
+		<category><![CDATA[chat]]></category>
+		<category><![CDATA[chrome]]></category>
+		<category><![CDATA[code]]></category>
+		<category><![CDATA[codes]]></category>
+		<category><![CDATA[emoticons]]></category>
+		<category><![CDATA[extension]]></category>
+		<category><![CDATA[facebook]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[google chrome]]></category>
+		<category><![CDATA[pictures]]></category>
+		<category><![CDATA[smiley]]></category>
+		<category><![CDATA[smileys]]></category>
+		<category><![CDATA[source]]></category>
+		<category><![CDATA[sourcecode]]></category>
+		<category><![CDATA[turboelgo]]></category>
+		<category><![CDATA[turbolego]]></category>
+		<category><![CDATA[userscripts]]></category>
+		<guid isPermaLink="false">/?p=349</guid>
+
+					<description><![CDATA[Finally there&#8217;s a new extension availble, and this time it&#8217;s on google chrome store! Get it here: https://chrome.google.com/webstore/detail/facebook-memes/lbngkdfpleemhghepcpegikepknpebcp &#160; Made by the developers at http://armcomix.com/ with special thanks to bitMAN &#160;]]></description>
+										<content:encoded><![CDATA[<p><a href="/wp-content/uploads/2012/11/1.png"><img fetchpriority="high" decoding="async" class="alignright size-full wp-image-351" title="1" src="/wp-content/uploads/2012/11/1.png" alt="" width="258" height="284" /></a>Finally there&#8217;s a new extension availble, and this time it&#8217;s on google chrome store!</p>
+<p>Get it here:</p>
+<p><a title="https://chrome.google.com/webstore/detail/facebook-memes/lbngkdfpleemhghepcpegikepknpebcp" href="https://chrome.google.com/webstore/detail/facebook-memes/lbngkdfpleemhghepcpegikepknpebcp" target="_blank">https://chrome.google.com/webstore/detail/facebook-memes/lbngkdfpleemhghepcpegikepknpebcp</a></p>
+<p>&nbsp;</p>
+<p>Made by the developers at <a title="http://armcomix.com/" href="http://armcomix.com/" target="_blank">http://armcomix.com/</a> with special thanks to <a title="http://userscripts.org/users/bitMAN" href="http://userscripts.org/users/bitMAN" target="_blank"><em>bitMAN</em></a></p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/memes-for-facebook-now-availbale-in-the-chrome-store/feed/</wfw:commentRss>
+			<slash:comments>6</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

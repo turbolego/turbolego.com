@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: ASCII art: chat-code for comments.	</title>
+	<atom:link href="/ascii-art-chat-code-for-comments/feed/" rel="self" type="application/rss+xml" />
+	<link>/ascii-art-chat-code-for-comments/</link>
+	<description>For all that is chat related.</description>
+	<lastBuildDate>Wed, 10 Feb 2016 01:53:30 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+	<item>
+		<title>
+		By: example my ass 2		</title>
+		<link>/ascii-art-chat-code-for-comments/#comment-16644</link>
+
+		<dc:creator><![CDATA[example my ass 2]]></dc:creator>
+		<pubDate>Wed, 10 Feb 2016 01:53:30 +0000</pubDate>
+		<guid isPermaLink="false">/?p=110#comment-16644</guid>
+
+					<description><![CDATA[How can I search blog posts from during the olympics?]]></description>
+			<content:encoded><![CDATA[<p>How can I search blog posts from during the olympics?</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: BAHRAM		</title>
+		<link>/ascii-art-chat-code-for-comments/#comment-11</link>
+
+		<dc:creator><![CDATA[BAHRAM]]></dc:creator>
+		<pubDate>Tue, 20 Mar 2012 23:35:38 +0000</pubDate>
+		<guid isPermaLink="false">/?p=110#comment-11</guid>
+
+					<description><![CDATA[LIKEE]]></description>
+			<content:encoded><![CDATA[<p>LIKEE</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: sebastian		</title>
+		<link>/ascii-art-chat-code-for-comments/#comment-5</link>
+
+		<dc:creator><![CDATA[sebastian]]></dc:creator>
+		<pubDate>Tue, 13 Mar 2012 14:46:29 +0000</pubDate>
+		<guid isPermaLink="false">/?p=110#comment-5</guid>
+
+					<description><![CDATA[buena pagina]]></description>
+			<content:encoded><![CDATA[<p>buena pagina</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

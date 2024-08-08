@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Extension update!	</title>
+	<atom:link href="/extension-update/feed/" rel="self" type="application/rss+xml" />
+	<link>/extension-update/</link>
+	<description>For all that is chat related.</description>
+	<lastBuildDate>Sat, 30 Jun 2012 01:57:22 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+	<item>
+		<title>
+		By: Rodrigo Marcos		</title>
+		<link>/extension-update/#comment-244</link>
+
+		<dc:creator><![CDATA[Rodrigo Marcos]]></dc:creator>
+		<pubDate>Sat, 30 Jun 2012 01:57:22 +0000</pubDate>
+		<guid isPermaLink="false">/?p=203#comment-244</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;/extension-update/#comment-63&quot;&gt;turbolego&lt;/a&gt;.
+
+Hey! I had this problem and I solved it.
+I&#039;m using a chrome extension for facebook called: FB Photo Zoom.
+I tried using the meme chat, but when I clicked, only a white space would appear.
+Resolution:
+1- I disabled the FB Photo Zoom.
+2- Closed the chat window I had open.
+3- Reopened the closed chat window.
+4- Meme all the way you want it! ;)]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="/extension-update/#comment-63">turbolego</a>.</p>
+<p>Hey! I had this problem and I solved it.<br />
+I&#8217;m using a chrome extension for facebook called: FB Photo Zoom.<br />
+I tried using the meme chat, but when I clicked, only a white space would appear.<br />
+Resolution:<br />
+1- I disabled the FB Photo Zoom.<br />
+2- Closed the chat window I had open.<br />
+3- Reopened the closed chat window.<br />
+4- Meme all the way you want it! 😉</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Facebook Meme Chat Emoticons Bar v3! &#124; The Chat Codes Blog		</title>
+		<link>/extension-update/#comment-207</link>
+
+		<dc:creator><![CDATA[Facebook Meme Chat Emoticons Bar v3! &#124; The Chat Codes Blog]]></dc:creator>
+		<pubDate>Tue, 12 Jun 2012 21:41:26 +0000</pubDate>
+		<guid isPermaLink="false">/?p=203#comment-207</guid>
+
+					<description><![CDATA[[...] Today Taher Sellami released the Facebook Meme Chat Emoticons Bar v3 (using the sourcecode from the first extension by &#8220;Le Boss&#8220;) with all new pictures that fixes those who went dead or corrupt in v2! [...]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] Today Taher Sellami released the Facebook Meme Chat Emoticons Bar v3 (using the sourcecode from the first extension by &#8220;Le Boss&#8220;) with all new pictures that fixes those who went dead or corrupt in v2! [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: turbolego		</title>
+		<link>/extension-update/#comment-133</link>
+
+		<dc:creator><![CDATA[turbolego]]></dc:creator>
+		<pubDate>Sat, 26 May 2012 10:04:34 +0000</pubDate>
+		<guid isPermaLink="false">/?p=203#comment-133</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;/extension-update/#comment-132&quot;&gt;Shahar Caufman&lt;/a&gt;.
+
+The white spaces between the pieces?
+Sounds like you still have the old extension activated, that did not have the white spaces removed.
+
+Follow this guide to diable the old extension in firefox:
+http://support.mozilla.org/en-US/kb/Uninstalling%20add-ons
+
+Follow this guide to diable the old extension in google chrome:
+http://support.google.com/chrome/bin/answer.py?hl=en&amp;answer=113907]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="/extension-update/#comment-132">Shahar Caufman</a>.</p>
+<p>The white spaces between the pieces?<br />
+Sounds like you still have the old extension activated, that did not have the white spaces removed.</p>
+<p>Follow this guide to diable the old extension in firefox:<br />
+<a href="http://support.mozilla.org/en-US/kb/Uninstalling%20add-ons" rel="nofollow ugc">http://support.mozilla.org/en-US/kb/Uninstalling%20add-ons</a></p>
+<p>Follow this guide to diable the old extension in google chrome:<br />
+<a href="http://support.google.com/chrome/bin/answer.py?hl=en&#038;answer=113907" rel="nofollow ugc">http://support.google.com/chrome/bin/answer.py?hl=en&#038;answer=113907</a></p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Shahar Caufman		</title>
+		<link>/extension-update/#comment-132</link>
+
+		<dc:creator><![CDATA[Shahar Caufman]]></dc:creator>
+		<pubDate>Sat, 26 May 2012 07:45:41 +0000</pubDate>
+		<guid isPermaLink="false">/?p=203#comment-132</guid>
+
+					<description><![CDATA[Hey, this doesn&#039;t seem to work for me. I did everything you said and I am still getting the spaces :\ Would love it if you could reply :)]]></description>
+			<content:encoded><![CDATA[<p>Hey, this doesn&#8217;t seem to work for me. I did everything you said and I am still getting the spaces :\ Would love it if you could reply 🙂</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: turbolego		</title>
+		<link>/extension-update/#comment-67</link>
+
+		<dc:creator><![CDATA[turbolego]]></dc:creator>
+		<pubDate>Fri, 06 Apr 2012 11:29:13 +0000</pubDate>
+		<guid isPermaLink="false">/?p=203#comment-67</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;/extension-update/#comment-66&quot;&gt;Revo&lt;/a&gt;.
+
+I&#039;ll send that picture to the developer of smileyti.me
+
+Please report any future bugs regarding smileyti.me on their facebook-page: http://www.facebook.com/SmileyTime.ChatCodes]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="/extension-update/#comment-66">Revo</a>.</p>
+<p>I&#8217;ll send that picture to the developer of smileyti.me</p>
+<p>Please report any future bugs regarding smileyti.me on their facebook-page: <a href="http://www.facebook.com/SmileyTime.ChatCodes" rel="nofollow ugc">http://www.facebook.com/SmileyTime.ChatCodes</a></p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Revo		</title>
+		<link>/extension-update/#comment-66</link>
+
+		<dc:creator><![CDATA[Revo]]></dc:creator>
+		<pubDate>Thu, 05 Apr 2012 12:29:36 +0000</pubDate>
+		<guid isPermaLink="false">/?p=203#comment-66</guid>
+
+					<description><![CDATA[Hi.. &lt;b&gt;Smileyti.me&lt;/b&gt; has a bug the &lt;b&gt;captcha&lt;/b&gt; is not showing up please help
+Heres a Screen Shot http://i.imgur.com/99RTH.jpg]]></description>
+			<content:encoded><![CDATA[<p>Hi.. <b>Smileyti.me</b> has a bug the <b>captcha</b> is not showing up please help<br />
+Heres a Screen Shot <a href="http://i.imgur.com/99RTH.jpg" rel="nofollow ugc">http://i.imgur.com/99RTH.jpg</a></p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: turbolego		</title>
+		<link>/extension-update/#comment-65</link>
+
+		<dc:creator><![CDATA[turbolego]]></dc:creator>
+		<pubDate>Thu, 05 Apr 2012 12:12:08 +0000</pubDate>
+		<guid isPermaLink="false">/?p=203#comment-65</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;/extension-update/#comment-64&quot;&gt;turbolego&lt;/a&gt;.
+
+*my]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="/extension-update/#comment-64">turbolego</a>.</p>
+<p>*my</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: turbolego		</title>
+		<link>/extension-update/#comment-64</link>
+
+		<dc:creator><![CDATA[turbolego]]></dc:creator>
+		<pubDate>Thu, 05 Apr 2012 12:03:38 +0000</pubDate>
+		<guid isPermaLink="false">/?p=203#comment-64</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;/extension-update/#comment-62&quot;&gt;PETER&lt;/a&gt;.
+
+read by reply to daiquiri.]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="/extension-update/#comment-62">PETER</a>.</p>
+<p>read by reply to daiquiri.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: turbolego		</title>
+		<link>/extension-update/#comment-63</link>
+
+		<dc:creator><![CDATA[turbolego]]></dc:creator>
+		<pubDate>Thu, 05 Apr 2012 12:02:54 +0000</pubDate>
+		<guid isPermaLink="false">/?p=203#comment-63</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;/extension-update/#comment-61&quot;&gt;daiquiri&lt;/a&gt;.
+
+try restarting the browser, or close all chat windows and do a &quot;F5-button-refresh&quot;.]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="/extension-update/#comment-61">daiquiri</a>.</p>
+<p>try restarting the browser, or close all chat windows and do a &#8220;F5-button-refresh&#8221;.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: PETER		</title>
+		<link>/extension-update/#comment-62</link>
+
+		<dc:creator><![CDATA[PETER]]></dc:creator>
+		<pubDate>Thu, 05 Apr 2012 11:48:43 +0000</pubDate>
+		<guid isPermaLink="false">/?p=203#comment-62</guid>
+
+					<description><![CDATA[not working, only adding space when clicking the icons]]></description>
+			<content:encoded><![CDATA[<p>not working, only adding space when clicking the icons</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

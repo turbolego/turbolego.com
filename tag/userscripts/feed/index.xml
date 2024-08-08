@@ -1,0 +1,450 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>userscripts &#8211; The Chat Codes Blog</title>
+	<atom:link href="/tag/userscripts/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>For all that is chat related.</description>
+	<lastBuildDate>Wed, 07 Aug 2024 08:09:30 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+	<item>
+		<title>Stickers!</title>
+		<link>/stickers/</link>
+					<comments>/stickers/#comments</comments>
+		
+		<dc:creator><![CDATA[turbolego]]></dc:creator>
+		<pubDate>Tue, 07 May 2013 16:34:34 +0000</pubDate>
+				<category><![CDATA[Chat Codes]]></category>
+		<category><![CDATA[chat]]></category>
+		<category><![CDATA[chat heads]]></category>
+		<category><![CDATA[chrome]]></category>
+		<category><![CDATA[code]]></category>
+		<category><![CDATA[codes]]></category>
+		<category><![CDATA[emoticons]]></category>
+		<category><![CDATA[extension]]></category>
+		<category><![CDATA[facebook]]></category>
+		<category><![CDATA[firefox]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[google chrome]]></category>
+		<category><![CDATA[greasemonkey]]></category>
+		<category><![CDATA[ipad]]></category>
+		<category><![CDATA[iphone]]></category>
+		<category><![CDATA[ipod]]></category>
+		<category><![CDATA[Le Boss]]></category>
+		<category><![CDATA[pictures]]></category>
+		<category><![CDATA[Raymond Holthe]]></category>
+		<category><![CDATA[smiley]]></category>
+		<category><![CDATA[smileys]]></category>
+		<category><![CDATA[sticker]]></category>
+		<category><![CDATA[stickers]]></category>
+		<category><![CDATA[userscripts]]></category>
+		<category><![CDATA[Velja Janković]]></category>
+		<category><![CDATA[You Mad]]></category>
+		<category><![CDATA[youtube]]></category>
+		<guid isPermaLink="false">/?p=413</guid>
+
+					<description><![CDATA[17&#8217;th of May, Facebook released their Version 6 of the Facebook app for iphone and android. However, they did not release any methods for computer users running facebook in google chrome, firefox, opera, safari, Internet Explorer or any other browser! &#8230; <a href="/stickers/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[<p><a title="http://www.hongkiat.com/blog/facebook-app-for-iphone/" href="http://www.hongkiat.com/blog/facebook-app-for-iphone/" target="_blank" rel="noopener">17&#8217;th of May, Facebook released their Version 6 of the Facebook app for iphone and android.</a></p>
+<p>However, they did not release any methods for computer users running facebook in google chrome, firefox, opera, safari, Internet Explorer or any other browser!</p>
+<p>So, <a title="http://chatstickers.com/" href="http://chatstickers.com/" target="_blank" rel="noopener">http://chatstickers.com/</a> was made by one of our developers, and a extension was created by <a title="http://www.facebook.com/theztech" href="http://www.facebook.com/theztech" target="_blank" rel="noopener">Velja Janković</a>.</p>
+<p>Here&#8217;s how it works:</p>
+<p><iframe title="Facebook Stickers on Chrome, Firefox and other browsers!" width="640" height="360" src="https://www.youtube.com/embed/2v6sRDV-lUc?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/stickers/feed/</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Extension update and faster installation for Google Chrome!</title>
+		<link>/extension-update-and-faster-installation-for-google-chrome/</link>
+					<comments>/extension-update-and-faster-installation-for-google-chrome/#respond</comments>
+		
+		<dc:creator><![CDATA[turbolego]]></dc:creator>
+		<pubDate>Thu, 31 Jan 2013 21:42:47 +0000</pubDate>
+				<category><![CDATA[Chat Codes]]></category>
+		<category><![CDATA[chat]]></category>
+		<category><![CDATA[chrome]]></category>
+		<category><![CDATA[code]]></category>
+		<category><![CDATA[codes]]></category>
+		<category><![CDATA[emoticons]]></category>
+		<category><![CDATA[extension]]></category>
+		<category><![CDATA[facebook]]></category>
+		<category><![CDATA[firefox]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[google chrome]]></category>
+		<category><![CDATA[greasemonkey]]></category>
+		<category><![CDATA[Mohamed Mahmoud]]></category>
+		<category><![CDATA[pictures]]></category>
+		<category><![CDATA[small]]></category>
+		<category><![CDATA[smiley]]></category>
+		<category><![CDATA[smileys]]></category>
+		<category><![CDATA[source]]></category>
+		<category><![CDATA[sourcecode]]></category>
+		<category><![CDATA[tampermonkey]]></category>
+		<category><![CDATA[turboelgo]]></category>
+		<category><![CDATA[turbolego]]></category>
+		<category><![CDATA[update]]></category>
+		<category><![CDATA[userscripts]]></category>
+		<guid isPermaLink="false">/?p=394</guid>
+
+					<description><![CDATA[Mohamed Mahmoud has made an updated version of his extension, and made a new and faster and easier installation guide for google chrome with the new Tampermonkey extension! I installed the new extension by Mohamed on google chrome in under &#8230; <a href="/extension-update-and-faster-installation-for-google-chrome/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[<p><a href="/wp-content/uploads/2013/01/Screen-Shot-2013-01-31-at-8.40.55-PM.png"><img fetchpriority="high" decoding="async" class="alignright size-full wp-image-395" alt="Screen Shot 2013-01-31 at 8.40.55 PM" src="/wp-content/uploads/2013/01/Screen-Shot-2013-01-31-at-8.40.55-PM.png" width="260" height="283" /></a>Mohamed Mahmoud has made an updated version of his extension, and made a new and faster and easier installation guide for google chrome with the new Tampermonkey extension!</p>
+<p>I installed the new extension by Mohamed on google chrome in under 1 minute with just a couple clicks!</p>
+<p>Firefox users still have to use Greasemonkey.</p>
+<p>Check out Mohamed&#8217;s blog for installation guide: <a title="http://press-share.blogspot.no/2013/01/facebook-chat-emoticons-by-mohamed.html" href="http://press-share.blogspot.no/2013/01/facebook-chat-emoticons-by-mohamed.html" target="_blank">http://press-share.blogspot.no/2013/01/facebook-chat-emoticons-by-mohamed.html</a></p>
+<p>If you already have Tampermonkey/Greasemonkey, go here to install the script: <a title="http://userscripts.org/scripts/show/140346" href="http://userscripts.org/scripts/show/140346" target="_blank">http://userscripts.org/scripts/show/140346</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/extension-update-and-faster-installation-for-google-chrome/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Memes for Facebook: Now availbale in the Chrome Store!</title>
+		<link>/memes-for-facebook-now-availbale-in-the-chrome-store/</link>
+					<comments>/memes-for-facebook-now-availbale-in-the-chrome-store/#comments</comments>
+		
+		<dc:creator><![CDATA[turbolego]]></dc:creator>
+		<pubDate>Fri, 09 Nov 2012 13:44:34 +0000</pubDate>
+				<category><![CDATA[Chat Codes]]></category>
+		<category><![CDATA[armcomix.com]]></category>
+		<category><![CDATA[bitMAN]]></category>
+		<category><![CDATA[chat]]></category>
+		<category><![CDATA[chrome]]></category>
+		<category><![CDATA[code]]></category>
+		<category><![CDATA[codes]]></category>
+		<category><![CDATA[emoticons]]></category>
+		<category><![CDATA[extension]]></category>
+		<category><![CDATA[facebook]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[google chrome]]></category>
+		<category><![CDATA[pictures]]></category>
+		<category><![CDATA[smiley]]></category>
+		<category><![CDATA[smileys]]></category>
+		<category><![CDATA[source]]></category>
+		<category><![CDATA[sourcecode]]></category>
+		<category><![CDATA[turboelgo]]></category>
+		<category><![CDATA[turbolego]]></category>
+		<category><![CDATA[userscripts]]></category>
+		<guid isPermaLink="false">/?p=349</guid>
+
+					<description><![CDATA[Finally there&#8217;s a new extension availble, and this time it&#8217;s on google chrome store! Get it here: https://chrome.google.com/webstore/detail/facebook-memes/lbngkdfpleemhghepcpegikepknpebcp &#160; Made by the developers at http://armcomix.com/ with special thanks to bitMAN &#160;]]></description>
+										<content:encoded><![CDATA[<p><a href="/wp-content/uploads/2012/11/1.png"><img decoding="async" class="alignright size-full wp-image-351" title="1" src="/wp-content/uploads/2012/11/1.png" alt="" width="258" height="284" /></a>Finally there&#8217;s a new extension availble, and this time it&#8217;s on google chrome store!</p>
+<p>Get it here:</p>
+<p><a title="https://chrome.google.com/webstore/detail/facebook-memes/lbngkdfpleemhghepcpegikepknpebcp" href="https://chrome.google.com/webstore/detail/facebook-memes/lbngkdfpleemhghepcpegikepknpebcp" target="_blank">https://chrome.google.com/webstore/detail/facebook-memes/lbngkdfpleemhghepcpegikepknpebcp</a></p>
+<p>&nbsp;</p>
+<p>Made by the developers at <a title="http://armcomix.com/" href="http://armcomix.com/" target="_blank">http://armcomix.com/</a> with special thanks to <a title="http://userscripts.org/users/bitMAN" href="http://userscripts.org/users/bitMAN" target="_blank"><em>bitMAN</em></a></p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/memes-for-facebook-now-availbale-in-the-chrome-store/feed/</wfw:commentRss>
+			<slash:comments>6</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>New Extension!</title>
+		<link>/new-extension-2/</link>
+					<comments>/new-extension-2/#comments</comments>
+		
+		<dc:creator><![CDATA[turbolego]]></dc:creator>
+		<pubDate>Thu, 01 Nov 2012 03:03:06 +0000</pubDate>
+				<category><![CDATA[Chat Codes]]></category>
+		<category><![CDATA[animated]]></category>
+		<category><![CDATA[chat]]></category>
+		<category><![CDATA[chrome]]></category>
+		<category><![CDATA[code]]></category>
+		<category><![CDATA[codes]]></category>
+		<category><![CDATA[emoticons]]></category>
+		<category><![CDATA[extension]]></category>
+		<category><![CDATA[facebook]]></category>
+		<category><![CDATA[firefox]]></category>
+		<category><![CDATA[gif]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[google chrome]]></category>
+		<category><![CDATA[greasemonkey]]></category>
+		<category><![CDATA[Le Boss]]></category>
+		<category><![CDATA[Mohamed Mahmoud]]></category>
+		<category><![CDATA[pictures]]></category>
+		<category><![CDATA[small]]></category>
+		<category><![CDATA[smiley]]></category>
+		<category><![CDATA[smileys]]></category>
+		<category><![CDATA[turbolego]]></category>
+		<category><![CDATA[userscripts]]></category>
+		<category><![CDATA[youtube]]></category>
+		<guid isPermaLink="false">/?p=339</guid>
+
+					<description><![CDATA[Mohamed Mahmoud released Facebook chat emoticons with new and big pictures v3 today! Get it here: http://userscripts.org/scripts/show/140346 For Google chrome users, download and open this file first: http://www.mediafire.com/?b6eutyx5ul85lql Or see how to install it from here : http://www.youtube.com/watch?v=WG_kM8BEIQE For Firefox users, first install &#8230; <a href="/new-extension-2/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[<p><a href="/wp-content/uploads/2012/11/521652_4872884183674_546364612_n.jpeg"><img loading="lazy" decoding="async" class="alignright size-full wp-image-340" title="521652_4872884183674_546364612_n" src="/wp-content/uploads/2012/11/521652_4872884183674_546364612_n.jpeg" alt="" width="236" height="255" /></a>Mohamed Mahmoud released Facebook chat emoticons with new and big pictures v3 today!</p>
+<p>Get it here:<br />
+<a title="http://userscripts.org/scripts/show/140346 " href="http://userscripts.org/scripts/show/140346 " target="_blank">http://userscripts.org/scripts/show/140346</a></p>
+<p>For Google chrome users, download and open this file first:</p>
+<p><a title="http://www.mediafire.com/?b6eutyx5ul85lql  " href="http://www.mediafire.com/?b6eutyx5ul85lql  " target="_blank">http://www.mediafire.com/?b6eutyx5ul85lql</a></p>
+<p>Or see how to install it from here :<br />
+<a title="http://www.youtube.com/watch?v=WG_kM8BEIQE" href="http://www.youtube.com/watch?v=WG_kM8BEIQE" target="_blank">http://www.youtube.com/watch?v=WG_kM8BEIQE</a></p>
+<p>For Firefox users, first install this add on:</p>
+<p><a title="https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/  " href="https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/  " target="_blank">https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/</a></p>
+<p>Or see how to install it from here:<br />
+<a title="http://www.youtube.com/watch?v=ARdDp0jH0wY" href="http://www.youtube.com/watch?v=ARdDp0jH0wY" target="_blank">http://www.youtube.com/watch?v=ARdDp0jH0wY</a><br />
+For animated pictures: see this note:<br />
+<a title="http://www.facebook.com/mohamed408/notes" href="http://www.facebook.com/mohamed408/notes" target="_blank">http://www.facebook.com/mohamed408/notes</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/new-extension-2/feed/</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>New extension, with Emojis!</title>
+		<link>/new-extension-with-emojis/</link>
+					<comments>/new-extension-with-emojis/#comments</comments>
+		
+		<dc:creator><![CDATA[turbolego]]></dc:creator>
+		<pubDate>Wed, 12 Sep 2012 13:01:49 +0000</pubDate>
+				<category><![CDATA[Chat Codes]]></category>
+		<category><![CDATA[chat]]></category>
+		<category><![CDATA[chrome]]></category>
+		<category><![CDATA[code]]></category>
+		<category><![CDATA[codes]]></category>
+		<category><![CDATA[Emoji]]></category>
+		<category><![CDATA[Emojis]]></category>
+		<category><![CDATA[emoticons]]></category>
+		<category><![CDATA[extension]]></category>
+		<category><![CDATA[facebook]]></category>
+		<category><![CDATA[firefox]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[google chrome]]></category>
+		<category><![CDATA[greasemonkey]]></category>
+		<category><![CDATA[pictures]]></category>
+		<category><![CDATA[smiley]]></category>
+		<category><![CDATA[smileys]]></category>
+		<category><![CDATA[Taher Sellami]]></category>
+		<category><![CDATA[userscripts]]></category>
+		<guid isPermaLink="false">/?p=312</guid>
+
+					<description><![CDATA[Taher Sellami has done it again! This time, he has made a extension with 96 Emojis! Get it here: userscripts.org/scripts/show/145630]]></description>
+										<content:encoded><![CDATA[<p><a href="/wp-content/uploads/2012/09/Screen-Shot-2012-09-12-at-2.53.39-PM.png"><img loading="lazy" decoding="async" class="alignright size-full wp-image-313" title="Screen Shot 2012-09-12 at 2.53.39 PM" src="/wp-content/uploads/2012/09/Screen-Shot-2012-09-12-at-2.53.39-PM.png" alt="" width="262" height="284" /></a><a href="http://www.facebook.com/tunisien7">Taher Sellami</a> has done it again!</p>
+<p>This time, he has made a extension with 96 Emojis!</p>
+<p>Get it here:</p>
+<p><a title="http://userscripts.org/scripts/show/145630" href="http://userscripts.org/scripts/show/145630" target="_blank">userscripts.org/scripts/show/145630</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/new-extension-with-emojis/feed/</wfw:commentRss>
+			<slash:comments>4</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Extension Update!</title>
+		<link>/extension-update-3/</link>
+					<comments>/extension-update-3/#comments</comments>
+		
+		<dc:creator><![CDATA[turbolego]]></dc:creator>
+		<pubDate>Mon, 03 Sep 2012 05:33:33 +0000</pubDate>
+				<category><![CDATA[Chat Codes]]></category>
+		<category><![CDATA[animated]]></category>
+		<category><![CDATA[anonymous86]]></category>
+		<category><![CDATA[chat]]></category>
+		<category><![CDATA[chrome]]></category>
+		<category><![CDATA[code]]></category>
+		<category><![CDATA[codes]]></category>
+		<category><![CDATA[emoticons]]></category>
+		<category><![CDATA[extension]]></category>
+		<category><![CDATA[facebook]]></category>
+		<category><![CDATA[firefox]]></category>
+		<category><![CDATA[gif]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[google chrome]]></category>
+		<category><![CDATA[greasemonkey]]></category>
+		<category><![CDATA[Le Boss]]></category>
+		<category><![CDATA[Mohamed Mahmoud]]></category>
+		<category><![CDATA[small]]></category>
+		<category><![CDATA[smiley]]></category>
+		<category><![CDATA[smileys]]></category>
+		<category><![CDATA[smileyti.me]]></category>
+		<category><![CDATA[source]]></category>
+		<category><![CDATA[sourcecode]]></category>
+		<category><![CDATA[turboelgo]]></category>
+		<category><![CDATA[turbolego]]></category>
+		<category><![CDATA[userscripts]]></category>
+		<category><![CDATA[You Mad]]></category>
+		<guid isPermaLink="false">/?p=285</guid>
+
+					<description><![CDATA[Mohamed Mahmoud made a new version of the extension &#8221;Facebook chat emotions with animated picture and big emotions&#8221; ! Get it her: http://userscripts.org/scripts/show/140346 Some people have trouble installing extensions with Google Chrome, because it says &#8220;you can only install plugins/whatever &#8230; <a href="/extension-update-3/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[<p><a href="/wp-content/uploads/2012/09/251432_4497678283761_243644025_n.jpg"><img loading="lazy" decoding="async" class="alignright size-full wp-image-286" title="251432_4497678283761_243644025_n" src="/wp-content/uploads/2012/09/251432_4497678283761_243644025_n.jpg" alt="" width="255" height="256" srcset="/wp-content/uploads/2012/09/251432_4497678283761_243644025_n.jpg 255w, /wp-content/uploads/2012/09/251432_4497678283761_243644025_n-150x150.jpg 150w" sizes="(max-width: 255px) 100vw, 255px" /></a><a title="http://www.facebook.com/mohamed408" href="http://www.facebook.com/mohamed408" target="_blank">Mohamed Mahmoud</a> made a new version of the extension &#8221;Facebook chat emotions with animated picture and big emotions&#8221; !</p>
+<p>Get it her: <a title="http://userscripts.org/scripts/show/140346" href="http://userscripts.org/scripts/show/140346" target="_blank">http://userscripts.org/scripts/show/140346</a></p>
+<p>Some people have trouble installing extensions with Google Chrome, because it says &#8220;you can only install plugins/whatever from the Chrome Store&#8221;&#8230; Don&#8217;t worry tho, because it will be available soon in the &#8221;Google chrome web store&#8221; ! <img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f600.png" alt="😀" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>(stay tuned for updates)</p>
+<p>Here&#8217;s a guide on how to install it:</p>
+<p><iframe loading="lazy" src="http://www.youtube.com/embed/ARdDp0jH0wY" frameborder="0" width="420" height="315"></iframe></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/extension-update-3/feed/</wfw:commentRss>
+			<slash:comments>4</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Extension Update! (again)</title>
+		<link>/extension-update-again/</link>
+					<comments>/extension-update-again/#comments</comments>
+		
+		<dc:creator><![CDATA[turbolego]]></dc:creator>
+		<pubDate>Thu, 09 Aug 2012 23:57:00 +0000</pubDate>
+				<category><![CDATA[Chat Codes]]></category>
+		<category><![CDATA[animated]]></category>
+		<category><![CDATA[anonymous86]]></category>
+		<category><![CDATA[chat]]></category>
+		<category><![CDATA[chrome]]></category>
+		<category><![CDATA[code]]></category>
+		<category><![CDATA[codes]]></category>
+		<category><![CDATA[emoticons]]></category>
+		<category><![CDATA[facebook]]></category>
+		<category><![CDATA[firefox]]></category>
+		<category><![CDATA[gif]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[google chrome]]></category>
+		<category><![CDATA[greasemonkey]]></category>
+		<category><![CDATA[Le Boss]]></category>
+		<category><![CDATA[Mohamed Mahmoud]]></category>
+		<category><![CDATA[pictures]]></category>
+		<category><![CDATA[small]]></category>
+		<category><![CDATA[smiley]]></category>
+		<category><![CDATA[smileys]]></category>
+		<category><![CDATA[smileyti.me]]></category>
+		<category><![CDATA[source]]></category>
+		<category><![CDATA[sourcecode]]></category>
+		<category><![CDATA[taher]]></category>
+		<category><![CDATA[Taher Sellami]]></category>
+		<category><![CDATA[techez]]></category>
+		<category><![CDATA[userscripts]]></category>
+		<category><![CDATA[You Mad]]></category>
+		<category><![CDATA[youtube]]></category>
+		<guid isPermaLink="false">/?p=280</guid>
+
+					<description><![CDATA[Mohamed Mahmoud updated his extension, again! Get it here while it&#8217;s hot! 😀 http://userscripts.org/scripts/show/140346 And if you need help to install the extension, check out this guide he made for firefox and google chrome! 😉]]></description>
+										<content:encoded><![CDATA[<p><a href="/wp-content/uploads/2012/08/large.jpg"><img loading="lazy" decoding="async" class="alignright size-full wp-image-281" title="large" src="/wp-content/uploads/2012/08/large.jpg" alt="" width="263" height="288" /></a><a title="http://www.facebook.com/mohamed408" href="http://www.facebook.com/mohamed408" target="_blank">Mohamed Mahmoud</a> updated his extension, again!</p>
+<p>Get it here while it&#8217;s hot! <img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f600.png" alt="😀" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p><a title="http://userscripts.org/scripts/show/140346" href="http://userscripts.org/scripts/show/140346" target="_blank">http://userscripts.org/scripts/show/140346</a></p>
+<p>And if you need help to install the extension, check out this guide he made for firefox and google chrome! <img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f609.png" alt="😉" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p><iframe loading="lazy" width="420" height="315" src="http://www.youtube.com/embed/ARdDp0jH0wY" frameborder="0" allowfullscreen></iframe></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/extension-update-again/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Extension update!</title>
+		<link>/extension-update-2/</link>
+					<comments>/extension-update-2/#comments</comments>
+		
+		<dc:creator><![CDATA[turbolego]]></dc:creator>
+		<pubDate>Wed, 01 Aug 2012 12:35:33 +0000</pubDate>
+				<category><![CDATA[Chat Codes]]></category>
+		<category><![CDATA[animated]]></category>
+		<category><![CDATA[anonymous86]]></category>
+		<category><![CDATA[chat]]></category>
+		<category><![CDATA[chrome]]></category>
+		<category><![CDATA[code]]></category>
+		<category><![CDATA[codes]]></category>
+		<category><![CDATA[emoticons]]></category>
+		<category><![CDATA[extension]]></category>
+		<category><![CDATA[facebook]]></category>
+		<category><![CDATA[firefox]]></category>
+		<category><![CDATA[gif]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[google chrome]]></category>
+		<category><![CDATA[greasemonkey]]></category>
+		<category><![CDATA[Le Boss]]></category>
+		<category><![CDATA[Mohamed Mahmoud]]></category>
+		<category><![CDATA[pictures]]></category>
+		<category><![CDATA[small]]></category>
+		<category><![CDATA[smiley]]></category>
+		<category><![CDATA[smileys]]></category>
+		<category><![CDATA[source]]></category>
+		<category><![CDATA[sourcecode]]></category>
+		<category><![CDATA[userscripts]]></category>
+		<category><![CDATA[You Mad]]></category>
+		<guid isPermaLink="false">/?p=268</guid>
+
+					<description><![CDATA[Mohamed Mahmoud has updated his extension! Get it here:  userscripts.org/scripts/show/139478]]></description>
+										<content:encoded><![CDATA[<p><a href="/wp-content/uploads/2012/08/625627_4329892849230_1632306359_n1.jpeg"><img loading="lazy" decoding="async" class="alignright  wp-image-271" title="625627_4329892849230_1632306359_n" src="/wp-content/uploads/2012/08/625627_4329892849230_1632306359_n1.jpeg" alt="" width="295" height="162" srcset="/wp-content/uploads/2012/08/625627_4329892849230_1632306359_n1.jpeg 526w, /wp-content/uploads/2012/08/625627_4329892849230_1632306359_n1-300x165.jpeg 300w" sizes="(max-width: 295px) 100vw, 295px" /></a><a title="http://www.facebook.com/mohamed408" href="http://www.facebook.com/mohamed408" target="_blank">Mohamed Mahmoud</a> has updated his extension!</p>
+<p>Get it here: <br />
+<a title="http://userscripts.org/scripts/show/139478" href="http://userscripts.org/scripts/show/139478" target="_blank">userscripts.org/scripts/show/139478</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/extension-update-2/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>New extension&#8230; WITH ANIMATED PICTURES!</title>
+		<link>/new-extension-with-animated-pictures/</link>
+					<comments>/new-extension-with-animated-pictures/#comments</comments>
+		
+		<dc:creator><![CDATA[turbolego]]></dc:creator>
+		<pubDate>Sun, 29 Jul 2012 02:46:06 +0000</pubDate>
+				<category><![CDATA[Chat Codes]]></category>
+		<category><![CDATA[animated]]></category>
+		<category><![CDATA[anonymous86]]></category>
+		<category><![CDATA[chat]]></category>
+		<category><![CDATA[chrome]]></category>
+		<category><![CDATA[code]]></category>
+		<category><![CDATA[codes]]></category>
+		<category><![CDATA[emoticons]]></category>
+		<category><![CDATA[extension]]></category>
+		<category><![CDATA[facebook]]></category>
+		<category><![CDATA[firefox]]></category>
+		<category><![CDATA[gif]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[google chrome]]></category>
+		<category><![CDATA[greasemonkey]]></category>
+		<category><![CDATA[Le Boss]]></category>
+		<category><![CDATA[Mohamed Mahmoud]]></category>
+		<category><![CDATA[pictures]]></category>
+		<category><![CDATA[small]]></category>
+		<category><![CDATA[smiley]]></category>
+		<category><![CDATA[smileys]]></category>
+		<category><![CDATA[smileyti.me]]></category>
+		<category><![CDATA[source]]></category>
+		<category><![CDATA[sourcecode]]></category>
+		<category><![CDATA[techez]]></category>
+		<category><![CDATA[turboelgo]]></category>
+		<category><![CDATA[turbolego]]></category>
+		<category><![CDATA[turbolego.com/L.txt]]></category>
+		<category><![CDATA[userscripts]]></category>
+		<category><![CDATA[You Mad]]></category>
+		<guid isPermaLink="false">/?p=247</guid>
+
+					<description><![CDATA[Mohamed Mahmoud made a new extension using some of the source-code from the old extension by Lé Boss, and this extension by anonymous86. This extension is the first one to have ANIMATED pictures! Get it here: userscripts.org/scripts/show/139478]]></description>
+										<content:encoded><![CDATA[<p><a href="/wp-content/uploads/2012/07/Screen-Shot-2012-07-29-at-4.23.24-AM.png"><img loading="lazy" decoding="async" class="alignright size-full wp-image-248" title="Screen Shot 2012-07-29 at 4.23.24 AM" src="/wp-content/uploads/2012/07/Screen-Shot-2012-07-29-at-4.23.24-AM.png" alt="" width="259" height="283" /></a><a title="http://www.facebook.com/mohamed408" href="http://www.facebook.com/mohamed408" target="_blank">Mohamed Mahmoud</a> made a new extension using some of the source-code from <a title="http://userscripts.org/scripts/show/122827" href="http://userscripts.org/scripts/show/122827" target="_blank">the old extension</a> by <a title="http://www.facebook.com/theztech" href="http://www.facebook.com/theztech" target="_blank">Lé Boss</a>, and <a title="http://userscripts.org/scripts/show/123054" href="http://userscripts.org/scripts/show/123054" target="_blank">this extension</a> by <a href="http://userscripts.org/users/426789" rel="nofollow">anonymous86</a>.</p>
+<p>This extension is the first one to have ANIMATED pictures!</p>
+<p>Get it here: <a title="http://userscripts.org/scripts/show/139478" href="http://userscripts.org/scripts/show/139478" target="_blank">userscripts.org/scripts/show/139478</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/new-extension-with-animated-pictures/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
